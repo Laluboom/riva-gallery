@@ -1053,12 +1053,13 @@ export const GALLERY_ROOMS: GalleryRoom[] = [
         "gradientFrom": "#F6EFE2",
         "gradientTo": "#E6D9C2",
         "description": "Ask me anything, or just say hello. I’m always looking for new friends, so feel free to reach out.",
-        "longDescription": "Instagram: @therivagallery",
+        "longDescription": "Email: riva.kaneria@gmail.com\n\nInstagram: @therivagallery",
         "accentColor": "#C9A84C",
         "frameStyle": "ornate",
         "size": "medium",
-        "link": "https://www.instagram.com/therivagallery",
+        "link": "mailto:riva.kaneria@gmail.com",
         "metadata": {
+          "email": "riva.kaneria@gmail.com",
           "instagram": "@therivagallery"
         }
       }

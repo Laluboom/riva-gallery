@@ -1,6 +1,6 @@
 {
   "_comment": "Single source for details not derivable from the captured WordPress content. Both src/data/site.ts and scripts/build-rooms.mjs read this file, so setting contactEmail here and re-running `node scripts/build-rooms.mjs` updates the reading page and the 3D contact exhibit together.",
-  "contactEmail": "",
+  "contactEmail": "riva.kaneria@gmail.com",
   "instagramUrl": "https://www.instagram.com/therivagallery",
   "instagramHandle": "@therivagallery"
 }

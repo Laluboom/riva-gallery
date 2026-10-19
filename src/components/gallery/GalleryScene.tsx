@@ -5,6 +5,7 @@ import { ArtworkFrame } from './ArtworkFrame'
 import { GalleryLighting } from './GalleryLighting'
 import { CameraRig } from './CameraRig'
 import { RoomLabel } from './RoomLabel'
+import { CreditsPlaque } from './CreditsPlaque'
 import { GALLERY_ROOMS, ROOM_POSITIONS, ROOM_WIDTH, ROOM_HEIGHT, ROOM_DEPTH } from '@/data/content'
 import { useGalleryStore } from '@/lib/store'
 
@@ -131,6 +132,7 @@ export function GalleryScene() {
                 />
               )
             })}
+            {roomIdx === GALLERY_ROOMS.length - 1 && <CreditsPlaque />}
           </group>
         )
       })}

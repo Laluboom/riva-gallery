@@ -1,0 +1,293 @@
+{
+  "books": [
+    {
+      "slug": "tbosas",
+      "title": "The Ballad of Songbirds and Snakes",
+      "author": "Suzanne Collins",
+      "rating": "9/10",
+      "score": 9,
+      "review": "I watched the movie a year before reading the book, but even knowing the plot, the book still surprised me. Snow’s inner thoughts reveal just how complex and cunning he is—and what leads to his downfall. It made me wonder what I’d do in his shoes, considering his circumstances. Even knowing the ending, I was on edge the whole time. If you liked the movie, the book is definitely more intense and worth the read.",
+      "cover": {
+        "full": "/gallery/2025/06/tbosas.webp",
+        "thumb": "/gallery/2025/06/tbosas.thumb.webp",
+        "width": 923,
+        "height": 1400,
+        "aspect": 0.6593,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "kitchen",
+      "title": "Kitchen",
+      "author": "Banana Yoshimoto",
+      "rating": "10/10",
+      "score": 10,
+      "review": "This is a beautiful Japanese novel of two novellas about love, loss, and healing. It offered a fresh perspective beyond the Western books I usually read. Her simple, powerful writing captures heartbreak and resilience, with memorable quotes about accepting life’s hardships and the strength of non-family bonds. I love that the novel shows you that you should consider yourself lucky if you have someone in your life that makes saying goodbye hard. Highly recommend. Quotes: “I realized that the world did not exist for my benefit. It followed that the ratio of pleasant and unpleasant things around me would not change. It wasn’t up to me. It was clear that the best thing to do was to adopt a sort of muddled cheerfulness.” “People aren’t overcome by situations or outside forces; defeat invades from within.” “But it won’t hurt so much if you just accept it as a part of life” “It was the mystery of being close to someone who is not family.”",
+      "cover": {
+        "full": "/gallery/2025/06/kitchen.webp",
+        "thumb": "/gallery/2025/06/kitchen.thumb.webp",
+        "width": 690,
+        "height": 1000,
+        "aspect": 0.69,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "they-both-die-at-the-end",
+      "title": "They Both Die at the End",
+      "author": "Adam Silvera",
+      "rating": "10/10",
+      "score": 10,
+      "review": "The structure was a bit confusing at first but everything clicked by the end. It really hits you with the idea that you might not get another day, so you should make every moment count—not in a morbid way, just live a good story. What stuck with me most is how two strangers, knowing their time is limited, manage to build something real anyway. It makes you think about how you spend your time, and who you spend it with.",
+      "cover": {
+        "full": "/gallery/2025/06/they-both-die-at-the-end.webp",
+        "thumb": "/gallery/2025/06/they-both-die-at-the-end.thumb.webp",
+        "width": 662,
+        "height": 1000,
+        "aspect": 0.662,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "predictably-irrational",
+      "title": "Predictably Irrational",
+      "author": "Dan Ariely",
+      "rating": "5/10",
+      "score": 5,
+      "review": "The behavioral economics concepts are fascinating and insightful, but I found many of the experiments poorly designed or biased, which weakened the arguments. The book often focuses too much on experimental details rather than unpacking the implications or addressing limitations. It’s an interesting read overall, but could have been stronger with clearer explanations and more critical reflection on the research.",
+      "cover": {
+        "full": "/gallery/2025/06/predictably-irrational.webp",
+        "thumb": "/gallery/2025/06/predictably-irrational.thumb.webp",
+        "width": 182,
+        "height": 277,
+        "aspect": 0.657,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "sotr",
+      "title": "Sunrise on the Reaping",
+      "author": "Suzanne Collins",
+      "rating": "10/10",
+      "score": 10,
+      "review": "This book takes place during the 50th Hunger Games (aka the one Haymitch won) and somehow connects all the dots from the other books to make everything way worse, but in the best way possible. Everything you think you know about the Capitol is actually ten times worse. I literally read it in one sitting. I didn’t move from the couch all day and even read while eating. And I was in tears by the end.",
+      "cover": {
+        "full": "/gallery/2025/06/sotr.webp",
+        "thumb": "/gallery/2025/06/sotr.thumb.webp",
+        "width": 938,
+        "height": 1400,
+        "aspect": 0.67,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "101-essays-that-will-change-the-way-you-think-1",
+      "title": "101 Essays That Will Change the Way You Think",
+      "author": "Brianna Wiest",
+      "rating": "8/10",
+      "score": 8,
+      "review": "The title definitely holds true. The ideas aren’t brand new, but the book frames them in totally new ways. This was my second time reading it, and obviously more of it stuck, especially if you’re into the whole “harsh reality” of things (which I am sometimes). I gave it an 8/10 because it’s well-written and thought-provoking, even if I didn’t agree with everything. Favorite essay: #36 If you’re interested, I wrote more about essay #12 on my blog about the knowing-doing gap.",
+      "cover": {
+        "full": "/gallery/2025/06/101-essays-that-will-change-the-way-you-think-1.webp",
+        "thumb": "/gallery/2025/06/101-essays-that-will-change-the-way-you-think-1.thumb.webp",
+        "width": 667,
+        "height": 1000,
+        "aspect": 0.667,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "youve-reached-sam",
+      "title": "You've Reached Sam",
+      "author": "Dustin Thao",
+      "rating": "6/10",
+      "score": 6,
+      "review": "The ending with James and the last call actually made me cry, but overall I’d give it a 6. The plot was okay, focusing on Julie’s life after Sam’s death. I’m lucky not to have experienced true grief yet, so while I know it’s inevitable, I’m not sure I’m built for that kind of deep pain. Julie’s grieving felt real but didn’t dive too deep, so it didn’t fully hit me or have the same impact it might for someone going through loss. Still, it’s a sweet story for anyone dealing with grief.",
+      "cover": {
+        "full": "/gallery/2025/06/youve-reached-sam.webp",
+        "thumb": "/gallery/2025/06/youve-reached-sam.thumb.webp",
+        "width": 647,
+        "height": 1000,
+        "aspect": 0.647,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "orbiting-jupiter",
+      "title": "Orbiting Jupiter",
+      "author": "Gary D. Schmidt",
+      "rating": "7.5/10",
+      "score": 7.5,
+      "review": "The ending was bittersweet. I liked the storyline and the title was intriguing, but it could have been developed more. Joseph’s time with Jack’s family was detailed but didn’t have much impact. I wish we learned more about his time in juvie, his dad, or his journey with Madeline. The ending felt rushed, and it would have been nice to see Jupiter’s perspective later or switch between Jack’s and Madeline’s viewpoints.",
+      "cover": {
+        "full": "/gallery/2025/06/orbiting-jupiter.webp",
+        "thumb": "/gallery/2025/06/orbiting-jupiter.thumb.webp",
+        "width": 934,
+        "height": 1400,
+        "aspect": 0.6671,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "hatchet",
+      "title": "Hatchet",
+      "author": "Gary Paulsen",
+      "rating": "8/10",
+      "score": 8,
+      "review": "I reread Hatchet after eight years because it randomly came to mind. It was the first book that ever made me sob, especially when the pilot died. Although some quotes hit a bit too bluntly for my taste, I still love them. “…he learned the most important rule of survival, which was that feeling sorry for yourself didn’t work.” “You are your most valuable asset. Don’t forget that. You are the best thing you have.”",
+      "cover": {
+        "full": "/gallery/2025/06/hatchet.webp",
+        "thumb": "/gallery/2025/06/hatchet.thumb.webp",
+        "width": 184,
+        "height": 274,
+        "aspect": 0.6715,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "how-will-you-measure-your-life",
+      "title": "How Will You Measure Your Life?",
+      "author": "Clayton M. Christensen, James Allworth & Karen Dillon",
+      "rating": "10/10",
+      "score": 10,
+      "review": "",
+      "cover": {
+        "full": "/gallery/2025/06/how-will-you-measure-your-life.webp",
+        "thumb": "/gallery/2025/06/how-will-you-measure-your-life.thumb.webp",
+        "width": 938,
+        "height": 1400,
+        "aspect": 0.67,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "this-is-water",
+      "title": "This Is Water",
+      "author": "David Foster Wallace",
+      "rating": "10/10",
+      "score": 10,
+      "review": "This is a powerful reminder to notice the everyday things we usually overlook. Using the story of two fish unaware of the water around them, Wallace challenges us to step out of autopilot and choose how we see the world. I wrote more about how this speech resonated with me during a high school class (and later again in a college class) in my blog post here: (about water).",
+      "cover": {
+        "full": "/gallery/2025/06/this-is-water.webp",
+        "thumb": "/gallery/2025/06/this-is-water.thumb.webp",
+        "width": 186,
+        "height": 272,
+        "aspect": 0.6838,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "selection-series",
+      "title": "The Selection series",
+      "author": "Kiera Cass",
+      "rating": "9.5/10",
+      "score": 9.5,
+      "review": "",
+      "cover": {
+        "full": "/gallery/2025/06/selection-series.webp",
+        "thumb": "/gallery/2025/06/selection-series.thumb.webp",
+        "width": 293,
+        "height": 400,
+        "aspect": 0.7325,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "harry-potter",
+      "title": "Harry Potter series",
+      "author": "J.K. Rowling",
+      "rating": "7/10",
+      "score": 7,
+      "review": "I gave the Harry Potter series a 7 out of 10. I binge-read all the books in a week, and while I enjoyed the magical world and characters, some parts felt dragged out or overhyped. It was fun to experience but didn’t totally wow me like I expected.",
+      "cover": {
+        "full": "/gallery/2025/06/harry-potter.webp",
+        "thumb": "/gallery/2025/06/harry-potter.thumb.webp",
+        "width": 1120,
+        "height": 1400,
+        "aspect": 0.8,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "thg",
+      "title": "The Hunger Games trilogy",
+      "author": "Suzanne Collins",
+      "rating": "9/10",
+      "score": 9,
+      "review": "Beyond the action, it’s a sharp look at power, control, and survival. The Capitol’s use of media feels all too real, and Katniss’s struggle is about more than just survival, it’s about identity and resisting oppression. The story digs into trauma, morality, and inequality in a way that stuck with me long after reading.",
+      "cover": {
+        "full": "/gallery/2025/06/thg.webp",
+        "thumb": "/gallery/2025/06/thg.thumb.webp",
+        "width": 800,
+        "height": 800,
+        "aspect": 1,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "the-lights-that-find-us",
+      "title": "The Lights That Find Us",
+      "author": "Anittha Thanabalan",
+      "rating": null,
+      "score": null,
+      "review": "",
+      "cover": {
+        "full": "/gallery/2025/06/the-lights-that-find-us.webp",
+        "thumb": "/gallery/2025/06/the-lights-that-find-us.thumb.webp",
+        "width": 675,
+        "height": 1000,
+        "aspect": 0.675,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    },
+    {
+      "slug": "looking-for-alaska-1",
+      "title": "Looking for Alaska",
+      "author": "John Green",
+      "rating": "6.5/10",
+      "score": 6.5,
+      "review": "",
+      "cover": {
+        "full": "/gallery/2025/06/looking-for-alaska-1.webp",
+        "thumb": "/gallery/2025/06/looking-for-alaska-1.thumb.webp",
+        "width": 262,
+        "height": 381,
+        "aspect": 0.6877,
+        "usedBy": [
+          "page:books"
+        ]
+      }
+    }
+  ],
+  "note": "Congrats on making it to the end! I definitely read way more in middle school, but unfortunately I’ve forgotten all of it — plus, you’ve probably already read those books anyway. You know the gist. If you’ve got any recs for me though, send them my way 🙂"
+}

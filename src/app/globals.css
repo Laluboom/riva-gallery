@@ -1,0 +1,170 @@
+/* Libre Franklin is the live site's own face and carries all body and UI text.
+   Playfair Display is used only where museum register does real work:
+   plaques, room names and reading-page titles. */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Libre+Franklin:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Measured from the live therivagallery.com, not chosen. */
+  --rg-background: #fff8ee;
+  --rg-foreground: #000000;
+  --rg-primary: #501511;
+  --rg-gold: #c9a84c;
+  --rg-void: #1a1612;
+  --rg-muted: #8a7a60;
+  --rg-rule: #e2d9c6;
+
+  --font-body: 'Libre Franklin', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica,
+    sans-serif;
+  --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  min-height: 100%;
+  background-color: var(--rg-background);
+  color: var(--rg-foreground);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Only the 3D gallery locks scrolling — the reading pages must scroll. */
+body.gallery-route {
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--rg-void);
+  color: #f5edd6;
+  cursor: crosshair;
+}
+
+canvas {
+  display: block;
+  outline: none;
+}
+
+.font-serif,
+.font-display {
+  font-family: var(--font-display);
+}
+
+.modal-scroll::-webkit-scrollbar {
+  width: 4px;
+}
+.modal-scroll::-webkit-scrollbar-track {
+  background: var(--rg-background);
+}
+.modal-scroll::-webkit-scrollbar-thumb {
+  background: var(--rg-gold);
+}
+
+.no-select {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* ---------------------------------------------------------------- prose
+
+   Converted WordPress bodies. The live site runs a large 22.6px measure with a
+   generous heading jump; these pages keep that rhythm rather than defaulting to
+   a tighter editorial scale. */
+
+.prose-riva {
+  font-size: 1.125rem;
+  line-height: 1.75;
+  color: #1a1a1a;
+}
+
+.prose-riva > * + * {
+  margin-top: 1.25em;
+}
+
+.prose-riva h1,
+.prose-riva h2,
+.prose-riva h3 {
+  /* The live site sets headings in Libre Franklin 700, not a serif; the serif
+     is reserved for museum plaques and room names. */
+  font-family: var(--font-body);
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 2em;
+}
+
+.prose-riva h2 {
+  font-size: 1.875rem;
+}
+.prose-riva h3 {
+  font-size: 1.5rem;
+}
+
+.prose-riva a {
+  color: var(--rg-primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.prose-riva a:hover {
+  text-decoration: none;
+}
+
+.prose-riva img {
+  height: auto;
+  max-width: 100%;
+  display: block;
+  margin: 2rem auto;
+}
+
+.prose-riva figure {
+  margin: 2rem 0;
+}
+
+.prose-riva figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--rg-muted);
+  text-align: center;
+}
+
+.prose-riva blockquote {
+  border-left: 3px solid var(--rg-primary);
+  padding-left: 1.25rem;
+  font-style: italic;
+  color: #3a3028;
+}
+
+.prose-riva hr {
+  border: 0;
+  border-top: 1px solid var(--rg-rule);
+  margin: 3rem auto;
+  width: 6rem;
+}
+
+.prose-riva ul,
+.prose-riva ol {
+  padding-left: 1.5rem;
+}
+.prose-riva ul {
+  list-style: disc;
+}
+.prose-riva ol {
+  list-style: decimal;
+}
+
+.prose-riva iframe {
+  margin: 2rem 0;
+}
+
+/* WordPress tiled galleries and slide decks come through as list items wrapping
+   figures; the bullet is noise next to an image. */
+.prose-riva li:has(> figure),
+.prose-riva li:has(> img) {
+  list-style: none;
+}

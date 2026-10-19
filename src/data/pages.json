@@ -1,0 +1,2415 @@
+{
+  "about-me": {
+    "slug": "about-me",
+    "title": "about me",
+    "date": "2023-04-15",
+    "text": "Hi! I’m Riva. \n\nYou’ve gotten this far and now I consider us friends. It’s nice to meet you! I’ll keep this as a short, unofficial introduction for now. I’ve wanted to start a blog for the longest time, but was afraid of it not being all polished and “perfect”. After a lot of back and forth though, I finally decided to just go for it.\n\nThis site originally started as a space for my art, specifically, the kind of art that’s meant to be lived with, not just admired from afar. You’ll still find plenty of art-related posts here (because it’s a big part of me), but I’ve expanded the scope to share all the random things I find fascinating, the cool things I’ve learned, and just the thoughts that pop up in my head. It’s a mix of everything I love and care about.\n\nSo, yeah, this site is a little chaotic, but I promise I’ll keep it organized enough for you to enjoy. Thanks for stopping by, and I hope you find something that sparks your curiosity! :’)\n\nWhen I’m not busy with classes or creating something new, I’m out and about on campus or involved in projects that allow me to channel my passions into action. Every part of my life is an extension of my creativity, and I hope this site reflects that!\n\nFeel free to reach out, share your thoughts, or just say hello. I’d love to hear from you and learn what you’re passionate about, too!\n\nInstagram\n\nlogo created by my best friend",
+    "images": [
+      {
+        "full": "/gallery/2026/04/riva-art-2.webp",
+        "thumb": "/gallery/2026/04/riva-art-2.thumb.webp",
+        "width": 1004,
+        "height": 1024,
+        "aspect": 0.9805,
+        "usedBy": [
+          "page:about-me"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2026/04/riva-grad-2.webp",
+        "thumb": "/gallery/2026/04/riva-grad-2.thumb.webp",
+        "width": 933,
+        "height": 1400,
+        "aspect": 0.6664,
+        "usedBy": [
+          "page:about-me"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/cropped-riva_logo__1_-removebg-preview.webp",
+        "thumb": "/gallery/2025/03/cropped-riva_logo__1_-removebg-preview.thumb.webp",
+        "width": 512,
+        "height": 512,
+        "aspect": 1,
+        "usedBy": [
+          "page:about-me",
+          "site:branding",
+          "site:home-template"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h4>Hi! I&#8217;m Riva. </h4>\n\n<div>\n<div>\n<figure>\n<figure><img src=\"/gallery/2026/04/riva-art-2.webp\" width=\"1004\" height=\"1024\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2026/04/riva-grad-2.webp\" width=\"933\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n</figure>\n</div>\n</div>\n\n<p>You’ve gotten this far and now I consider us friends. It’s nice to meet you! I’ll keep this as a short, unofficial introduction for now. I’ve wanted to start a blog for the longest time, but was afraid of it not being all polished and “perfect”. After a lot of back and forth though, I finally decided to just go for it.</p>\n\n<p>This site originally started as a space for my art, specifically, the kind of art that’s meant to be lived with, not just admired from afar. You’ll still find plenty of art-related posts here (because it’s a big part of me), but I’ve expanded the scope to share all the random things I find fascinating, the cool things I’ve learned, and just the thoughts that pop up in my head. It&#8217;s a mix of everything I love and care about.</p>\n\n<p>So, yeah, this site is a little chaotic, but I promise I’ll keep it organized enough for you to enjoy. Thanks for stopping by, and I hope you find something that sparks your curiosity!  :&#8217;)</p>\n\n<hr />\n\n<div>\n<div>\n<p>When I’m not busy with classes or creating something new, I’m out and about on campus or involved in projects that allow me to channel my passions into action. Every part of my life is an extension of my creativity, and I hope this site reflects that!</p>\n\n<p>Feel free to reach out, share your thoughts, or just say hello. I’d love to hear from you and learn what you’re passionate about, too!</p>\n</div>\n</div>\n\n<hr />\n\n<ul><li><a href=\"https://www.instagram.com/therivagallery/\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z\"></path></svg><span>Instagram</span></a></li></ul>\n\n<figure><img src=\"/gallery/2025/03/cropped-riva_logo__1_-removebg-preview.webp\" width=\"512\" height=\"512\" alt=\"\" loading=\"lazy\" decoding=\"async\"><figcaption>logo created by my best friend</figcaption></figure>"
+  },
+  "contact": {
+    "slug": "contact",
+    "title": "contact",
+    "date": "2023-04-15",
+    "text": "contact\n\nHi! Ask me any questions or share your thoughts! I’m always also looking for new friends, so feel free to reach out through my Insta : ) \n\n\n\nInstagram",
+    "images": [],
+    "body": "<h4>contact</h4>\n\n<p>Hi! Ask me any questions or share your thoughts! I&#8217;m always also looking for new friends, so feel free to reach out through my Insta  : ) </p>\n\n<div><a href=\"http://therivagallery.com/contact/\" target=\"_blank\" rel=\"noopener noreferrer\">Submit a form.</a></div>\n\n<ul><li><a href=\"https://www.instagram.com/therivagallery/\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z\"></path></svg><span>Instagram</span></a></li></ul>"
+  },
+  "193-2": {
+    "slug": "193-2",
+    "title": "blog",
+    "date": "2023-09-29",
+    "text": "unreliable narrator\n\nsomething to believe in\n\nsoc #6\n\nmy parent’s house\n\ni’m a big fan of sweet things\n\nsoc #5: i hate camping \n\nsoc #4\n\nthe anatomy of being an absolute\n\ncan’t help falling in love\n\nrewriting a classic journey\n\na sample-sized soul\n\nbuddhism, heartbreak, etc.\n\nplace = people\n\n21 before 21\n\nsoc #3: on thinking (or lack thereof)\n\nsoc #2\n\nalcohol for thought\n\nfirst (of many) SOC post\n\nhalf of you\n\nsundays like this, someday\n\na little *in* love\n\nyou’re just human\n\nredefining ambition\n\nto: strangers i want to love\n\ni don’t think that’s true\n\nabout water\n\n“art made to be lived with”\n\nlearning the names of all 195 countries (and how it taught me about life)\n\non productivity hacks?\n\nessay #12\n\ni love experiencing heartbreak\n\nshiny object syndrome: the art of mastering nothing\n\nrebranding\n\npeacock palette\n\nfirst year’s end\n\nthe rockery\n\noverwhelmed by her\n\nearth without art is just “eh”\n\nstarting point",
+    "images": [
+      {
+        "full": "/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.webp",
+        "thumb": "/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.thumb.webp",
+        "width": 888,
+        "height": 888,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:unreliable-narrator"
+        ],
+        "alt": "unreliable narrator"
+      },
+      {
+        "full": "/gallery/2026/09/images.webp",
+        "thumb": "/gallery/2026/09/images.thumb.webp",
+        "width": 512,
+        "height": 512,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:something-to-believe-in"
+        ],
+        "alt": "something to believe in"
+      },
+      {
+        "full": "/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.webp",
+        "thumb": "/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-6"
+        ],
+        "alt": "soc #6"
+      },
+      {
+        "full": "/gallery/2026/05/detachment.webp",
+        "thumb": "/gallery/2026/05/detachment.thumb.webp",
+        "width": 640,
+        "height": 640,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:my-parents-house"
+        ],
+        "alt": "my parent’s house"
+      },
+      {
+        "full": "/gallery/2026/04/sweet-e1775446739724.webp",
+        "thumb": "/gallery/2026/04/sweet-e1775446739724.thumb.webp",
+        "width": 1000,
+        "height": 1000,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:im-a-big-fan-of-sweet-things"
+        ],
+        "alt": "i’m a big fan of sweet things"
+      },
+      {
+        "full": "/gallery/2026/04/camping-e1775445125212.webp",
+        "thumb": "/gallery/2026/04/camping-e1775445125212.thumb.webp",
+        "width": 1150,
+        "height": 1150,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-5-i-hate-camping"
+        ],
+        "alt": "soc #5: i hate camping "
+      },
+      {
+        "full": "/gallery/2026/02/freud-e1770949083936.webp",
+        "thumb": "/gallery/2026/02/freud-e1770949083936.thumb.webp",
+        "width": 910,
+        "height": 910,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-4"
+        ],
+        "alt": "soc #4"
+      },
+      {
+        "full": "/gallery/2026/02/edy-and-riva-e1770695622585.webp",
+        "thumb": "/gallery/2026/02/edy-and-riva-e1770695622585.thumb.webp",
+        "width": 900,
+        "height": 900,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:the-anatomy-of-being-an-absolute"
+        ],
+        "alt": "the anatomy of being an absolute"
+      },
+      {
+        "full": "/gallery/2026/02/image-e1770184866461.webp",
+        "thumb": "/gallery/2026/02/image-e1770184866461.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:cant-help-falling-in-love"
+        ],
+        "alt": "can’t help falling in love"
+      },
+      {
+        "full": "/gallery/2025/12/train-2-e1766154030971.webp",
+        "thumb": "/gallery/2025/12/train-2-e1766154030971.thumb.webp",
+        "width": 341,
+        "height": 341,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:rewriting-a-classic-journey"
+        ],
+        "alt": "rewriting a classic journey"
+      },
+      {
+        "full": "/gallery/2025/12/img_2182-e1765836518649.webp",
+        "thumb": "/gallery/2025/12/img_2182-e1765836518649.thumb.webp",
+        "width": 1400,
+        "height": 1400,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:a-sample-sized-soul"
+        ],
+        "alt": "a sample-sized soul"
+      },
+      {
+        "full": "/gallery/2025/10/buddha-pink-color-e1761125080380.webp",
+        "thumb": "/gallery/2025/10/buddha-pink-color-e1761125080380.thumb.webp",
+        "width": 641,
+        "height": 641,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:buddhism-heartbreak-etc"
+        ],
+        "alt": "buddhism, heartbreak, etc."
+      },
+      {
+        "full": "/gallery/2025/10/people.webp",
+        "thumb": "/gallery/2025/10/people.thumb.webp",
+        "width": 600,
+        "height": 600,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:place-people"
+        ],
+        "alt": "place = people"
+      },
+      {
+        "full": "/gallery/2025/09/birthday-e1758701543231.webp",
+        "thumb": "/gallery/2025/09/birthday-e1758701543231.thumb.webp",
+        "width": 736,
+        "height": 736,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:21-before-21"
+        ],
+        "alt": "21 before 21"
+      },
+      {
+        "full": "/gallery/2025/09/thought-e1758086074247.webp",
+        "thumb": "/gallery/2025/09/thought-e1758086074247.thumb.webp",
+        "width": 720,
+        "height": 720,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-3-on-thinking-or-lack-thereof"
+        ],
+        "alt": "soc #3: on thinking (or lack thereof)"
+      },
+      {
+        "full": "/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.webp",
+        "thumb": "/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-2"
+        ],
+        "alt": "soc #2"
+      },
+      {
+        "full": "/gallery/2025/07/img_0020-1-e1757480572238.webp",
+        "thumb": "/gallery/2025/07/img_0020-1-e1757480572238.thumb.webp",
+        "width": 1102,
+        "height": 1102,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:alcohol-for-thought"
+        ],
+        "alt": "alcohol for thought"
+      },
+      {
+        "full": "/gallery/2025/07/img_9630.webp",
+        "thumb": "/gallery/2025/07/img_9630.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:first-of-many-soc-post"
+        ],
+        "alt": "first (of many) SOC post"
+      },
+      {
+        "full": "/gallery/2025/06/rajkot-sunrise-e1750896192400.webp",
+        "thumb": "/gallery/2025/06/rajkot-sunrise-e1750896192400.thumb.webp",
+        "width": 1303,
+        "height": 1303,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:half-of-you"
+        ],
+        "alt": "half of you"
+      },
+      {
+        "full": "/gallery/2025/06/leafy-1-e1748782115954.webp",
+        "thumb": "/gallery/2025/06/leafy-1-e1748782115954.thumb.webp",
+        "width": 1400,
+        "height": 1400,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:sundays-like-this-someday"
+        ],
+        "alt": "sundays like this, someday"
+      },
+      {
+        "full": "/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.webp",
+        "thumb": "/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.thumb.webp",
+        "width": 1170,
+        "height": 1170,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:a-little-in-love"
+        ],
+        "alt": "a little *in* love"
+      },
+      {
+        "full": "/gallery/2025/05/falling-e1748567467523.webp",
+        "thumb": "/gallery/2025/05/falling-e1748567467523.thumb.webp",
+        "width": 546,
+        "height": 546,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:youre-just-human"
+        ],
+        "alt": "you’re just human"
+      },
+      {
+        "full": "/gallery/2025/03/background-1-e1748061549984.webp",
+        "thumb": "/gallery/2025/03/background-1-e1748061549984.thumb.webp",
+        "width": 459,
+        "height": 459,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:redefining-ambition"
+        ],
+        "alt": "redefining ambition"
+      },
+      {
+        "full": "/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.webp",
+        "thumb": "/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.thumb.webp",
+        "width": 450,
+        "height": 450,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:love-letters-to-strangers-i-want-to-love"
+        ],
+        "alt": "to: strangers i want to love"
+      },
+      {
+        "full": "/gallery/2025/05/cananda-e1747859723429.webp",
+        "thumb": "/gallery/2025/05/cananda-e1747859723429.thumb.webp",
+        "width": 541,
+        "height": 541,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:i-dont-think-thats-true"
+        ],
+        "alt": "i don’t think that’s true"
+      },
+      {
+        "full": "/gallery/2025/05/d-e1747852193283.webp",
+        "thumb": "/gallery/2025/05/d-e1747852193283.thumb.webp",
+        "width": 720,
+        "height": 720,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:about-the-water"
+        ],
+        "alt": "about water"
+      },
+      {
+        "full": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.webp",
+        "thumb": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.thumb.webp",
+        "width": 575,
+        "height": 575,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "page:customs",
+          "post:art-made-to-be-lived-with"
+        ],
+        "alt": "“art made to be lived with”"
+      },
+      {
+        "full": "/gallery/2025/05/img_4242.webp",
+        "thumb": "/gallery/2025/05/img_4242.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:learning-all-195-countries-of-the-world-and-how-it-taught-me-about-life"
+        ],
+        "alt": "learning the names of all 195 countries (and how it taught me about life)"
+      },
+      {
+        "full": "/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.webp",
+        "thumb": "/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.thumb.webp",
+        "width": 335,
+        "height": 335,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:on-productivity-hacks"
+        ],
+        "alt": "on productivity hacks?"
+      },
+      {
+        "full": "/gallery/2025/03/art-e1742932988759.webp",
+        "thumb": "/gallery/2025/03/art-e1742932988759.thumb.webp",
+        "width": 562,
+        "height": 562,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:essay-12"
+        ],
+        "alt": "essay #12"
+      },
+      {
+        "full": "/gallery/2024/12/cover-pic-e1733700546163.webp",
+        "thumb": "/gallery/2024/12/cover-pic-e1733700546163.thumb.webp",
+        "width": 665,
+        "height": 665,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:i-love-experiencing-heartbreak"
+        ],
+        "alt": "i love experiencing heartbreak"
+      },
+      {
+        "full": "/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.webp",
+        "thumb": "/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.thumb.webp",
+        "width": 400,
+        "height": 400,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:shiny-object-syndrome-the-art-of-mastering-nothing"
+        ],
+        "alt": "shiny object syndrome: the art of mastering nothing"
+      },
+      {
+        "full": "/gallery/2024/12/sunset-e1733386544202.webp",
+        "thumb": "/gallery/2024/12/sunset-e1733386544202.thumb.webp",
+        "width": 434,
+        "height": 439,
+        "aspect": 0.9886,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:rebranding"
+        ],
+        "alt": "rebranding"
+      },
+      {
+        "full": "/gallery/2024/06/color-wheel.webp",
+        "thumb": "/gallery/2024/06/color-wheel.thumb.webp",
+        "width": 582,
+        "height": 585,
+        "aspect": 0.9949,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:peacock-palette"
+        ],
+        "alt": "peacock palette"
+      },
+      {
+        "full": "/gallery/2024/05/sunset-e1715792356231.webp",
+        "thumb": "/gallery/2024/05/sunset-e1715792356231.thumb.webp",
+        "width": 826,
+        "height": 822,
+        "aspect": 1.0049,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:first-years-end"
+        ],
+        "alt": "first year’s end"
+      },
+      {
+        "full": "/gallery/2023/11/post.webp",
+        "thumb": "/gallery/2023/11/post.thumb.webp",
+        "width": 658,
+        "height": 658,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "page:customs",
+          "post:the-rockery"
+        ],
+        "alt": "the rockery"
+      },
+      {
+        "full": "/gallery/2023/05/flower-2815934938-e1683320780576.webp",
+        "thumb": "/gallery/2023/05/flower-2815934938-e1683320780576.thumb.webp",
+        "width": 800,
+        "height": 800,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:overwhelmed-by-her"
+        ],
+        "alt": "overwhelmed by her"
+      },
+      {
+        "full": "/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif",
+        "thumb": "/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif",
+        "width": 500,
+        "height": 500,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:earth-without-art-is-just-eh"
+        ],
+        "animated": true,
+        "alt": "earth without art is just “eh”"
+      },
+      {
+        "full": "/gallery/2023/04/img_3349-3486079325-e1681654407125.webp",
+        "thumb": "/gallery/2023/04/img_3349-3486079325-e1681654407125.thumb.webp",
+        "width": 901,
+        "height": 901,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:starting-point"
+        ],
+        "alt": "starting point"
+      }
+    ],
+    "body": "<div><ul><li>\n\n<div>\n<div><figure><a href=\"/journal/unreliable-narrator\" target=\"_self\" ><img src=\"/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.webp\" width=\"888\" height=\"888\" alt=\"unreliable narrator\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/unreliable-narrator\" target=\"_self\" >unreliable narrator</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/something-to-believe-in\" target=\"_self\" ><img src=\"/gallery/2026/09/images.webp\" width=\"512\" height=\"512\" alt=\"something to believe in\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/something-to-believe-in\" target=\"_self\" >something to believe in</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-6\" target=\"_self\" ><img src=\"/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.webp\" width=\"1200\" height=\"1200\" alt=\"soc #6\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-6\" target=\"_self\" >soc #6</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/my-parents-house\" target=\"_self\" ><img src=\"/gallery/2026/05/detachment.webp\" width=\"640\" height=\"640\" alt=\"my parent&#8217;s house\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/my-parents-house\" target=\"_self\" >my parent&#8217;s house</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/im-a-big-fan-of-sweet-things\" target=\"_self\" ><img src=\"/gallery/2026/04/sweet-e1775446739724.webp\" width=\"1000\" height=\"1000\" alt=\"i&#8217;m a big fan of sweet things\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/im-a-big-fan-of-sweet-things\" target=\"_self\" >i&#8217;m a big fan of sweet things</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-5-i-hate-camping\" target=\"_self\" ><img src=\"/gallery/2026/04/camping-e1775445125212.webp\" width=\"1150\" height=\"1150\" alt=\"soc #5: i hate camping \" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-5-i-hate-camping\" target=\"_self\" >soc #5: i hate camping </a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-4\" target=\"_self\" ><img src=\"/gallery/2026/02/freud-e1770949083936.webp\" width=\"910\" height=\"910\" alt=\"soc #4\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-4\" target=\"_self\" >soc #4</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/the-anatomy-of-being-an-absolute\" target=\"_self\" ><img src=\"/gallery/2026/02/edy-and-riva-e1770695622585.webp\" width=\"900\" height=\"900\" alt=\"the anatomy of being an absolute\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/the-anatomy-of-being-an-absolute\" target=\"_self\" >the anatomy of being an absolute</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/cant-help-falling-in-love\" target=\"_self\" ><img src=\"/gallery/2026/02/image-e1770184866461.webp\" width=\"1200\" height=\"1200\" alt=\"can&#8217;t help falling in love\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/cant-help-falling-in-love\" target=\"_self\" >can&#8217;t help falling in love</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/rewriting-a-classic-journey\" target=\"_self\" ><img src=\"/gallery/2025/12/train-2-e1766154030971.webp\" width=\"341\" height=\"341\" alt=\"rewriting a classic journey\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/rewriting-a-classic-journey\" target=\"_self\" >rewriting a classic journey</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/a-sample-sized-soul\" target=\"_self\" ><img src=\"/gallery/2025/12/img_2182-e1765836518649.webp\" width=\"1400\" height=\"1400\" alt=\"a sample-sized soul\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/a-sample-sized-soul\" target=\"_self\" >a sample-sized soul</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/buddhism-heartbreak-etc\" target=\"_self\" ><img src=\"/gallery/2025/10/buddha-pink-color-e1761125080380.webp\" width=\"641\" height=\"641\" alt=\"buddhism, heartbreak, etc.\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/buddhism-heartbreak-etc\" target=\"_self\" >buddhism, heartbreak, etc.</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/place-people\" target=\"_self\" ><img src=\"/gallery/2025/10/people.webp\" width=\"600\" height=\"600\" alt=\"place = people\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/place-people\" target=\"_self\" >place = people</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/21-before-21\" target=\"_self\" ><img src=\"/gallery/2025/09/birthday-e1758701543231.webp\" width=\"736\" height=\"736\" alt=\"21 before 21\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/21-before-21\" target=\"_self\" >21 before 21</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-3-on-thinking-or-lack-thereof\" target=\"_self\" ><img src=\"/gallery/2025/09/thought-e1758086074247.webp\" width=\"720\" height=\"720\" alt=\"soc #3: on thinking (or lack thereof)\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-3-on-thinking-or-lack-thereof\" target=\"_self\" >soc #3: on thinking (or lack thereof)</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-2\" target=\"_self\" ><img src=\"/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.webp\" width=\"1200\" height=\"1200\" alt=\"soc #2\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-2\" target=\"_self\" >soc #2</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/alcohol-for-thought\" target=\"_self\" ><img src=\"/gallery/2025/07/img_0020-1-e1757480572238.webp\" width=\"1102\" height=\"1102\" alt=\"alcohol for thought\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/alcohol-for-thought\" target=\"_self\" >alcohol for thought</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/first-of-many-soc-post\" target=\"_self\" ><img src=\"/gallery/2025/07/img_9630.webp\" width=\"1200\" height=\"1200\" alt=\"first (of many) SOC post\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/first-of-many-soc-post\" target=\"_self\" >first (of many) SOC post</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/half-of-you\" target=\"_self\" ><img src=\"/gallery/2025/06/rajkot-sunrise-e1750896192400.webp\" width=\"1303\" height=\"1303\" alt=\"half of you\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/half-of-you\" target=\"_self\" >half of you</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/sundays-like-this-someday\" target=\"_self\" ><img src=\"/gallery/2025/06/leafy-1-e1748782115954.webp\" width=\"1400\" height=\"1400\" alt=\"sundays like this, someday\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/sundays-like-this-someday\" target=\"_self\" >sundays like this, someday</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/a-little-in-love\" target=\"_self\" ><img src=\"/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.webp\" width=\"1170\" height=\"1170\" alt=\"a little *in* love\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/a-little-in-love\" target=\"_self\" >a little *in* love</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/youre-just-human\" target=\"_self\" ><img src=\"/gallery/2025/05/falling-e1748567467523.webp\" width=\"546\" height=\"546\" alt=\"you’re just human\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/youre-just-human\" target=\"_self\" >you’re just human</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/redefining-ambition\" target=\"_self\" ><img src=\"/gallery/2025/03/background-1-e1748061549984.webp\" width=\"459\" height=\"459\" alt=\"redefining ambition\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/redefining-ambition\" target=\"_self\" >redefining ambition</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/love-letters-to-strangers-i-want-to-love\" target=\"_self\" ><img src=\"/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.webp\" width=\"450\" height=\"450\" alt=\"to: strangers i want to love\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/love-letters-to-strangers-i-want-to-love\" target=\"_self\" >to: strangers i want to love</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/i-dont-think-thats-true\" target=\"_self\" ><img src=\"/gallery/2025/05/cananda-e1747859723429.webp\" width=\"541\" height=\"541\" alt=\"i don&#8217;t think that&#8217;s true\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/i-dont-think-thats-true\" target=\"_self\" >i don&#8217;t think that&#8217;s true</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/about-the-water\" target=\"_self\" ><img src=\"/gallery/2025/05/d-e1747852193283.webp\" width=\"720\" height=\"720\" alt=\"about water\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/about-the-water\" target=\"_self\" >about water</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/art-made-to-be-lived-with\" target=\"_self\" ><img src=\"/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.webp\" width=\"575\" height=\"575\" alt=\"&#8220;art made to be lived with&#8221;\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/art-made-to-be-lived-with\" target=\"_self\" >&#8220;art made to be lived with&#8221;</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/learning-all-195-countries-of-the-world-and-how-it-taught-me-about-life\" target=\"_self\" ><img src=\"/gallery/2025/05/img_4242.webp\" width=\"1200\" height=\"1200\" alt=\"learning the names of all 195 countries (and how it taught me about life)\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/learning-all-195-countries-of-the-world-and-how-it-taught-me-about-life\" target=\"_self\" >learning the names of all 195 countries (and how it taught me about life)</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/on-productivity-hacks\" target=\"_self\" ><img src=\"/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.webp\" width=\"335\" height=\"335\" alt=\"on productivity hacks?\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/on-productivity-hacks\" target=\"_self\" >on productivity hacks?</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/essay-12\" target=\"_self\" ><img src=\"/gallery/2025/03/art-e1742932988759.webp\" width=\"562\" height=\"562\" alt=\"essay #12\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/essay-12\" target=\"_self\" >essay #12</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/i-love-experiencing-heartbreak\" target=\"_self\" ><img src=\"/gallery/2024/12/cover-pic-e1733700546163.webp\" width=\"665\" height=\"665\" alt=\"i love experiencing heartbreak\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/i-love-experiencing-heartbreak\" target=\"_self\" >i love experiencing heartbreak</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/shiny-object-syndrome-the-art-of-mastering-nothing\" target=\"_self\" ><img src=\"/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.webp\" width=\"400\" height=\"400\" alt=\"shiny object syndrome: the art of mastering nothing\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/shiny-object-syndrome-the-art-of-mastering-nothing\" target=\"_self\" >shiny object syndrome: the art of mastering nothing</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/rebranding\" target=\"_self\" ><img src=\"/gallery/2024/12/sunset-e1733386544202.webp\" width=\"434\" height=\"439\" alt=\"rebranding\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/rebranding\" target=\"_self\" >rebranding</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/peacock-palette\" target=\"_self\" ><img src=\"/gallery/2024/06/color-wheel.webp\" width=\"582\" height=\"585\" alt=\"peacock palette\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/peacock-palette\" target=\"_self\" >peacock palette</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/first-years-end\" target=\"_self\" ><img src=\"/gallery/2024/05/sunset-e1715792356231.webp\" width=\"826\" height=\"822\" alt=\"first year&#8217;s end\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/first-years-end\" target=\"_self\" >first year&#8217;s end</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/the-rockery\" target=\"_self\" ><img src=\"/gallery/2023/11/post.webp\" width=\"658\" height=\"658\" alt=\"the rockery\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/the-rockery\" target=\"_self\" >the rockery</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/overwhelmed-by-her\" target=\"_self\" ><img src=\"/gallery/2023/05/flower-2815934938-e1683320780576.webp\" width=\"800\" height=\"800\" alt=\"overwhelmed by her\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/overwhelmed-by-her\" target=\"_self\" >overwhelmed by her</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/earth-without-art-is-just-eh\" target=\"_self\" ><img src=\"/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif\" width=\"500\" height=\"500\" alt=\"earth without art is just &#8220;eh&#8221;\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/earth-without-art-is-just-eh\" target=\"_self\" >earth without art is just &#8220;eh&#8221;</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/starting-point\" target=\"_self\" ><img src=\"/gallery/2023/04/img_3349-3486079325-e1681654407125.webp\" width=\"901\" height=\"901\" alt=\"starting point\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/starting-point\" target=\"_self\" >starting point</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li></ul>\n\n</div>"
+  },
+  "customs": {
+    "slug": "customs",
+    "title": "customs",
+    "date": "2023-12-07",
+    "text": "“art made to be lived with”\n\nI’ve been making customs from paintings to cardholders to sketches, rocks, cards, bags, calculators, cases, water bottles and everything in between! These include both gifts and special requests. You can see examples of my work on this page. Please reach out if you would like one!\n\nInstagram: @therivagallery",
+    "images": [
+      {
+        "full": "/gallery/2026/02/toucan-jacket-1-2.webp",
+        "thumb": "/gallery/2026/02/toucan-jacket-1-2.thumb.webp",
+        "width": 650,
+        "height": 567,
+        "aspect": 1.1464,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.webp",
+        "thumb": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.thumb.webp",
+        "width": 575,
+        "height": 575,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "page:customs",
+          "post:art-made-to-be-lived-with"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/necklace.webp",
+        "thumb": "/gallery/2025/03/necklace.thumb.webp",
+        "width": 1170,
+        "height": 858,
+        "aspect": 1.3636,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/toucan.webp",
+        "thumb": "/gallery/2025/03/toucan.thumb.webp",
+        "width": 1134,
+        "height": 1400,
+        "aspect": 0.81,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2024/05/cartoon-shoes-2.webp",
+        "thumb": "/gallery/2024/05/cartoon-shoes-2.thumb.webp",
+        "width": 828,
+        "height": 1104,
+        "aspect": 0.75,
+        "usedBy": [
+          "page:customs",
+          "post:first-years-end"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2024/05/cartoon-2-2.webp",
+        "thumb": "/gallery/2024/05/cartoon-2-2.thumb.webp",
+        "width": 828,
+        "height": 1088,
+        "aspect": 0.761,
+        "usedBy": [
+          "page:customs",
+          "post:first-years-end"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2024/05/patrick-2.webp",
+        "thumb": "/gallery/2024/05/patrick-2.thumb.webp",
+        "width": 828,
+        "height": 1035,
+        "aspect": 0.8,
+        "usedBy": [
+          "page:customs",
+          "post:first-years-end"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2024/05/star-warssr-1.webp",
+        "thumb": "/gallery/2024/05/star-warssr-1.thumb.webp",
+        "width": 1024,
+        "height": 1365,
+        "aspect": 0.7502,
+        "usedBy": [
+          "page:customs",
+          "post:first-years-end"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2024/05/cherry-tote-bag-1.webp",
+        "thumb": "/gallery/2024/05/cherry-tote-bag-1.thumb.webp",
+        "width": 828,
+        "height": 1104,
+        "aspect": 0.75,
+        "usedBy": [
+          "page:customs",
+          "post:first-years-end"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/cardholder.webp",
+        "thumb": "/gallery/2023/12/cardholder.thumb.webp",
+        "width": 338,
+        "height": 475,
+        "aspect": 0.7116,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/bigger-back.webp",
+        "thumb": "/gallery/2023/12/bigger-back.thumb.webp",
+        "width": 420,
+        "height": 823,
+        "aspect": 0.5103,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/front.webp",
+        "thumb": "/gallery/2023/12/front.thumb.webp",
+        "width": 456,
+        "height": 747,
+        "aspect": 0.6104,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/img_2650.webp",
+        "thumb": "/gallery/2023/12/img_2650.thumb.webp",
+        "width": 828,
+        "height": 1026,
+        "aspect": 0.807,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/img_2945-1.webp",
+        "thumb": "/gallery/2023/12/img_2945-1.thumb.webp",
+        "width": 1060,
+        "height": 1400,
+        "aspect": 0.7571,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/sw-in-the-room.webp",
+        "thumb": "/gallery/2023/12/sw-in-the-room.thumb.webp",
+        "width": 630,
+        "height": 796,
+        "aspect": 0.7915,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/23.webp",
+        "thumb": "/gallery/2023/12/23.thumb.webp",
+        "width": 586,
+        "height": 793,
+        "aspect": 0.739,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/img_3076.webp",
+        "thumb": "/gallery/2023/12/img_3076.thumb.webp",
+        "width": 780,
+        "height": 1019,
+        "aspect": 0.7655,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/img_2945.webp",
+        "thumb": "/gallery/2023/12/img_2945.thumb.webp",
+        "width": 1060,
+        "height": 1400,
+        "aspect": 0.7571,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/12/img_2716.webp",
+        "thumb": "/gallery/2023/12/img_2716.thumb.webp",
+        "width": 1050,
+        "height": 1400,
+        "aspect": 0.75,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/11/post.webp",
+        "thumb": "/gallery/2023/11/post.thumb.webp",
+        "width": 658,
+        "height": 658,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "page:customs",
+          "post:the-rockery"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2023/11/first-rock-1-3.webp",
+        "thumb": "/gallery/2023/11/first-rock-1-3.thumb.webp",
+        "width": 620,
+        "height": 533,
+        "aspect": 1.1632,
+        "usedBy": [
+          "page:customs"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<p><a href=\"/journal/art-made-to-be-lived-with\">“art made to be lived with”</a></p>\n\n<p>I&#8217;ve been making customs from paintings to cardholders to sketches, rocks, cards, bags, calculators, cases, water bottles and everything in between! These include both gifts and special requests. You can see examples of my work on this page. Please reach out if you would like one!</p>\n\n<p>Instagram: @therivagallery</p>\n\n<div><div><div><div><div><figure><img src=\"/gallery/2026/02/toucan-jacket-1-2.webp\" width=\"650\" height=\"567\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><figure><img src=\"/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.webp\" width=\"575\" height=\"575\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><figure><img src=\"/gallery/2025/03/necklace.webp\" width=\"1170\" height=\"858\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2025/03/toucan.webp\" width=\"1134\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div></div><div><div><figure><img src=\"/gallery/2024/05/cartoon-shoes-2.webp\" width=\"828\" height=\"1104\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2024/05/cartoon-2-2.webp\" width=\"828\" height=\"1088\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2024/05/patrick-2.webp\" width=\"828\" height=\"1035\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2024/05/star-warssr-1.webp\" width=\"1024\" height=\"1365\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div></div><div><div><figure><img src=\"/gallery/2024/05/cherry-tote-bag-1.webp\" width=\"828\" height=\"1104\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/12/cardholder.webp\" width=\"338\" height=\"475\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/12/bigger-back.webp\" width=\"420\" height=\"823\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div></div><div><div><figure><img src=\"/gallery/2023/12/front.webp\" width=\"456\" height=\"747\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/12/img_2650.webp\" width=\"828\" height=\"1026\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/12/img_2945-1.webp\" width=\"1060\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/12/sw-in-the-room.webp\" width=\"630\" height=\"796\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div></div><div><div><figure><img src=\"/gallery/2023/12/23.webp\" width=\"586\" height=\"793\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/12/img_3076.webp\" width=\"780\" height=\"1019\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div></div><div><div><figure><img src=\"/gallery/2023/12/img_2945.webp\" width=\"1060\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/12/img_2716.webp\" width=\"1050\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/11/post.webp\" width=\"658\" height=\"658\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div><div><figure><img src=\"/gallery/2023/11/first-rock-1-3.webp\" width=\"620\" height=\"533\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></div></div></div></div></div>"
+  },
+  "sos": {
+    "slug": "sos",
+    "title": "sos",
+    "date": "2025-01-03",
+    "text": "sos \n\nHi! Welcome to SOS (aka my shiny object syndrome hehe) where I dump all the little things I’ve learned—fun facts, insights, and anything else that’s caught my attention. Essentially, think of it as a space to explore random but interesting bits of knowledge, and who knows? Maybe you’ll find something that sparks your interest! Enjoy!\n\nThis probably isn’t of use to you guys, but I’ve made it a mission to be able to name all 196 countries! So far I’ve improved from knowing 34 to 149…\n\nI absolutely love Herpetology— the study of amphibians and reptiles. I would study it religiously and won a national award for this, want to lowkey get back into it.",
+    "images": [
+      {
+        "full": "/gallery/2025/01/world-map.webp",
+        "thumb": "/gallery/2025/01/world-map.thumb.webp",
+        "width": 1339,
+        "height": 990,
+        "aspect": 1.3525,
+        "usedBy": [
+          "page:sos"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/agalychnis.web_.webp",
+        "thumb": "/gallery/2025/03/agalychnis.web_.thumb.webp",
+        "width": 447,
+        "height": 343,
+        "aspect": 1.3032,
+        "usedBy": [
+          "page:sos"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h1>sos </h1>\n\n<p>Hi! Welcome to SOS (aka my <a href=\"/journal/shiny-object-syndrome-the-art-of-mastering-nothing\">shiny object syndrome</a> hehe) where I dump all the little things I&#8217;ve learned—fun facts, insights, and anything else that’s caught my attention. Essentially, think of it as a space to explore random but interesting bits of knowledge, and who knows? Maybe you&#8217;ll find something that sparks your interest! Enjoy!</p>\n\n<div><figure><img src=\"/gallery/2025/01/world-map.webp\" width=\"1339\" height=\"990\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p>This probably isn&#8217;t of use to you guys, but I&#8217;ve made it a mission to be able to name all 196 countries! So far I&#8217;ve improved from knowing 34 to 149&#8230;</p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/03/agalychnis.web_.webp\" width=\"447\" height=\"343\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p>I absolutely love Herpetology— the study of amphibians and reptiles. I would study it religiously and won a national award for this, want to lowkey get back into it. </p>\n</div></div>"
+  },
+  "the-overflow": {
+    "slug": "the-overflow",
+    "title": "The Overflow",
+    "date": "2025-03-13",
+    "text": "The Overflow\n\nClasses \n\nConsulting Skills and Frameworks (BUSI 554H) \n\nDigital Marketing (BUSI 558) \n\nEntrepreneurial Strategy and Venture Capital (BUSI 506) \n\nPresentations: \n\nIn my BUSI 401 Management and Corporate Communication class, my partner and I created this site to address a gap in communication analysis and share our recommendations for improvement. It’s a project we’re proud of that highlights our strategic approach to solving communication challenges (linked in caption).\n\nhttps://caudaliebusi401.my.canva.site/",
+    "images": [
+      {
+        "full": "/gallery/2025/03/caudalie-1-.webp",
+        "thumb": "/gallery/2025/03/caudalie-1-.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:the-overflow"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h2>The Overflow</h2>\n\n<h5>Classes </h5>\n\n<ul>\n<li>Consulting Skills and Frameworks (BUSI 554H) </li>\n\n<li>Digital Marketing (BUSI 558) </li>\n\n<li>Entrepreneurial Strategy and Venture Capital (BUSI 506) </li>\n</ul>\n\n<h5>Presentations: </h5>\n\n<p>In my BUSI 401 Management and Corporate Communication class, my partner and I created this site to address a gap in communication analysis and share our recommendations for improvement. It’s a project we’re proud of that highlights our strategic approach to solving communication challenges (linked in caption).</p>\n\n<figure><img src=\"/gallery/2025/03/caudalie-1-.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"><figcaption><a href=\"https://caudaliebusi401.my.canva.site/\">https://caudaliebusi401.my.canva.site/</a></figcaption></figure>"
+  },
+  "side-quests-2": {
+    "slug": "side-quests-2",
+    "title": "Side Quests",
+    "date": "2025-03-13",
+    "text": "Side Quests\n\nLet’s face it, I’m a sucker for shiny objects. Whether it’s a new idea, a fun side project, or a challenge, I tend to try a little bit of everything. It’s my way of learning, growing, and having fun along the way. These “side quests” may not be the core of my work, but they’ve helped me expand my skill set, connect with new people, and explore areas I never would have otherwise. Take a look at some of the cool things I’ve dipped my toes into—who knows, maybe they’ll inspire you to start your own side quest!\n\nThe Riva Gallery!! (duh) \n\nStarting this blog has been the perfect creative outlet for me. It’s like me wrapped up in a little corner of the internet—everything I’m learning, the books I’m reading, my art, and whatever else is on my mind. There’s no pressure, just a place where I can let my thoughts and creativity flow freely. It’s all about sharing what inspires me, and I love how it all comes together, no matter how random it gets.\n\nmore to come… I’m kinda sleepy while editing this site so ill finish it later",
+    "images": [],
+    "body": "<h2>Side Quests</h2>\n\n<p>Let’s face it, I’m a sucker for shiny objects. Whether it&#8217;s a new idea, a fun side project, or a challenge, I tend to try a little bit of everything. It’s my way of learning, growing, and having fun along the way. These &#8220;side quests&#8221; may not be the core of my work, but they&#8217;ve helped me expand my skill set, connect with new people, and explore areas I never would have otherwise. Take a look at some of the cool things I’ve dipped my toes into—who knows, maybe they’ll inspire you to start your own side quest!</p>\n\n<p><a href=\"http://therivagallery.com\">The Riva Gallery!! (duh)  </a></p>\n\n<p>Starting this blog has been the perfect creative outlet for me. It’s like me wrapped up in a little corner of the internet—everything I’m learning, the books I’m reading, my art, and whatever else is on my mind. There’s no pressure, just a place where I can let my thoughts and creativity flow freely. It’s all about sharing what inspires me, and I love how it all comes together, no matter how random it gets.</p>\n\n<p>more to come&#8230; I&#8217;m kinda sleepy while editing this site so ill finish it later </p>"
+  },
+  "ai-consulting-unc": {
+    "slug": "ai-consulting-unc",
+    "title": "AI Consulting @ UNC",
+    "date": "2025-03-13",
+    "text": "AI Consulting @ UNC\n\nAs the Marketing Director for the AI Consulting Club, I handle all aspects of member communication and content creation. I manage the club’s social media platforms, creating engaging content that highlights club events, updates, and industry trends. I also facilitate communication between club members, ensuring everyone is informed and engaged in club activities. Additionally, I help promote collaborative initiatives, ensuring that the club’s outreach resonates with both current and potential members, while fostering a strong, informed community of AI enthusiasts. Examples below:\n\n \n\n \n\n \n\n \n\n View this post on Instagram\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n View this post on Instagram\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nI’m also leading the planning and execution of our 2025 AI Consulting Case Competition. My responsibilities include designing the marketing and promotional materials, coordinating logistics such as all email communications, forming teams, handling forms and organization, booking rooms, teams, sending emails, and handling forms. I also work closely with another executive board member to design the case itself, creating a case deck that integrates both quantitative and qualitative data. Additionally, I assemble a panel of judges and develop a comprehensive rubric to assess submissions. As part of the judging panel, I participate in all competition rounds—from the initial round to the semifinal and final rounds—helping select the winning team.\n\n \n\n \n\n \n\n \n\n View this post on Instagram",
+    "images": [],
+    "body": "<h2>AI Consulting @ UNC</h2>\n\n<p>As the <strong>Marketing Director</strong> for the AI Consulting Club, I handle all aspects of member communication and content creation. I manage the club’s <strong>social media platforms</strong>, creating engaging content that highlights club events, updates, and industry trends. I also facilitate communication between club members, ensuring everyone is informed and engaged in club activities. Additionally, I help promote <strong>collaborative initiatives</strong>, ensuring that the club’s outreach resonates with both current and potential members, while fostering a strong, informed community of AI enthusiasts. Examples below:</p>\n\n<p>I’m also leading the planning and execution of our <strong>2025 AI Consulting Case Competition</strong>. My responsibilities include designing the marketing and promotional materials, coordinating logistics such as all email communications, forming teams, handling forms and organization, booking rooms, teams, sending emails, and handling forms. I also work closely with another executive board member to design the case itself, creating a case deck that integrates both quantitative and qualitative data. Additionally, I assemble a panel of judges and develop a comprehensive rubric to assess submissions. As part of the judging panel, I participate in all competition rounds—from the initial round to the semifinal and final rounds—helping select the winning team.</p>"
+  },
+  "the-big-leaf-safe-start": {
+    "slug": "the-big-leaf-safe-start",
+    "title": "The Big Leaf – Safe Start",
+    "date": "2025-03-13",
+    "text": "The Big Leaf – Safe Start\n\nHealthcare Startup Consulting Through Executive Consulting Firm\n\nThis summer, I’ll be consulting for Safe Start, a healthcare startup, founded by a surgeon, focused on preventing “never events” in surgery, through The Big Leaf, an executive consulting firm based in Toronto. In this role, I’ll help Safe Start refine its strategic approach to improve patient safety and surgical outcomes. I will also be conducting market research and analyzing industry trends to identify competitive opportunities, while contributing to the development of marketing strategies aimed at increasing adoption and brand awareness. Additionally, I’ll be working on business development initiatives, including fostering strategic partnerships to accelerate growth and impact in the healthcare sector.",
+    "images": [
+      {
+        "full": "/gallery/2025/03/safestart-big-leaf-.webp",
+        "thumb": "/gallery/2025/03/safestart-big-leaf-.thumb.webp",
+        "width": 492,
+        "height": 445,
+        "aspect": 1.1056,
+        "usedBy": [
+          "page:the-big-leaf-safe-start"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h2>The Big Leaf &#8211; Safe Start</h2>\n\n<h6><strong><strong>Healthcare Startup Consulting Through Executive Consulting Firm</strong></strong></h6>\n\n<p>This summer, I’ll be consulting for <strong><a href=\"https://www.safestartmedical.com/\">Safe Start</a></strong>, a healthcare startup, founded by a surgeon, focused on preventing &#8220;never events&#8221; in surgery, through <a href=\"https://thebigleaf.com/\"><strong>The Big Leaf</strong>,</a> an executive consulting firm based in Toronto. In this role, I’ll help Safe Start refine its <strong>strategic approach</strong> to improve patient safety and surgical outcomes. I will also be conducting <strong>market research</strong> and analyzing industry trends to identify competitive opportunities, while contributing to the development of <strong>marketing strategies</strong> aimed at increasing adoption and brand awareness. Additionally, I’ll be working on <strong>business development</strong> initiatives, including fostering <strong>strategic partnerships</strong> to accelerate growth and impact in the healthcare sector.</p>\n\n<figure><img src=\"/gallery/2025/03/safestart-big-leaf-.webp\" width=\"492\" height=\"445\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>"
+  },
+  "case-competitions": {
+    "slug": "case-competitions",
+    "title": "Case Competitions",
+    "date": "2025-03-13",
+    "text": "Case Competitions\n\nThere’s no mistake this section comes first—I love case competitions. Seriously, I’m a case competition fanatic. There’s something about the fast-paced problem-solving, high-stakes presentations, and strategic thinking that makes case competitions feel like the varsity sport of the business world. It’s where creativity meets strategy, where bold ideas get put to the test, and honestly, where I have the most fun.\n\nP&G Case Competition – 1st Place\n\nWon 1st place (of 38 teams) by developing a standout recommendation for Crest.\n\nCreated two new product innovations and a functional prototype of an app that connected all recommendations.\n\nDesigned a marketing strategy focused on brand loyalty and customer acquisition.\n\nFormulated a sales and market share growth strategy based on competitive analysis and consumer insights.\n\nPresented directly to the Global Senior VP of Crest ($1.5B brand).\n\nKPMG Case Competition – 1st Place\n\nConsulted a regional bank and developed strategic initiatives to increase market share.\n\nCreated niche, high-impact recommendations that set our team apart. \n\nEnhanced the bank’s current mobile app through fintech partnerships, demonstrating this through a functional prototype. \n\nNational Women’s Case Competition (UT Austin) – Semifinalists\n\nHosted by Apple, this competition brought together 27 teams from across the country.\n\nPlaced as semifinalists, presenting innovative recommendations in a highly competitive field.\n\nPwC Case Competition – 2nd Place\n\nCompeted at the annual PwC Case Competition, placing 2nd among several teams.\n\nDesigned an app prototype as part of our innovative solution.\n\nDeveloped a marketing strategy to improve employee retention.\n\nCSF Case Competition (Midterm) \n\nPart of the Consulting Skills & Frameworks course, focused on applying structured problem-solving methodologies.\n\nTasked with increasing student engagement for UNC’s Rams Club, an organization that funds scholarships and resources for UNC student-athletes.\n\nIdentified untapped student markets, creating an innovative approach to expand revenue and boost student involvement.\n\nOther Case Competitions:\n\nUCS Case Competition\n\nHurricanes Case Competition\n\nDeloitte Case Competition",
+    "images": [
+      {
+        "full": "/gallery/2025/03/texas.webp",
+        "thumb": "/gallery/2025/03/texas.thumb.webp",
+        "width": 1050,
+        "height": 1400,
+        "aspect": 0.75,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/austin.webp",
+        "thumb": "/gallery/2025/03/austin.thumb.webp",
+        "width": 1050,
+        "height": 1400,
+        "aspect": 0.75,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/kpmg2.webp",
+        "thumb": "/gallery/2025/03/kpmg2.thumb.webp",
+        "width": 1050,
+        "height": 1400,
+        "aspect": 0.75,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/1st-place.webp",
+        "thumb": "/gallery/2025/03/1st-place.thumb.webp",
+        "width": 828,
+        "height": 1104,
+        "aspect": 0.75,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/kpmg.webp",
+        "thumb": "/gallery/2025/03/kpmg.thumb.webp",
+        "width": 1400,
+        "height": 1050,
+        "aspect": 1.3333,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/apple.webp",
+        "thumb": "/gallery/2025/03/apple.thumb.webp",
+        "width": 1400,
+        "height": 1050,
+        "aspect": 1.3333,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/womens.webp",
+        "thumb": "/gallery/2025/03/womens.thumb.webp",
+        "width": 1050,
+        "height": 1400,
+        "aspect": 0.75,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/pwc.webp",
+        "thumb": "/gallery/2025/03/pwc.thumb.webp",
+        "width": 1179,
+        "height": 885,
+        "aspect": 1.3322,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/team.webp",
+        "thumb": "/gallery/2025/03/team.thumb.webp",
+        "width": 828,
+        "height": 622,
+        "aspect": 1.3312,
+        "usedBy": [
+          "page:case-competitions"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h2>Case Competitions</h2>\n\n<p>There’s no mistake this section comes first—I <em>love</em> case competitions. Seriously, I’m a case competition fanatic. There’s something about the fast-paced problem-solving, high-stakes presentations, and strategic thinking that makes case competitions feel like the varsity sport of the business world. It’s where creativity meets strategy, where bold ideas get put to the test, and honestly, where I have the most fun.</p>\n\n<h6><strong>P&amp;G Case Competition – 1st Place</strong></h6>\n\n<ul>\n<li>Won <strong>1st place</strong> (of 38 teams) by developing a standout recommendation for <strong>Crest</strong>.</li>\n\n<li>Created <strong>two new product innovations</strong> and a functional prototype of an app that connected all recommendations.</li>\n\n<li>Designed a <strong>marketing strategy</strong> focused on brand loyalty and customer acquisition.</li>\n\n<li>Formulated a <strong>sales and market share growth strategy</strong> based on competitive analysis and consumer insights.</li>\n\n<li>Presented directly to the <strong>Global Senior VP of Crest ($1.5B brand).</strong></li>\n</ul>\n\n<h6><strong>KPMG Case Competition – 1st Place</strong></h6>\n\n<ul>\n<li>Consulted a <strong>regional bank</strong> and developed strategic initiatives to increase <strong>market share</strong>.</li>\n\n<li>Created <strong>niche, high-impact recommendations</strong> that set our team apart. </li>\n\n<li>Enhanced the bank&#8217;s current mobile app through fintech partnerships, demonstrating this through a functional prototype. </li>\n</ul>\n\n<h6><strong>National Women’s Case Competition (UT Austin) – Semifinalists</strong></h6>\n\n<ul>\n<li>Hosted by <strong>Apple</strong>, this competition brought together <strong>27 teams</strong> from across the country.</li>\n\n<li>Placed as <strong>semifinalists</strong>, presenting innovative recommendations in a highly competitive field.</li>\n</ul>\n\n<h6><strong>PwC Case Competition – 2nd Place</strong></h6>\n\n<ul>\n<li>Competed at the annual PwC Case Competition, placing <strong>2nd</strong> among several teams.</li>\n\n<li>Designed an <strong>app prototype</strong> as part of our innovative solution.</li>\n\n<li>Developed a <strong>marketing strategy</strong> to improve employee retention.</li>\n</ul>\n\n<h6><strong>CSF Case Competition (Midterm) </strong></h6>\n\n<ul>\n<li>Part of the <strong>Consulting Skills &amp; Frameworks</strong> course, focused on applying structured problem-solving methodologies.</li>\n\n<li>Tasked with increasing student engagement for <strong>UNC’s Rams Club</strong>, an organization that funds scholarships and resources for UNC student-athletes.</li>\n\n<li>Identified <strong>untapped student markets</strong>, creating an innovative approach to expand revenue and boost student involvement.</li>\n</ul>\n\n<h6><strong>Other Case Competitions:</strong></h6>\n\n<ul>\n<li>UCS Case Competition</li>\n\n<li>Hurricanes Case Competition</li>\n\n<li>Deloitte Case Competition</li>\n</ul>\n\n<figure>\n<figure><img src=\"/gallery/2025/03/texas.webp\" width=\"1050\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2025/03/austin.webp\" width=\"1050\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2025/03/kpmg2.webp\" width=\"1050\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2025/03/1st-place.webp\" width=\"828\" height=\"1104\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2025/03/kpmg.webp\" width=\"1400\" height=\"1050\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2025/03/apple.webp\" width=\"1400\" height=\"1050\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2025/03/womens.webp\" width=\"1050\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2025/03/pwc.webp\" width=\"1179\" height=\"885\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><img src=\"/gallery/2025/03/team.webp\" width=\"828\" height=\"622\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n</figure>"
+  },
+  "consult-your-community": {
+    "slug": "consult-your-community",
+    "title": "Consult Your Community",
+    "date": "2025-03-13",
+    "text": "Consult Your Community\n\nUNC Global Affairs\n\nWith my team, I consulted for UNC Global Affairs to develop and refine the Carolina Diplomacy Fellows program. We conducted competitive analysis, designed tiered incentives, and implemented strategies to enhance inclusivity. We led market research through surveys and club partnerships, crafted a marketing plan with a social media content calendar, redesigned the program’s logo, and developed feedback mechanisms for continuous improvement. We supported the program’s beta launch by assessing student sentiment and providing data-driven recommendations for future expansion. \n\nUndergraduate Real Estate Club\n\nWith my team, I led key initiatives to strengthen engagement and professional development within the Undergraduate Real Estate Club. We designed and launched a mentorship program to connect underclassmen with upperclassmen, providing industry guidance, networking opportunities, and a way to keep upperclassmen involved in the club. Additionally, I played a major role in organizing the club’s internal case competition. This involved securing sponsorships from local real estate firms, designing outreach materials, coordinating event logistics, and developing the case itself. We worked to ensure the competition provided a hands-on learning experience that encouraged innovative problem-solving and industry exposure for participants.",
+    "images": [
+      {
+        "full": "/gallery/2025/03/slide1.webp",
+        "thumb": "/gallery/2025/03/slide1.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide2.webp",
+        "thumb": "/gallery/2025/03/slide2.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide3.webp",
+        "thumb": "/gallery/2025/03/slide3.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide4.webp",
+        "thumb": "/gallery/2025/03/slide4.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide5.webp",
+        "thumb": "/gallery/2025/03/slide5.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide6.webp",
+        "thumb": "/gallery/2025/03/slide6.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide7.webp",
+        "thumb": "/gallery/2025/03/slide7.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide8.webp",
+        "thumb": "/gallery/2025/03/slide8.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide9.webp",
+        "thumb": "/gallery/2025/03/slide9.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide10.webp",
+        "thumb": "/gallery/2025/03/slide10.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide11.webp",
+        "thumb": "/gallery/2025/03/slide11.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide12.webp",
+        "thumb": "/gallery/2025/03/slide12.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide13.webp",
+        "thumb": "/gallery/2025/03/slide13.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide14.webp",
+        "thumb": "/gallery/2025/03/slide14.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide15.webp",
+        "thumb": "/gallery/2025/03/slide15.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide16.webp",
+        "thumb": "/gallery/2025/03/slide16.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide17.webp",
+        "thumb": "/gallery/2025/03/slide17.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide18.webp",
+        "thumb": "/gallery/2025/03/slide18.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide19.webp",
+        "thumb": "/gallery/2025/03/slide19.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide20.webp",
+        "thumb": "/gallery/2025/03/slide20.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide21.webp",
+        "thumb": "/gallery/2025/03/slide21.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide22.webp",
+        "thumb": "/gallery/2025/03/slide22.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide23.webp",
+        "thumb": "/gallery/2025/03/slide23.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide24.webp",
+        "thumb": "/gallery/2025/03/slide24.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide25.webp",
+        "thumb": "/gallery/2025/03/slide25.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide26.webp",
+        "thumb": "/gallery/2025/03/slide26.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide1-1.webp",
+        "thumb": "/gallery/2025/03/slide1-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide2-1.webp",
+        "thumb": "/gallery/2025/03/slide2-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide3-1.webp",
+        "thumb": "/gallery/2025/03/slide3-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide4-1.webp",
+        "thumb": "/gallery/2025/03/slide4-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide5-1.webp",
+        "thumb": "/gallery/2025/03/slide5-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide6-1.webp",
+        "thumb": "/gallery/2025/03/slide6-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide7-1.webp",
+        "thumb": "/gallery/2025/03/slide7-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide8-1.webp",
+        "thumb": "/gallery/2025/03/slide8-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide9-1.webp",
+        "thumb": "/gallery/2025/03/slide9-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide10-1.webp",
+        "thumb": "/gallery/2025/03/slide10-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide11-1.webp",
+        "thumb": "/gallery/2025/03/slide11-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide12-1.webp",
+        "thumb": "/gallery/2025/03/slide12-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide13-1.webp",
+        "thumb": "/gallery/2025/03/slide13-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide14-1.webp",
+        "thumb": "/gallery/2025/03/slide14-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/slide15-1.webp",
+        "thumb": "/gallery/2025/03/slide15-1.thumb.webp",
+        "width": 960,
+        "height": 540,
+        "aspect": 1.7778,
+        "usedBy": [
+          "page:consult-your-community"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h2>Consult Your Community</h2>\n\n<h4><a href=\"https://global.unc.edu/our-work/diplomacy-initiative/carolina-diplomacy-fellows/\">UNC Global Affairs</a></h4>\n\n<p>With my team, I consulted for UNC Global Affairs to develop and refine the <em>Carolina Diplomacy Fellows</em> program. We conducted competitive analysis, designed tiered incentives, and implemented strategies to enhance inclusivity. We led market research through surveys and club partnerships, crafted a marketing plan with a social media content calendar, redesigned the program’s logo, and developed feedback mechanisms for continuous improvement. We supported the program’s beta launch by assessing student sentiment and providing data-driven recommendations for future expansion. </p>\n\n<div><div><ul><li><figure><img src=\"/gallery/2025/03/slide1.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide2.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide3.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide4.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide5.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide6.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide7.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide8.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide9.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide10.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide11.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide12.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide13.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide14.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide15.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide16.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide17.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide18.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide19.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide20.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide21.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide22.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide23.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide24.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide25.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide26.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li></ul><a role=\"button\"></a><a role=\"button\"></a><a aria-label=\"Pause Slideshow\" role=\"button\"></a></div></div>\n\n<div aria-hidden=\"true\"></div>\n\n<h4><a href=\"https://uncrealestateclub.web.unc.edu/\">Undergraduate Real Estate Club</a></h4>\n\n<p>With my team, I led key initiatives to strengthen engagement and professional development within the Undergraduate Real Estate Club. We designed and launched a mentorship program to connect underclassmen with upperclassmen, providing industry guidance, networking opportunities, and a way to keep upperclassmen involved in the club. Additionally, I played a major role in organizing the club’s internal case competition. This involved securing sponsorships from local real estate firms, designing outreach materials, coordinating event logistics, and developing the case itself. We worked to ensure the competition provided a hands-on learning experience that encouraged innovative problem-solving and industry exposure for participants.</p>\n\n<div><div><ul><li><figure><img src=\"/gallery/2025/03/slide1-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide2-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide3-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide4-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide5-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide6-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide7-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide8-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide9-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide10-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide11-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide12-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide13-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide14-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li><li><figure><img src=\"/gallery/2025/03/slide15-1.webp\" width=\"960\" height=\"540\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure></li></ul><a role=\"button\"></a><a role=\"button\"></a><a aria-label=\"Pause Slideshow\" role=\"button\"></a></div></div>"
+  },
+  "leadership-impact": {
+    "slug": "leadership-impact",
+    "title": "Leadership & Impact",
+    "date": "2025-03-13",
+    "text": "Leadership & Impact\n\nThe roles, ventures, and initiatives that shaped my journey. \n\nClick here to find more of a miscellaneous dump— cool classes, certifications, presentations, projects, etc. that I’ve done but don’t quite fit into any of the buckets.",
+    "images": [
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:leadership-impact"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-3.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-3.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:leadership-impact"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-5.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-5.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:leadership-impact"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-2.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-2.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:leadership-impact"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-4-1.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-4-1.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:leadership-impact"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h2>Leadership &amp; Impact</h2>\n\n<p>The roles, ventures, and initiatives that shaped my journey.  </p>\n\n<figure><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n<figure><a href=\"https://sites.google.com/view/thepearfoundation/home?authuser=0\"><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025-3.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<figure><a href=\"https://dolaredandiya.carrd.co/\"><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025-5.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<figure><a href=\"https://www.instagram.com/uncsep?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==\"><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025-2.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<figure><a href=\"https://ccps.unc.edu/bpss/\"><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025-4-1.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<p><a href=\"https://therivagallery.com/the-overflow/\">Click here</a> to find more of a miscellaneous dump— cool classes, certifications, presentations, projects, etc. that I&#8217;ve done but don&#8217;t quite fit into any of the buckets.</p>"
+  },
+  "consulting-and-strategy": {
+    "slug": "consulting-and-strategy",
+    "title": "Consulting & Strategy",
+    "date": "2025-03-13",
+    "text": "Consulting & Strategy\n\nWhere problem-solving meets execution.\n\nCase Competitions \n\nTackling complex business challenges in high-pressure environments, honing my problem-solving, strategy, and presentation skills. Click to learn more.\n\nThe Big Leaf – Safe Start \n\nConsulting for Safe Start, a surgeon-founded startup preventing “never events” in surgery, through an executive consulting firm based in Toronto. Click to learn more.\n\nConsult Your Community\n\nLeveraging strategic thinking to support local organizations, drive growth, and design impactful initiatives that benefit both students and communities. Click to learn more.\n\nAI Consulting @ UNC Chapel Hill\n\nHandling marketing, communications, and events for the AI consulting club, plus organizing a case competition to spark innovation. Click to learn more.",
+    "images": [
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-15-1.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-15-1.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consulting-and-strategy"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-14-1.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-14-1.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consulting-and-strategy"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-13-1.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-13-1.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consulting-and-strategy"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-12-1.webp",
+        "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-12-1.thumb.webp",
+        "width": 1400,
+        "height": 788,
+        "aspect": 1.7766,
+        "usedBy": [
+          "page:consulting-and-strategy"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h2>Consulting &amp; Strategy</h2>\n\n<p>Where problem-solving meets execution.</p>\n\n<figure><a href=\"https://therivagallery.com/case-competitions/\"><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025-15-1.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<p><strong>Case Competitions </strong></p>\n\n<p>Tackling complex business challenges in high-pressure environments, honing my problem-solving, strategy, and presentation skills. <a href=\"https://therivagallery.com/case-competitions/\">Click to learn more.</a></p>\n\n<figure><a href=\"https://therivagallery.com/the-big-leaf-safe-start/\"><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025-14-1.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<p><strong><strong>The Big Leaf &#8211; Safe Start </strong></strong></p>\n\n<p>Consulting for Safe Start, a surgeon-founded startup preventing &#8220;never events&#8221; in surgery, through an executive consulting firm based in Toronto. <a href=\"https://therivagallery.com/the-big-leaf-safe-start/\">Click to learn more.</a></p>\n\n<figure><a href=\"https://therivagallery.com/consult-your-community/\"><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025-13-1.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<p><strong>Consult Your Community</strong></p>\n\n<p>Leveraging strategic thinking to support local organizations, drive growth, and design impactful initiatives that benefit both students and communities. <a href=\"https://therivagallery.com/consult-your-community/\">Click to learn more.</a></p>\n\n<figure><a href=\"https://therivagallery.com/ai-consulting-unc/\"><img src=\"/gallery/2025/03/copy-of-vision-board-spring-2025-12-1.webp\" width=\"1400\" height=\"788\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<p><strong>AI Consulting @ UNC Chapel Hill</strong></p>\n\n<p>Handling marketing, communications, and events for the AI consulting club, plus organizing a case competition to spark innovation. <a href=\"https://therivagallery.com/ai-consulting-unc/\">Click to learn more.</a></p>"
+  },
+  "resume": {
+    "slug": "resume",
+    "title": "resume?",
+    "date": "2025-03-13",
+    "text": "My resume. But, not really. Here’s the behind the scenes of the things you see on my resume or LinkedIn :’)",
+    "images": [
+      {
+        "full": "/gallery/2025/03/consulting-and-strategy-.webp",
+        "thumb": "/gallery/2025/03/consulting-and-strategy-.thumb.webp",
+        "width": 823,
+        "height": 462,
+        "aspect": 1.7814,
+        "usedBy": [
+          "page:resume"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/leadership-and-impact-.webp",
+        "thumb": "/gallery/2025/03/leadership-and-impact-.thumb.webp",
+        "width": 826,
+        "height": 465,
+        "aspect": 1.7763,
+        "usedBy": [
+          "page:resume"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/03/side-quests-.webp",
+        "thumb": "/gallery/2025/03/side-quests-.thumb.webp",
+        "width": 825,
+        "height": 463,
+        "aspect": 1.7819,
+        "usedBy": [
+          "page:resume"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<p>My resume. But, not really. Here&#8217;s the behind the scenes of the things you see on my resume or <a href=\"http://www.linkedin.com/in/rivakaneria\">LinkedIn </a>:&#8217;) </p>\n\n<div>\n<div>\n<div>\n<div aria-hidden=\"true\"></div>\n\n<div>\n<div>\n<div>\n<figure><a href=\"https://therivagallery.com/consulting-and-strategy/\"><img src=\"/gallery/2025/03/consulting-and-strategy-.webp\" width=\"823\" height=\"462\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<div>\n\n</div>\n</div>\n</div>\n\n<div>\n<div>\n<figure><a href=\"https://therivagallery.com/leadership-impact/\"><img src=\"/gallery/2025/03/leadership-and-impact-.webp\" width=\"826\" height=\"465\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n</div>\n</div>\n\n<div>\n<div>\n<figure><a href=\"https://therivagallery.com/side-quests-2/\"><img src=\"/gallery/2025/03/side-quests-.webp\" width=\"825\" height=\"463\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<div>\n\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+  },
+  "1437-2": {
+    "slug": "1437-2",
+    "title": "",
+    "date": "2025-06-01",
+    "text": "Sun Animation\n\n \n \n Bubble fun\n Sun Animation\n Snow Animation\n\n \n http://scenes/components.js \n http://scenes/sun.js",
+    "images": [],
+    "body": "Sun Animation\n\n <!-- nav -->\n <header>\n    <a href=\"index.html\">Bubble fun</a>\n    <a href=\"sun.html\">Sun Animation</a>\n    <a href=\"snow.html\">Snow Animation</a>\n</header>\n\n    \n    <a href=\"http://scenes/components.js\">http://scenes/components.js</a>    \n    <a href=\"http://scenes/sun.js\">http://scenes/sun.js</a>"
+  },
+  "books": {
+    "slug": "books",
+    "title": "books",
+    "date": "2025-06-25",
+    "text": "book reviews \n\nI post some of the books I read on Instagram, but I can’t really say much with 2,000 people watching—so it’s usually limited to just a numerical rating, how it made me feel, and a quote or two that hit.\n\nBut here’s the full yaps. SPOILERS ALERT!! \n\n9/10 \n\nI watched the movie a year before reading the book, but even knowing the plot, the book still surprised me. Snow’s inner thoughts reveal just how complex and cunning he is—and what leads to his downfall. It made me wonder what I’d do in his shoes, considering his circumstances. Even knowing the ending, I was on edge the whole time. If you liked the movie, the book is definitely more intense and worth the read.\n\n10/10\n\nThis is a beautiful Japanese novel of two novellas about love, loss, and healing. It offered a fresh perspective beyond the Western books I usually read. Her simple, powerful writing captures heartbreak and resilience, with memorable quotes about accepting life’s hardships and the strength of non-family bonds. I love that the novel shows you that you should consider yourself lucky if you have someone in your life that makes saying goodbye hard. Highly recommend. Quotes:\n\n“I realized that the world did not exist for my benefit. It followed that the ratio of pleasant and unpleasant things around me would not change. It wasn’t up to me. It was clear that the best thing to do was to adopt a sort of muddled cheerfulness.”\n\n“People aren’t overcome by situations or outside forces; defeat invades from within.”\n\n“But it won’t hurt so much if you just accept it as a part of life”\n\n“It was the mystery of being close to someone who is not family.”\n\n10/10\n\nThe structure was a bit confusing at first but everything clicked by the end. It really hits you with the idea that you might not get another day, so you should make every moment count—not in a morbid way, just live a good story. What stuck with me most is how two strangers, knowing their time is limited, manage to build something real anyway. It makes you think about how you spend your time, and who you spend it with.\n\n5/10\n\nThe behavioral economics concepts are fascinating and insightful, but I found many of the experiments poorly designed or biased, which weakened the arguments. The book often focuses too much on experimental details rather than unpacking the implications or addressing limitations. It’s an interesting read overall, but could have been stronger with clearer explanations and more critical reflection on the research.\n\n10/10\n\nThis book takes place during the 50th Hunger Games (aka the one Haymitch won) and somehow connects all the dots from the other books to make everything way worse, but in the best way possible. Everything you think you know about the Capitol is actually ten times worse.\n\nI literally read it in one sitting. I didn’t move from the couch all day and even read while eating. And I was in tears by the end. \n\n8/10\n\nThe title definitely holds true. The ideas aren’t brand new, but the book frames them in totally new ways. This was my second time reading it, and obviously more of it stuck, especially if you’re into the whole “harsh reality” of things (which I am sometimes). I gave it an 8/10 because it’s well-written and thought-provoking, even if I didn’t agree with everything.\nFavorite essay: #36\n\nIf you’re interested, I wrote more about essay #12 on my blog about the knowing-doing gap. \n\n6/10\n\nThe ending with James and the last call actually made me cry, but overall I’d give it a 6. The plot was okay, focusing on Julie’s life after Sam’s death. I’m lucky not to have experienced true grief yet, so while I know it’s inevitable, I’m not sure I’m built for that kind of deep pain. Julie’s grieving felt real but didn’t dive too deep, so it didn’t fully hit me or have the same impact it might for someone going through loss. Still, it’s a sweet story for anyone dealing with grief.\n\n7.5/10\n\nThe ending was bittersweet. I liked the storyline and the title was intriguing, but it could have been developed more. Joseph’s time with Jack’s family was detailed but didn’t have much impact. I wish we learned more about his time in juvie, his dad, or his journey with Madeline. The ending felt rushed, and it would have been nice to see Jupiter’s perspective later or switch between Jack’s and Madeline’s viewpoints.\n\n8/10\nI reread Hatchet after eight years because it randomly came to mind. It was the first book that ever made me sob, especially when the pilot died. Although some quotes hit a bit too bluntly for my taste, I still love them.\n\n“…he learned the most important rule of survival, which was that feeling sorry for yourself didn’t work.” \n\n“You are your most valuable asset. Don’t forget that. You are the best thing you have.” \n\n10/10\n\n10/10\n\nThis is a powerful reminder to notice the everyday things we usually overlook. Using the story of two fish unaware of the water around them, Wallace challenges us to step out of autopilot and choose how we see the world. I wrote more about how this speech resonated with me during a high school class (and later again in a college class) in my blog post here: (about water). \n\n9.5/10\n\n7/10\n\nI gave the Harry Potter series a 7 out of 10. I binge-read all the books in a week, and while I enjoyed the magical world and characters, some parts felt dragged out or overhyped. It was fun to experience but didn’t totally wow me like I expected.\n\n9/10\n\nBeyond the action, it’s a sharp look at power, control, and survival. The Capitol’s use of media feels all too real, and Katniss’s struggle is about more than just survival, it’s about identity and resisting oppression. The story digs into trauma, morality, and inequality in a way that stuck with me long after reading.\n\n6.5/10\n\nCongrats on making it to the end! I definitely read way more in middle school, but unfortunately I’ve forgotten all of it — plus, you’ve probably already read those books anyway. You know the gist.\n\nIf you’ve got any recs for me though, send them my way 🙂",
+    "images": [
+      {
+        "full": "/gallery/2025/06/tbosas.webp",
+        "thumb": "/gallery/2025/06/tbosas.thumb.webp",
+        "width": 923,
+        "height": 1400,
+        "aspect": 0.6593,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/kitchen.webp",
+        "thumb": "/gallery/2025/06/kitchen.thumb.webp",
+        "width": 690,
+        "height": 1000,
+        "aspect": 0.69,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/they-both-die-at-the-end.webp",
+        "thumb": "/gallery/2025/06/they-both-die-at-the-end.thumb.webp",
+        "width": 662,
+        "height": 1000,
+        "aspect": 0.662,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/predictably-irrational.webp",
+        "thumb": "/gallery/2025/06/predictably-irrational.thumb.webp",
+        "width": 182,
+        "height": 277,
+        "aspect": 0.657,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/sotr.webp",
+        "thumb": "/gallery/2025/06/sotr.thumb.webp",
+        "width": 938,
+        "height": 1400,
+        "aspect": 0.67,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/101-essays-that-will-change-the-way-you-think-1.webp",
+        "thumb": "/gallery/2025/06/101-essays-that-will-change-the-way-you-think-1.thumb.webp",
+        "width": 667,
+        "height": 1000,
+        "aspect": 0.667,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/youve-reached-sam.webp",
+        "thumb": "/gallery/2025/06/youve-reached-sam.thumb.webp",
+        "width": 647,
+        "height": 1000,
+        "aspect": 0.647,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/orbiting-jupiter.webp",
+        "thumb": "/gallery/2025/06/orbiting-jupiter.thumb.webp",
+        "width": 934,
+        "height": 1400,
+        "aspect": 0.6671,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/hatchet.webp",
+        "thumb": "/gallery/2025/06/hatchet.thumb.webp",
+        "width": 184,
+        "height": 274,
+        "aspect": 0.6715,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/how-will-you-measure-your-life.webp",
+        "thumb": "/gallery/2025/06/how-will-you-measure-your-life.thumb.webp",
+        "width": 938,
+        "height": 1400,
+        "aspect": 0.67,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/this-is-water.webp",
+        "thumb": "/gallery/2025/06/this-is-water.thumb.webp",
+        "width": 186,
+        "height": 272,
+        "aspect": 0.6838,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/selection-series.webp",
+        "thumb": "/gallery/2025/06/selection-series.thumb.webp",
+        "width": 293,
+        "height": 400,
+        "aspect": 0.7325,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/harry-potter.webp",
+        "thumb": "/gallery/2025/06/harry-potter.thumb.webp",
+        "width": 1120,
+        "height": 1400,
+        "aspect": 0.8,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/thg.webp",
+        "thumb": "/gallery/2025/06/thg.thumb.webp",
+        "width": 800,
+        "height": 800,
+        "aspect": 1,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/the-lights-that-find-us.webp",
+        "thumb": "/gallery/2025/06/the-lights-that-find-us.thumb.webp",
+        "width": 675,
+        "height": 1000,
+        "aspect": 0.675,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/looking-for-alaska-1.webp",
+        "thumb": "/gallery/2025/06/looking-for-alaska-1.thumb.webp",
+        "width": 262,
+        "height": 381,
+        "aspect": 0.6877,
+        "usedBy": [
+          "page:books"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h2>book reviews </h2>\n\n<p>I post some of the books I read on Instagram, but I can’t really say much with 2,000 people watching—so it’s usually limited to just a numerical rating, how it made me feel, and a quote or two that hit.</p>\n\n<p>But here&#8217;s the full yaps. SPOILERS ALERT!! </p>\n\n<div><figure><img src=\"/gallery/2025/06/tbosas.webp\" width=\"923\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>9/10</strong> </p>\n\n<p>I watched the movie a year before reading the book, but even knowing the plot, the book still surprised me. Snow’s inner thoughts reveal just how complex and cunning he is—and what leads to his downfall. It made me wonder what I’d do in his shoes, considering his circumstances. Even knowing the ending, I was on edge the whole time. If you liked the movie, the book is definitely more intense and worth the read.</p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/kitchen.webp\" width=\"690\" height=\"1000\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>10/10</strong></p>\n\n<p>This  is a beautiful Japanese novel of two novellas about love, loss, and healing. It offered a fresh perspective beyond the Western books I usually read. Her simple, powerful writing captures heartbreak and resilience, with memorable quotes about accepting life’s hardships and the strength of non-family bonds. I love that the novel shows you that you should consider yourself lucky if you have someone in your life that makes saying goodbye hard. Highly recommend. Quotes:</p>\n</div></div>\n\n<blockquote>\n<p>“I realized that the world did not exist for my benefit. It followed that the ratio of pleasant and unpleasant things around me would not change. It wasn’t up to me. It was clear that the best thing to do was to adopt a sort of muddled cheerfulness.”</p>\n</blockquote>\n\n<blockquote>\n<p>“People aren’t overcome by situations or outside forces; defeat invades from within.”</p>\n</blockquote>\n\n<blockquote>\n<p>“But it won’t hurt so much if you just accept it as a part of life”</p>\n</blockquote>\n\n<blockquote>\n<p>“It was the mystery of being close to someone who is not family.”</p>\n</blockquote>\n\n<div><figure><img src=\"/gallery/2025/06/they-both-die-at-the-end.webp\" width=\"662\" height=\"1000\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>10/10</strong></p>\n\n<p>The structure was a bit confusing at first but everything clicked by the end. It really hits you with the idea that you might not get another day, so you should make every moment count—not in a morbid way, just live a good story. What stuck with me most is how two strangers, knowing their time is limited, manage to build something real anyway. It makes you think about how you spend your time, and who you spend it with.</p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/predictably-irrational.webp\" width=\"182\" height=\"277\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>5/10</strong></p>\n\n<p>The behavioral economics concepts are fascinating and insightful, but I found many of the experiments poorly designed or biased, which weakened the arguments. The book often focuses too much on experimental details rather than unpacking the implications or addressing limitations. It’s an interesting read overall, but could have been stronger with clearer explanations and more critical reflection on the research.<br></p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/sotr.webp\" width=\"938\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>10/10</strong></p>\n\n<p>This book takes place during the 50th Hunger Games (aka the one Haymitch won) and somehow connects all the dots from the other books to make everything way worse, but in the best way possible. Everything you think you know about the Capitol is actually ten times worse.</p>\n\n<p>I literally read it in one sitting. I didn’t move from the couch all day and even read while eating. And I was in tears by the end. </p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/101-essays-that-will-change-the-way-you-think-1.webp\" width=\"667\" height=\"1000\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>8/10</strong></p>\n\n<p>The title definitely holds true. The ideas aren’t brand new, but the book frames them in totally new ways. This was my second time reading it, and obviously more of it stuck, especially if you’re into the whole “harsh reality” of things (which I am sometimes). I gave it an 8/10 because it&#8217;s well-written and thought-provoking, even if I didn’t agree with everything.<br>Favorite essay: #36</p>\n\n<p>If you&#8217;re interested, I wrote more about <a href=\"/journal/essay-12\">essay #12 on my blog</a> about the knowing-doing gap. <br></p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/youve-reached-sam.webp\" width=\"647\" height=\"1000\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>6/10</strong></p>\n\n<p>The ending with James and the last call actually made me cry, but overall I’d give it a 6. The plot was okay, focusing on Julie’s life after Sam’s death. I’m lucky not to have experienced true grief yet, so while I know it’s inevitable, I’m not sure I’m built for that kind of deep pain. Julie’s grieving felt real but didn’t dive too deep, so it didn’t fully hit me or have the same impact it might for someone going through loss. Still, it’s a sweet story for anyone dealing with grief.</p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/orbiting-jupiter.webp\" width=\"934\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>7.5/10</strong></p>\n\n<p>The ending was bittersweet. I liked the storyline and the title was intriguing, but it could have been developed more. Joseph’s time with Jack’s family was detailed but didn’t have much impact. I wish we learned more about his time in juvie, his dad, or his journey with Madeline. The ending felt rushed, and it would have been nice to see Jupiter’s perspective later or switch between Jack’s and Madeline’s viewpoints.</p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/hatchet.webp\" width=\"184\" height=\"274\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>8/10</strong><br>I reread Hatchet after eight years because it randomly came to mind. It was the first book that ever made me sob, especially when the pilot died. Although some quotes hit a bit too bluntly for my taste, I still love them.</p>\n</div></div>\n\n<blockquote>\n<p>&#8220;&#8230;he learned the most important rule of survival, which was that feeling sorry for yourself didn&#8217;t work.&#8221; </p>\n</blockquote>\n\n<blockquote>\n<p>&#8220;You are your most valuable asset. Don&#8217;t forget that. You are the best thing you have.&#8221; </p>\n</blockquote>\n\n<div><figure><img src=\"/gallery/2025/06/how-will-you-measure-your-life.webp\" width=\"938\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>10/10</strong></p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/this-is-water.webp\" width=\"186\" height=\"272\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>10/10</strong></p>\n\n<p>This is a powerful reminder to notice the everyday things we usually overlook. Using the story of two fish unaware of the water around them, Wallace challenges us to step out of autopilot and choose how we see the world. I wrote more about how this <a href=\"https://www.youtube.com/watch?v=eC7xzavzEKY\">speech </a>resonated with me during a high school class  (and later again in a college class) in my blog post here: (<a href=\"/journal/about-the-water\">about water</a>). <br></p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/selection-series.webp\" width=\"293\" height=\"400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>9.5/10</strong></p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/harry-potter.webp\" width=\"1120\" height=\"1400\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>7/10</strong></p>\n\n<p>I gave the Harry Potter series a 7 out of 10. I binge-read all the books in a week, and while I enjoyed the magical world and characters, some parts felt dragged out or overhyped. It was fun to experience but didn’t totally wow me like I expected.</p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/thg.webp\" width=\"800\" height=\"800\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>9/10</strong></p>\n\n<p>Beyond the action, it’s a sharp look at power, control, and survival. The Capitol’s use of media feels all too real, and Katniss’s struggle is about more than just survival, it’s about identity and resisting oppression. The story digs into trauma, morality, and inequality in a way that stuck with me long after reading.</p>\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/the-lights-that-find-us.webp\" width=\"675\" height=\"1000\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n\n</div></div>\n\n<div><figure><img src=\"/gallery/2025/06/looking-for-alaska-1.webp\" width=\"262\" height=\"381\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure><div>\n<p><strong>6.5/10</strong></p>\n</div></div>\n\n<div aria-hidden=\"true\"></div>\n\n<p>Congrats on making it to the end! I definitely read way more in middle school, but unfortunately I’ve forgotten all of it — plus, you’ve probably already read those books anyway. You know the gist.</p>\n\n<p>If you’ve got any recs for me though, send them my way 🙂</p>"
+  },
+  "quotes": {
+    "slug": "quotes",
+    "title": "quotes",
+    "date": "2025-06-25",
+    "text": "words i live by \n\n“Where there’s a will there’s a way”\n\n— Proverb \n\n“Don’t get too busy making a living that you forget to make a life.”\n\n— Dolly Parton\n\n“The walls of a person’s heart are not impregnable, not if they have ever known love.”\n\n— Sunrise on the Reaping by Suzanne Collins\n\n“The fool who knows he is a fool is much wiser.” \n\n— Buddha \n\n“Believe you can, then you will.” \n\n— Mulan \n\n“In the end, the love you take is equal to the love you make.” \n\n— Paul McCartney\n\n“Not everyday is a good day, but there’s something good in every day.” \n\n— Alice Morse Earle\n\n“Don’t let anyone tell you ‘no’. Do it with conviction, do it with passion, and you’ll find a way.” \n\n— Amanda Tapping\n\n“You cannot read experience.” \n\n— Jafar\n\n“Choose your hard.” \n\n“The more you do, the more you know. Increase the surface area of your life.” \n\nDo the best you can until you know better. Then when you know better, do better.” \n\n— Maya Angelou \n\n“There are far, far better things ahead than any we leave behind.” \n\n— C.S. Lewis \n\n“The secret to having a good life is knowing you already have one.”\n\n“What we give doesn’t always return, but what we give is always what we are.” \n\n“Regret is unprofessional.” \n\nRules for life or whatnot: \n\nRule #1: Know that you are not special. \n\nRule #2: Keep close anyone who disagrees with Rule #1. \n\n— some adulting book or another \n\n“Do it, or don’t. You’ll regret both.” \n\n“You like because, and you love despite.” \n\n— Set it Up",
+    "images": [],
+    "body": "<h2>words i live by </h2>\n\n<blockquote>\n<p><em>&#8220;Where there&#8217;s a will there&#8217;s a way&#8221;</em></p>\n\n<p>— Proverb </p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;Don&#8217;t get too busy making a living that you forget to make a life.&#8221;</em></p>\n\n<p>— Dolly Parton</p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;The walls of a person&#8217;s heart are not impregnable, not if they have ever known love.&#8221;</em></p>\n\n<p>— Sunrise on the Reaping by&nbsp;Suzanne Collins</p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;The fool who knows he is a fool is much wiser.&#8221; </em></p>\n\n<p>— Buddha </p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;Believe you can, then you will.&#8221; </em></p>\n\n<p>— Mulan </p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;In the end, the love you take is equal to the love you make.&#8221; </em></p>\n\n<p>— Paul McCartney</p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;Not everyday is a good day, but there&#8217;s something good in every day.&#8221; </em></p>\n\n<p>— Alice Morse Earle</p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;Don&#8217;t let anyone tell you &#8216;no&#8217;. Do it with conviction, do it with passion, and you&#8217;ll find a way.&#8221; </em></p>\n\n<p>— Amanda Tapping</p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;You cannot read experience.&#8221; </em></p>\n\n<p>— Jafar</p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;Choose your hard.&#8221; </em></p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;The more you do, the more you know. Increase the surface area of your life.&#8221; </em></p>\n</blockquote>\n\n<blockquote>\n<p><em>Do the best you can until you know better. Then when you know better, do better.&#8221; </em></p>\n\n<p>— Maya Angelou </p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;There are far, far better things ahead than any we leave behind.&#8221; </em></p>\n\n<p>— C.S. Lewis </p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;The secret to having a good life is knowing you already have one.&#8221;</em></p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;What we give doesn&#8217;t always return, but what we give is always what we are.&#8221; </em></p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;Regret is unprofessional.&#8221; </em></p>\n</blockquote>\n\n<blockquote>\n<p><em>Rules for life or whatnot: </em></p>\n\n<p><em>Rule #1: Know that you are not special. </em></p>\n\n<p><em>Rule #2: Keep close anyone who disagrees with Rule #1. </em></p>\n\n<p>— some adulting book or another </p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;Do it, or don&#8217;t. You&#8217;ll regret both.&#8221; </em></p>\n</blockquote>\n\n<blockquote>\n<p><em>&#8220;You like because, and you love despite.&#8221; </em></p>\n\n<p>— Set it Up</p>\n</blockquote>"
+  },
+  "blog": {
+    "slug": "blog",
+    "title": "blog",
+    "date": "2025-06-25",
+    "text": "unreliable narrator\n\nsomething to believe in\n\nsoc #6\n\nmy parent’s house\n\ni’m a big fan of sweet things\n\nsoc #5: i hate camping \n\nsoc #4\n\nthe anatomy of being an absolute\n\ncan’t help falling in love\n\nrewriting a classic journey\n\na sample-sized soul\n\nbuddhism, heartbreak, etc.\n\nplace = people\n\n21 before 21\n\nsoc #3: on thinking (or lack thereof)\n\nsoc #2\n\nalcohol for thought\n\nfirst (of many) SOC post\n\nhalf of you\n\nsundays like this, someday\n\na little *in* love\n\nyou’re just human\n\nredefining ambition\n\nto: strangers i want to love\n\ni don’t think that’s true\n\nabout water\n\n“art made to be lived with”\n\nlearning the names of all 195 countries (and how it taught me about life)\n\non productivity hacks?\n\nessay #12\n\ni love experiencing heartbreak\n\nshiny object syndrome: the art of mastering nothing\n\nrebranding\n\npeacock palette\n\nfirst year’s end\n\nthe rockery\n\noverwhelmed by her\n\nearth without art is just “eh”\n\nstarting point",
+    "images": [
+      {
+        "full": "/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.webp",
+        "thumb": "/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.thumb.webp",
+        "width": 888,
+        "height": 888,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:unreliable-narrator"
+        ],
+        "alt": "unreliable narrator"
+      },
+      {
+        "full": "/gallery/2026/09/images.webp",
+        "thumb": "/gallery/2026/09/images.thumb.webp",
+        "width": 512,
+        "height": 512,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:something-to-believe-in"
+        ],
+        "alt": "something to believe in"
+      },
+      {
+        "full": "/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.webp",
+        "thumb": "/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-6"
+        ],
+        "alt": "soc #6"
+      },
+      {
+        "full": "/gallery/2026/05/detachment.webp",
+        "thumb": "/gallery/2026/05/detachment.thumb.webp",
+        "width": 640,
+        "height": 640,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:my-parents-house"
+        ],
+        "alt": "my parent’s house"
+      },
+      {
+        "full": "/gallery/2026/04/sweet-e1775446739724.webp",
+        "thumb": "/gallery/2026/04/sweet-e1775446739724.thumb.webp",
+        "width": 1000,
+        "height": 1000,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:im-a-big-fan-of-sweet-things"
+        ],
+        "alt": "i’m a big fan of sweet things"
+      },
+      {
+        "full": "/gallery/2026/04/camping-e1775445125212.webp",
+        "thumb": "/gallery/2026/04/camping-e1775445125212.thumb.webp",
+        "width": 1150,
+        "height": 1150,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-5-i-hate-camping"
+        ],
+        "alt": "soc #5: i hate camping "
+      },
+      {
+        "full": "/gallery/2026/02/freud-e1770949083936.webp",
+        "thumb": "/gallery/2026/02/freud-e1770949083936.thumb.webp",
+        "width": 910,
+        "height": 910,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-4"
+        ],
+        "alt": "soc #4"
+      },
+      {
+        "full": "/gallery/2026/02/edy-and-riva-e1770695622585.webp",
+        "thumb": "/gallery/2026/02/edy-and-riva-e1770695622585.thumb.webp",
+        "width": 900,
+        "height": 900,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:the-anatomy-of-being-an-absolute"
+        ],
+        "alt": "the anatomy of being an absolute"
+      },
+      {
+        "full": "/gallery/2026/02/image-e1770184866461.webp",
+        "thumb": "/gallery/2026/02/image-e1770184866461.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:cant-help-falling-in-love"
+        ],
+        "alt": "can’t help falling in love"
+      },
+      {
+        "full": "/gallery/2025/12/train-2-e1766154030971.webp",
+        "thumb": "/gallery/2025/12/train-2-e1766154030971.thumb.webp",
+        "width": 341,
+        "height": 341,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:rewriting-a-classic-journey"
+        ],
+        "alt": "rewriting a classic journey"
+      },
+      {
+        "full": "/gallery/2025/12/img_2182-e1765836518649.webp",
+        "thumb": "/gallery/2025/12/img_2182-e1765836518649.thumb.webp",
+        "width": 1400,
+        "height": 1400,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:a-sample-sized-soul"
+        ],
+        "alt": "a sample-sized soul"
+      },
+      {
+        "full": "/gallery/2025/10/buddha-pink-color-e1761125080380.webp",
+        "thumb": "/gallery/2025/10/buddha-pink-color-e1761125080380.thumb.webp",
+        "width": 641,
+        "height": 641,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:buddhism-heartbreak-etc"
+        ],
+        "alt": "buddhism, heartbreak, etc."
+      },
+      {
+        "full": "/gallery/2025/10/people.webp",
+        "thumb": "/gallery/2025/10/people.thumb.webp",
+        "width": 600,
+        "height": 600,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:place-people"
+        ],
+        "alt": "place = people"
+      },
+      {
+        "full": "/gallery/2025/09/birthday-e1758701543231.webp",
+        "thumb": "/gallery/2025/09/birthday-e1758701543231.thumb.webp",
+        "width": 736,
+        "height": 736,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:21-before-21"
+        ],
+        "alt": "21 before 21"
+      },
+      {
+        "full": "/gallery/2025/09/thought-e1758086074247.webp",
+        "thumb": "/gallery/2025/09/thought-e1758086074247.thumb.webp",
+        "width": 720,
+        "height": 720,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-3-on-thinking-or-lack-thereof"
+        ],
+        "alt": "soc #3: on thinking (or lack thereof)"
+      },
+      {
+        "full": "/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.webp",
+        "thumb": "/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:soc-2"
+        ],
+        "alt": "soc #2"
+      },
+      {
+        "full": "/gallery/2025/07/img_0020-1-e1757480572238.webp",
+        "thumb": "/gallery/2025/07/img_0020-1-e1757480572238.thumb.webp",
+        "width": 1102,
+        "height": 1102,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:alcohol-for-thought"
+        ],
+        "alt": "alcohol for thought"
+      },
+      {
+        "full": "/gallery/2025/07/img_9630.webp",
+        "thumb": "/gallery/2025/07/img_9630.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:first-of-many-soc-post"
+        ],
+        "alt": "first (of many) SOC post"
+      },
+      {
+        "full": "/gallery/2025/06/rajkot-sunrise-e1750896192400.webp",
+        "thumb": "/gallery/2025/06/rajkot-sunrise-e1750896192400.thumb.webp",
+        "width": 1303,
+        "height": 1303,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:half-of-you"
+        ],
+        "alt": "half of you"
+      },
+      {
+        "full": "/gallery/2025/06/leafy-1-e1748782115954.webp",
+        "thumb": "/gallery/2025/06/leafy-1-e1748782115954.thumb.webp",
+        "width": 1400,
+        "height": 1400,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:sundays-like-this-someday"
+        ],
+        "alt": "sundays like this, someday"
+      },
+      {
+        "full": "/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.webp",
+        "thumb": "/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.thumb.webp",
+        "width": 1170,
+        "height": 1170,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:a-little-in-love"
+        ],
+        "alt": "a little *in* love"
+      },
+      {
+        "full": "/gallery/2025/05/falling-e1748567467523.webp",
+        "thumb": "/gallery/2025/05/falling-e1748567467523.thumb.webp",
+        "width": 546,
+        "height": 546,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:youre-just-human"
+        ],
+        "alt": "you’re just human"
+      },
+      {
+        "full": "/gallery/2025/03/background-1-e1748061549984.webp",
+        "thumb": "/gallery/2025/03/background-1-e1748061549984.thumb.webp",
+        "width": 459,
+        "height": 459,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:redefining-ambition"
+        ],
+        "alt": "redefining ambition"
+      },
+      {
+        "full": "/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.webp",
+        "thumb": "/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.thumb.webp",
+        "width": 450,
+        "height": 450,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:love-letters-to-strangers-i-want-to-love"
+        ],
+        "alt": "to: strangers i want to love"
+      },
+      {
+        "full": "/gallery/2025/05/cananda-e1747859723429.webp",
+        "thumb": "/gallery/2025/05/cananda-e1747859723429.thumb.webp",
+        "width": 541,
+        "height": 541,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:i-dont-think-thats-true"
+        ],
+        "alt": "i don’t think that’s true"
+      },
+      {
+        "full": "/gallery/2025/05/d-e1747852193283.webp",
+        "thumb": "/gallery/2025/05/d-e1747852193283.thumb.webp",
+        "width": 720,
+        "height": 720,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:about-the-water"
+        ],
+        "alt": "about water"
+      },
+      {
+        "full": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.webp",
+        "thumb": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.thumb.webp",
+        "width": 575,
+        "height": 575,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "page:customs",
+          "post:art-made-to-be-lived-with"
+        ],
+        "alt": "“art made to be lived with”"
+      },
+      {
+        "full": "/gallery/2025/05/img_4242.webp",
+        "thumb": "/gallery/2025/05/img_4242.thumb.webp",
+        "width": 1200,
+        "height": 1200,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:learning-all-195-countries-of-the-world-and-how-it-taught-me-about-life"
+        ],
+        "alt": "learning the names of all 195 countries (and how it taught me about life)"
+      },
+      {
+        "full": "/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.webp",
+        "thumb": "/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.thumb.webp",
+        "width": 335,
+        "height": 335,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:on-productivity-hacks"
+        ],
+        "alt": "on productivity hacks?"
+      },
+      {
+        "full": "/gallery/2025/03/art-e1742932988759.webp",
+        "thumb": "/gallery/2025/03/art-e1742932988759.thumb.webp",
+        "width": 562,
+        "height": 562,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:essay-12"
+        ],
+        "alt": "essay #12"
+      },
+      {
+        "full": "/gallery/2024/12/cover-pic-e1733700546163.webp",
+        "thumb": "/gallery/2024/12/cover-pic-e1733700546163.thumb.webp",
+        "width": 665,
+        "height": 665,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:i-love-experiencing-heartbreak"
+        ],
+        "alt": "i love experiencing heartbreak"
+      },
+      {
+        "full": "/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.webp",
+        "thumb": "/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.thumb.webp",
+        "width": 400,
+        "height": 400,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:shiny-object-syndrome-the-art-of-mastering-nothing"
+        ],
+        "alt": "shiny object syndrome: the art of mastering nothing"
+      },
+      {
+        "full": "/gallery/2024/12/sunset-e1733386544202.webp",
+        "thumb": "/gallery/2024/12/sunset-e1733386544202.thumb.webp",
+        "width": 434,
+        "height": 439,
+        "aspect": 0.9886,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:rebranding"
+        ],
+        "alt": "rebranding"
+      },
+      {
+        "full": "/gallery/2024/06/color-wheel.webp",
+        "thumb": "/gallery/2024/06/color-wheel.thumb.webp",
+        "width": 582,
+        "height": 585,
+        "aspect": 0.9949,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:peacock-palette"
+        ],
+        "alt": "peacock palette"
+      },
+      {
+        "full": "/gallery/2024/05/sunset-e1715792356231.webp",
+        "thumb": "/gallery/2024/05/sunset-e1715792356231.thumb.webp",
+        "width": 826,
+        "height": 822,
+        "aspect": 1.0049,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:first-years-end"
+        ],
+        "alt": "first year’s end"
+      },
+      {
+        "full": "/gallery/2023/11/post.webp",
+        "thumb": "/gallery/2023/11/post.thumb.webp",
+        "width": 658,
+        "height": 658,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "page:customs",
+          "post:the-rockery"
+        ],
+        "alt": "the rockery"
+      },
+      {
+        "full": "/gallery/2023/05/flower-2815934938-e1683320780576.webp",
+        "thumb": "/gallery/2023/05/flower-2815934938-e1683320780576.thumb.webp",
+        "width": 800,
+        "height": 800,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:overwhelmed-by-her"
+        ],
+        "alt": "overwhelmed by her"
+      },
+      {
+        "full": "/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif",
+        "thumb": "/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif",
+        "width": 500,
+        "height": 500,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:earth-without-art-is-just-eh"
+        ],
+        "animated": true,
+        "alt": "earth without art is just “eh”"
+      },
+      {
+        "full": "/gallery/2023/04/img_3349-3486079325-e1681654407125.webp",
+        "thumb": "/gallery/2023/04/img_3349-3486079325-e1681654407125.thumb.webp",
+        "width": 901,
+        "height": 901,
+        "aspect": 1,
+        "usedBy": [
+          "page:193-2",
+          "page:blog",
+          "post:starting-point"
+        ],
+        "alt": "starting point"
+      }
+    ],
+    "body": "<div><ul><li>\n\n<div>\n<div><figure><a href=\"/journal/unreliable-narrator\" target=\"_self\" ><img src=\"/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.webp\" width=\"888\" height=\"888\" alt=\"unreliable narrator\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/unreliable-narrator\" target=\"_self\" >unreliable narrator</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/something-to-believe-in\" target=\"_self\" ><img src=\"/gallery/2026/09/images.webp\" width=\"512\" height=\"512\" alt=\"something to believe in\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/something-to-believe-in\" target=\"_self\" >something to believe in</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-6\" target=\"_self\" ><img src=\"/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.webp\" width=\"1200\" height=\"1200\" alt=\"soc #6\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-6\" target=\"_self\" >soc #6</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/my-parents-house\" target=\"_self\" ><img src=\"/gallery/2026/05/detachment.webp\" width=\"640\" height=\"640\" alt=\"my parent&#8217;s house\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/my-parents-house\" target=\"_self\" >my parent&#8217;s house</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/im-a-big-fan-of-sweet-things\" target=\"_self\" ><img src=\"/gallery/2026/04/sweet-e1775446739724.webp\" width=\"1000\" height=\"1000\" alt=\"i&#8217;m a big fan of sweet things\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/im-a-big-fan-of-sweet-things\" target=\"_self\" >i&#8217;m a big fan of sweet things</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-5-i-hate-camping\" target=\"_self\" ><img src=\"/gallery/2026/04/camping-e1775445125212.webp\" width=\"1150\" height=\"1150\" alt=\"soc #5: i hate camping \" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-5-i-hate-camping\" target=\"_self\" >soc #5: i hate camping </a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-4\" target=\"_self\" ><img src=\"/gallery/2026/02/freud-e1770949083936.webp\" width=\"910\" height=\"910\" alt=\"soc #4\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-4\" target=\"_self\" >soc #4</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/the-anatomy-of-being-an-absolute\" target=\"_self\" ><img src=\"/gallery/2026/02/edy-and-riva-e1770695622585.webp\" width=\"900\" height=\"900\" alt=\"the anatomy of being an absolute\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/the-anatomy-of-being-an-absolute\" target=\"_self\" >the anatomy of being an absolute</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/cant-help-falling-in-love\" target=\"_self\" ><img src=\"/gallery/2026/02/image-e1770184866461.webp\" width=\"1200\" height=\"1200\" alt=\"can&#8217;t help falling in love\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/cant-help-falling-in-love\" target=\"_self\" >can&#8217;t help falling in love</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/rewriting-a-classic-journey\" target=\"_self\" ><img src=\"/gallery/2025/12/train-2-e1766154030971.webp\" width=\"341\" height=\"341\" alt=\"rewriting a classic journey\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/rewriting-a-classic-journey\" target=\"_self\" >rewriting a classic journey</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/a-sample-sized-soul\" target=\"_self\" ><img src=\"/gallery/2025/12/img_2182-e1765836518649.webp\" width=\"1400\" height=\"1400\" alt=\"a sample-sized soul\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/a-sample-sized-soul\" target=\"_self\" >a sample-sized soul</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/buddhism-heartbreak-etc\" target=\"_self\" ><img src=\"/gallery/2025/10/buddha-pink-color-e1761125080380.webp\" width=\"641\" height=\"641\" alt=\"buddhism, heartbreak, etc.\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/buddhism-heartbreak-etc\" target=\"_self\" >buddhism, heartbreak, etc.</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/place-people\" target=\"_self\" ><img src=\"/gallery/2025/10/people.webp\" width=\"600\" height=\"600\" alt=\"place = people\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/place-people\" target=\"_self\" >place = people</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/21-before-21\" target=\"_self\" ><img src=\"/gallery/2025/09/birthday-e1758701543231.webp\" width=\"736\" height=\"736\" alt=\"21 before 21\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/21-before-21\" target=\"_self\" >21 before 21</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-3-on-thinking-or-lack-thereof\" target=\"_self\" ><img src=\"/gallery/2025/09/thought-e1758086074247.webp\" width=\"720\" height=\"720\" alt=\"soc #3: on thinking (or lack thereof)\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-3-on-thinking-or-lack-thereof\" target=\"_self\" >soc #3: on thinking (or lack thereof)</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/soc-2\" target=\"_self\" ><img src=\"/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.webp\" width=\"1200\" height=\"1200\" alt=\"soc #2\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/soc-2\" target=\"_self\" >soc #2</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/alcohol-for-thought\" target=\"_self\" ><img src=\"/gallery/2025/07/img_0020-1-e1757480572238.webp\" width=\"1102\" height=\"1102\" alt=\"alcohol for thought\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/alcohol-for-thought\" target=\"_self\" >alcohol for thought</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/first-of-many-soc-post\" target=\"_self\" ><img src=\"/gallery/2025/07/img_9630.webp\" width=\"1200\" height=\"1200\" alt=\"first (of many) SOC post\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/first-of-many-soc-post\" target=\"_self\" >first (of many) SOC post</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/half-of-you\" target=\"_self\" ><img src=\"/gallery/2025/06/rajkot-sunrise-e1750896192400.webp\" width=\"1303\" height=\"1303\" alt=\"half of you\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/half-of-you\" target=\"_self\" >half of you</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/sundays-like-this-someday\" target=\"_self\" ><img src=\"/gallery/2025/06/leafy-1-e1748782115954.webp\" width=\"1400\" height=\"1400\" alt=\"sundays like this, someday\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/sundays-like-this-someday\" target=\"_self\" >sundays like this, someday</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/a-little-in-love\" target=\"_self\" ><img src=\"/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.webp\" width=\"1170\" height=\"1170\" alt=\"a little *in* love\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/a-little-in-love\" target=\"_self\" >a little *in* love</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/youre-just-human\" target=\"_self\" ><img src=\"/gallery/2025/05/falling-e1748567467523.webp\" width=\"546\" height=\"546\" alt=\"you’re just human\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/youre-just-human\" target=\"_self\" >you’re just human</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/redefining-ambition\" target=\"_self\" ><img src=\"/gallery/2025/03/background-1-e1748061549984.webp\" width=\"459\" height=\"459\" alt=\"redefining ambition\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/redefining-ambition\" target=\"_self\" >redefining ambition</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/love-letters-to-strangers-i-want-to-love\" target=\"_self\" ><img src=\"/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.webp\" width=\"450\" height=\"450\" alt=\"to: strangers i want to love\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/love-letters-to-strangers-i-want-to-love\" target=\"_self\" >to: strangers i want to love</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/i-dont-think-thats-true\" target=\"_self\" ><img src=\"/gallery/2025/05/cananda-e1747859723429.webp\" width=\"541\" height=\"541\" alt=\"i don&#8217;t think that&#8217;s true\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/i-dont-think-thats-true\" target=\"_self\" >i don&#8217;t think that&#8217;s true</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/about-the-water\" target=\"_self\" ><img src=\"/gallery/2025/05/d-e1747852193283.webp\" width=\"720\" height=\"720\" alt=\"about water\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/about-the-water\" target=\"_self\" >about water</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/art-made-to-be-lived-with\" target=\"_self\" ><img src=\"/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.webp\" width=\"575\" height=\"575\" alt=\"&#8220;art made to be lived with&#8221;\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/art-made-to-be-lived-with\" target=\"_self\" >&#8220;art made to be lived with&#8221;</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/learning-all-195-countries-of-the-world-and-how-it-taught-me-about-life\" target=\"_self\" ><img src=\"/gallery/2025/05/img_4242.webp\" width=\"1200\" height=\"1200\" alt=\"learning the names of all 195 countries (and how it taught me about life)\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/learning-all-195-countries-of-the-world-and-how-it-taught-me-about-life\" target=\"_self\" >learning the names of all 195 countries (and how it taught me about life)</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/on-productivity-hacks\" target=\"_self\" ><img src=\"/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.webp\" width=\"335\" height=\"335\" alt=\"on productivity hacks?\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/on-productivity-hacks\" target=\"_self\" >on productivity hacks?</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/essay-12\" target=\"_self\" ><img src=\"/gallery/2025/03/art-e1742932988759.webp\" width=\"562\" height=\"562\" alt=\"essay #12\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/essay-12\" target=\"_self\" >essay #12</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/i-love-experiencing-heartbreak\" target=\"_self\" ><img src=\"/gallery/2024/12/cover-pic-e1733700546163.webp\" width=\"665\" height=\"665\" alt=\"i love experiencing heartbreak\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/i-love-experiencing-heartbreak\" target=\"_self\" >i love experiencing heartbreak</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/shiny-object-syndrome-the-art-of-mastering-nothing\" target=\"_self\" ><img src=\"/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.webp\" width=\"400\" height=\"400\" alt=\"shiny object syndrome: the art of mastering nothing\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/shiny-object-syndrome-the-art-of-mastering-nothing\" target=\"_self\" >shiny object syndrome: the art of mastering nothing</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/rebranding\" target=\"_self\" ><img src=\"/gallery/2024/12/sunset-e1733386544202.webp\" width=\"434\" height=\"439\" alt=\"rebranding\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/rebranding\" target=\"_self\" >rebranding</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/peacock-palette\" target=\"_self\" ><img src=\"/gallery/2024/06/color-wheel.webp\" width=\"582\" height=\"585\" alt=\"peacock palette\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/peacock-palette\" target=\"_self\" >peacock palette</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/first-years-end\" target=\"_self\" ><img src=\"/gallery/2024/05/sunset-e1715792356231.webp\" width=\"826\" height=\"822\" alt=\"first year&#8217;s end\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/first-years-end\" target=\"_self\" >first year&#8217;s end</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/the-rockery\" target=\"_self\" ><img src=\"/gallery/2023/11/post.webp\" width=\"658\" height=\"658\" alt=\"the rockery\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/the-rockery\" target=\"_self\" >the rockery</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/overwhelmed-by-her\" target=\"_self\" ><img src=\"/gallery/2023/05/flower-2815934938-e1683320780576.webp\" width=\"800\" height=\"800\" alt=\"overwhelmed by her\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/overwhelmed-by-her\" target=\"_self\" >overwhelmed by her</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/earth-without-art-is-just-eh\" target=\"_self\" ><img src=\"/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif\" width=\"500\" height=\"500\" alt=\"earth without art is just &#8220;eh&#8221;\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/earth-without-art-is-just-eh\" target=\"_self\" >earth without art is just &#8220;eh&#8221;</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li><li>\n\n<div>\n<div><figure><a href=\"/journal/starting-point\" target=\"_self\" ><img src=\"/gallery/2023/04/img_3349-3486079325-e1681654407125.webp\" width=\"901\" height=\"901\" alt=\"starting point\" loading=\"lazy\" decoding=\"async\"></a></figure>\n\n<h2><a href=\"/journal/starting-point\" target=\"_self\" >starting point</a></h2>\n\n<div aria-hidden=\"true\"></div>\n</div>\n</div>\n\n</li></ul>\n\n</div>"
+  },
+  "home": {
+    "slug": "home",
+    "title": "home",
+    "date": "2025-06-25",
+    "text": "“What is done with love is done well.”\n\nVincent Van Gogh \n\nThat quote is probably in my top 4 favorite quotes (here’s the rest of the favorites). It’s something that I live by almost every day. This website is a collection of the things that I’ve done with love—art I’ve made, things I’ve written, places I’ve been, books that stuck with me, people I care about, and all the random things I’ve gotten curious about along the way. It’s a little gallery of my life and the things that make it meaningful. Thanks for stopping by! Click on each to learn more.\n\nWelcome to The Riva Gallery.\n\nA collection of personal, functional art. Pieces made to be used, worn, or just make a space feel a little more you. \nAka “art made to be lived with”. \n\nMy blog! This is a space for thoughts that don’t quite fit anywhere else into what I do—musings on life, little joys, heartbreaks, questions, and all the in-betweens. Think of it like a digital journal, open to anyone who might need it.\n\nA growing archive of books I’ve read—some life-changing, some recommendations, or ones I just liked a lot (or ones I really didn’t). \n\nFrom handmade souvenirs to filmed memories, this is a record of the places I’ve been and the small things I noticed while I was there.",
+    "images": [
+      {
+        "full": "/gallery/2025/06/site-gallery-5.webp",
+        "thumb": "/gallery/2025/06/site-gallery-5.thumb.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspect": 0.8,
+        "usedBy": [
+          "page:home",
+          "site:home-template"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/site-gallery-2-3.webp",
+        "thumb": "/gallery/2025/06/site-gallery-2-3.thumb.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspect": 0.8,
+        "usedBy": [
+          "page:home",
+          "site:home-template"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/site-gallery-1-3.webp",
+        "thumb": "/gallery/2025/06/site-gallery-1-3.thumb.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspect": 0.8,
+        "usedBy": [
+          "page:home",
+          "site:home-template"
+        ],
+        "alt": ""
+      },
+      {
+        "full": "/gallery/2025/06/site-gallery-3-1.webp",
+        "thumb": "/gallery/2025/06/site-gallery-3-1.thumb.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspect": 0.8,
+        "usedBy": [
+          "page:home",
+          "site:home-template"
+        ],
+        "alt": ""
+      }
+    ],
+    "body": "<h3>&#8220;What is done with love is done well.&#8221;</h3>\n\n<p>Vincent Van Gogh </p>\n\n<hr />\n\n<p>That quote is probably in my top 4 favorite quotes (<a href=\"https://therivagallery.com/quotes/\">here&#8217;s the rest of the favorites</a>). It&#8217;s something that I live by almost every day. This website is a collection<em> </em>of the things that I&#8217;ve done with love—art I’ve made, things I’ve written, places I’ve been, books that stuck with me, people I care about, and all the random things I’ve gotten curious about along the way. It’s a little gallery of my life and the things that make it meaningful. Thanks for stopping by! Click on each to learn more.</p>\n\n<p>Welcome to The Riva Gallery.</p>\n\n<hr />\n\n<div>\n<div>\n<figure><a href=\"https://therivagallery.com/customs/\"><img src=\"/gallery/2025/06/site-gallery-5.webp\" width=\"1080\" height=\"1350\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a><figcaption>A collection of personal, functional art. Pieces made to be used, worn, or just make a space feel a little more <em>you. </em><br>Aka <a href=\"/journal/art-made-to-be-lived-with\">“art made to be lived&nbsp;with”</a>. </figcaption></figure>\n</div>\n\n<div>\n<figure><a href=\"https://therivagallery.com/193-2/\"><img src=\"/gallery/2025/06/site-gallery-2-3.webp\" width=\"1080\" height=\"1350\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a><figcaption>My blog! This is a space for thoughts that don&#8217;t quite fit anywhere else into what I do—musings on life, little joys, heartbreaks, questions, and all the in-betweens. Think of it like a digital journal, open to anyone who might need it.</figcaption></figure>\n</div>\n</div>\n\n<div>\n<div>\n<figure><a href=\"https://therivagallery.com/books/\"><img src=\"/gallery/2025/06/site-gallery-1-3.webp\" width=\"1080\" height=\"1350\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a><figcaption>A growing archive of books I’ve read—some life-changing, some recommendations, or ones I just liked a lot (or ones I really didn&#8217;t). </figcaption></figure>\n</div>\n\n<div>\n<figure><img src=\"/gallery/2025/06/site-gallery-3-1.webp\" width=\"1080\" height=\"1350\" alt=\"\" loading=\"lazy\" decoding=\"async\"><figcaption>From handmade souvenirs to filmed memories, this is a record of the places I’ve been and the small things I noticed while I was there. </figcaption></figure>\n</div>\n</div>"
+  }
+}

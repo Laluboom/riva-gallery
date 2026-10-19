@@ -1,0 +1,2316 @@
+{
+  "2023/04/1_orig-1.jpg": {
+    "full": "/gallery/2023/04/1_orig-1.webp",
+    "tex": "/gallery/2023/04/1_orig-1.tex.webp",
+    "thumb": "/gallery/2023/04/1_orig-1.thumb.webp",
+    "width": 564,
+    "height": 541,
+    "aspect": 1.0425,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/2_orig-1.jpg": {
+    "full": "/gallery/2023/04/2_orig-1.webp",
+    "tex": "/gallery/2023/04/2_orig-1.tex.webp",
+    "thumb": "/gallery/2023/04/2_orig-1.thumb.webp",
+    "width": 564,
+    "height": 846,
+    "aspect": 0.6667,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/3_orig-1.jpg": {
+    "full": "/gallery/2023/04/3_orig-1.webp",
+    "tex": "/gallery/2023/04/3_orig-1.tex.webp",
+    "thumb": "/gallery/2023/04/3_orig-1.thumb.webp",
+    "width": 564,
+    "height": 636,
+    "aspect": 0.8868,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/abstract_orig.jpg": {
+    "full": "/gallery/2023/04/abstract_orig.webp",
+    "tex": "/gallery/2023/04/abstract_orig.tex.webp",
+    "thumb": "/gallery/2023/04/abstract_orig.thumb.webp",
+    "width": 640,
+    "height": 854,
+    "aspect": 0.7494,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/argon_orig.jpg": {
+    "full": "/gallery/2023/04/argon_orig.webp",
+    "tex": "/gallery/2023/04/argon_orig.tex.webp",
+    "thumb": "/gallery/2023/04/argon_orig.thumb.webp",
+    "width": 576,
+    "height": 768,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/black-and-white_orig-_1_-1.jpg": {
+    "full": "/gallery/2023/04/black-and-white_orig-_1_-1.webp",
+    "tex": "/gallery/2023/04/black-and-white_orig-_1_-1.tex.webp",
+    "thumb": "/gallery/2023/04/black-and-white_orig-_1_-1.thumb.webp",
+    "width": 1067,
+    "height": 800,
+    "aspect": 1.3337,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/image.png": {
+    "full": "/gallery/2023/04/image.webp",
+    "tex": "/gallery/2023/04/image.tex.webp",
+    "thumb": "/gallery/2023/04/image.thumb.webp",
+    "width": 1400,
+    "height": 451,
+    "aspect": 3.1042,
+    "usedBy": [
+      "post:earth-without-art-is-just-eh"
+    ]
+  },
+  "2023/04/img-7701.jpg": {
+    "full": "/gallery/2023/04/img-7701.webp",
+    "tex": "/gallery/2023/04/img-7701.tex.webp",
+    "thumb": "/gallery/2023/04/img-7701.thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "aspect": 1.3333,
+    "usedBy": [
+      "post:earth-without-art-is-just-eh"
+    ]
+  },
+  "2023/04/img-7702.jpg": {
+    "full": "/gallery/2023/04/img-7702.webp",
+    "tex": "/gallery/2023/04/img-7702.tex.webp",
+    "thumb": "/gallery/2023/04/img-7702.thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "aspect": 1.3333,
+    "usedBy": [
+      "post:earth-without-art-is-just-eh"
+    ]
+  },
+  "2023/04/img_3349-3486079325-e1681654407125.jpg": {
+    "full": "/gallery/2023/04/img_3349-3486079325-e1681654407125.webp",
+    "tex": "/gallery/2023/04/img_3349-3486079325-e1681654407125.tex.webp",
+    "thumb": "/gallery/2023/04/img_3349-3486079325-e1681654407125.thumb.webp",
+    "width": 901,
+    "height": 901,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:starting-point"
+    ]
+  },
+  "2023/04/keyhole_orig.jpg": {
+    "full": "/gallery/2023/04/keyhole_orig.webp",
+    "tex": "/gallery/2023/04/keyhole_orig.tex.webp",
+    "thumb": "/gallery/2023/04/keyhole_orig.thumb.webp",
+    "width": 640,
+    "height": 854,
+    "aspect": 0.7494,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/miraculous_orig-_1_-2.jpg": {
+    "full": "/gallery/2023/04/miraculous_orig-_1_-2.webp",
+    "tex": "/gallery/2023/04/miraculous_orig-_1_-2.tex.webp",
+    "thumb": "/gallery/2023/04/miraculous_orig-_1_-2.thumb.webp",
+    "width": 640,
+    "height": 854,
+    "aspect": 0.7494,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/mushroom_orig-1.png": {
+    "full": "/gallery/2023/04/mushroom_orig-1.webp",
+    "tex": "/gallery/2023/04/mushroom_orig-1.tex.webp",
+    "thumb": "/gallery/2023/04/mushroom_orig-1.thumb.webp",
+    "width": 641,
+    "height": 854,
+    "aspect": 0.7506,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/painting-1.jpg": {
+    "full": "/gallery/2023/04/painting-1.webp",
+    "tex": "/gallery/2023/04/painting-1.tex.webp",
+    "thumb": "/gallery/2023/04/painting-1.thumb.webp",
+    "width": 1139,
+    "height": 854,
+    "aspect": 1.3337,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/spanish_orig-2.jpg": {
+    "full": "/gallery/2023/04/spanish_orig-2.webp",
+    "tex": "/gallery/2023/04/spanish_orig-2.tex.webp",
+    "thumb": "/gallery/2023/04/spanish_orig-2.thumb.webp",
+    "width": 641,
+    "height": 854,
+    "aspect": 0.7506,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/swans_orig-1.jpg": {
+    "full": "/gallery/2023/04/swans_orig-1.webp",
+    "tex": "/gallery/2023/04/swans_orig-1.tex.webp",
+    "thumb": "/gallery/2023/04/swans_orig-1.thumb.webp",
+    "width": 768,
+    "height": 1024,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:starting-point"
+    ]
+  },
+  "2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif": {
+    "full": "/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif",
+    "tex": "/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif",
+    "thumb": "/gallery/2023/04/tumblr_o61ip5liho1r1d4seo1_500.gif",
+    "width": 500,
+    "height": 500,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:earth-without-art-is-just-eh"
+    ],
+    "animated": true
+  },
+  "2023/05/342556330_715785810237889_6703613174220209558_n-2.jpg": {
+    "full": "/gallery/2023/05/342556330_715785810237889_6703613174220209558_n-2.webp",
+    "tex": "/gallery/2023/05/342556330_715785810237889_6703613174220209558_n-2.tex.webp",
+    "thumb": "/gallery/2023/05/342556330_715785810237889_6703613174220209558_n-2.thumb.webp",
+    "width": 428,
+    "height": 630,
+    "aspect": 0.6794,
+    "usedBy": [
+      "post:overwhelmed-by-her"
+    ]
+  },
+  "2023/05/flower-2815934938-e1683320780576.jpg": {
+    "full": "/gallery/2023/05/flower-2815934938-e1683320780576.webp",
+    "tex": "/gallery/2023/05/flower-2815934938-e1683320780576.tex.webp",
+    "thumb": "/gallery/2023/05/flower-2815934938-e1683320780576.thumb.webp",
+    "width": 800,
+    "height": 800,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:overwhelmed-by-her"
+    ]
+  },
+  "2023/11/first-rock-1-2.png": {
+    "full": "/gallery/2023/11/first-rock-1-2.webp",
+    "tex": "/gallery/2023/11/first-rock-1-2.tex.webp",
+    "thumb": "/gallery/2023/11/first-rock-1-2.thumb.webp",
+    "width": 620,
+    "height": 533,
+    "aspect": 1.1632,
+    "usedBy": [
+      "post:the-rockery"
+    ]
+  },
+  "2023/11/first-rock-1-3.png": {
+    "full": "/gallery/2023/11/first-rock-1-3.webp",
+    "tex": "/gallery/2023/11/first-rock-1-3.tex.webp",
+    "thumb": "/gallery/2023/11/first-rock-1-3.thumb.webp",
+    "width": 620,
+    "height": 533,
+    "aspect": 1.1632,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/11/halloween-rock-1-1.png": {
+    "full": "/gallery/2023/11/halloween-rock-1-1.webp",
+    "tex": "/gallery/2023/11/halloween-rock-1-1.tex.webp",
+    "thumb": "/gallery/2023/11/halloween-rock-1-1.thumb.webp",
+    "width": 586,
+    "height": 572,
+    "aspect": 1.0245,
+    "usedBy": [
+      "post:the-rockery"
+    ]
+  },
+  "2023/11/post.png": {
+    "full": "/gallery/2023/11/post.webp",
+    "tex": "/gallery/2023/11/post.tex.webp",
+    "thumb": "/gallery/2023/11/post.thumb.webp",
+    "width": 658,
+    "height": 658,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "page:customs",
+      "post:the-rockery"
+    ]
+  },
+  "2023/12/23.png": {
+    "full": "/gallery/2023/12/23.webp",
+    "tex": "/gallery/2023/12/23.tex.webp",
+    "thumb": "/gallery/2023/12/23.thumb.webp",
+    "width": 586,
+    "height": 793,
+    "aspect": 0.739,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/bigger-back.png": {
+    "full": "/gallery/2023/12/bigger-back.webp",
+    "tex": "/gallery/2023/12/bigger-back.tex.webp",
+    "thumb": "/gallery/2023/12/bigger-back.thumb.webp",
+    "width": 420,
+    "height": 823,
+    "aspect": 0.5103,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/cardholder.png": {
+    "full": "/gallery/2023/12/cardholder.webp",
+    "tex": "/gallery/2023/12/cardholder.tex.webp",
+    "thumb": "/gallery/2023/12/cardholder.thumb.webp",
+    "width": 338,
+    "height": 475,
+    "aspect": 0.7116,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/front.png": {
+    "full": "/gallery/2023/12/front.webp",
+    "tex": "/gallery/2023/12/front.tex.webp",
+    "thumb": "/gallery/2023/12/front.thumb.webp",
+    "width": 456,
+    "height": 747,
+    "aspect": 0.6104,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/img_2650.jpg": {
+    "full": "/gallery/2023/12/img_2650.webp",
+    "tex": "/gallery/2023/12/img_2650.tex.webp",
+    "thumb": "/gallery/2023/12/img_2650.thumb.webp",
+    "width": 828,
+    "height": 1026,
+    "aspect": 0.807,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/img_2716.jpeg": {
+    "full": "/gallery/2023/12/img_2716.webp",
+    "tex": "/gallery/2023/12/img_2716.tex.webp",
+    "thumb": "/gallery/2023/12/img_2716.thumb.webp",
+    "width": 1050,
+    "height": 1400,
+    "aspect": 0.75,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/img_2945-1.jpeg": {
+    "full": "/gallery/2023/12/img_2945-1.webp",
+    "tex": "/gallery/2023/12/img_2945-1.tex.webp",
+    "thumb": "/gallery/2023/12/img_2945-1.thumb.webp",
+    "width": 1060,
+    "height": 1400,
+    "aspect": 0.7571,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/img_2945.jpeg": {
+    "full": "/gallery/2023/12/img_2945.webp",
+    "tex": "/gallery/2023/12/img_2945.tex.webp",
+    "thumb": "/gallery/2023/12/img_2945.thumb.webp",
+    "width": 1060,
+    "height": 1400,
+    "aspect": 0.7571,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/img_3076.jpeg": {
+    "full": "/gallery/2023/12/img_3076.webp",
+    "tex": "/gallery/2023/12/img_3076.tex.webp",
+    "thumb": "/gallery/2023/12/img_3076.thumb.webp",
+    "width": 780,
+    "height": 1019,
+    "aspect": 0.7655,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2023/12/sw-in-the-room.png": {
+    "full": "/gallery/2023/12/sw-in-the-room.webp",
+    "tex": "/gallery/2023/12/sw-in-the-room.tex.webp",
+    "thumb": "/gallery/2023/12/sw-in-the-room.thumb.webp",
+    "width": 630,
+    "height": 796,
+    "aspect": 0.7915,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2024/04/kfpr-new.png": {
+    "full": "/gallery/2024/04/kfpr-new.webp",
+    "tex": "/gallery/2024/04/kfpr-new.tex.webp",
+    "thumb": "/gallery/2024/04/kfpr-new.thumb.webp",
+    "width": 575,
+    "height": 592,
+    "aspect": 0.9713,
+    "usedBy": [
+      "post:the-rockery"
+    ]
+  },
+  "2024/05/bob-2.jpg": {
+    "full": "/gallery/2024/05/bob-2.webp",
+    "tex": "/gallery/2024/05/bob-2.tex.webp",
+    "thumb": "/gallery/2024/05/bob-2.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/cartoon-2-2.jpg": {
+    "full": "/gallery/2024/05/cartoon-2-2.webp",
+    "tex": "/gallery/2024/05/cartoon-2-2.tex.webp",
+    "thumb": "/gallery/2024/05/cartoon-2-2.thumb.webp",
+    "width": 828,
+    "height": 1088,
+    "aspect": 0.761,
+    "usedBy": [
+      "page:customs",
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/cartoon-shoes-2.jpg": {
+    "full": "/gallery/2024/05/cartoon-shoes-2.webp",
+    "tex": "/gallery/2024/05/cartoon-shoes-2.tex.webp",
+    "thumb": "/gallery/2024/05/cartoon-shoes-2.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "page:customs",
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/cherry-tote-bag-1.webp": {
+    "full": "/gallery/2024/05/cherry-tote-bag-1.webp",
+    "tex": "/gallery/2024/05/cherry-tote-bag-1.tex.webp",
+    "thumb": "/gallery/2024/05/cherry-tote-bag-1.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "page:customs",
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/gatoraas-1.png": {
+    "full": "/gallery/2024/05/gatoraas-1.webp",
+    "tex": "/gallery/2024/05/gatoraas-1.tex.webp",
+    "thumb": "/gallery/2024/05/gatoraas-1.thumb.webp",
+    "width": 638,
+    "height": 801,
+    "aspect": 0.7965,
+    "usedBy": [
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/patrick-2.jpg": {
+    "full": "/gallery/2024/05/patrick-2.webp",
+    "tex": "/gallery/2024/05/patrick-2.tex.webp",
+    "thumb": "/gallery/2024/05/patrick-2.thumb.webp",
+    "width": 828,
+    "height": 1035,
+    "aspect": 0.8,
+    "usedBy": [
+      "page:customs",
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/sketch-1-1-1.png": {
+    "full": "/gallery/2024/05/sketch-1-1-1.webp",
+    "tex": "/gallery/2024/05/sketch-1-1-1.tex.webp",
+    "thumb": "/gallery/2024/05/sketch-1-1-1.thumb.webp",
+    "width": 742,
+    "height": 538,
+    "aspect": 1.3792,
+    "usedBy": [
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/sketch-2-1.png": {
+    "full": "/gallery/2024/05/sketch-2-1.webp",
+    "tex": "/gallery/2024/05/sketch-2-1.tex.webp",
+    "thumb": "/gallery/2024/05/sketch-2-1.thumb.webp",
+    "width": 765,
+    "height": 488,
+    "aspect": 1.5676,
+    "usedBy": [
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/spiderman-1.webp": {
+    "full": "/gallery/2024/05/spiderman-1.webp",
+    "tex": "/gallery/2024/05/spiderman-1.tex.webp",
+    "thumb": "/gallery/2024/05/spiderman-1.thumb.webp",
+    "width": 1050,
+    "height": 1400,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/sponge-2.jpg": {
+    "full": "/gallery/2024/05/sponge-2.webp",
+    "tex": "/gallery/2024/05/sponge-2.tex.webp",
+    "thumb": "/gallery/2024/05/sponge-2.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/star-warssr-1.webp": {
+    "full": "/gallery/2024/05/star-warssr-1.webp",
+    "tex": "/gallery/2024/05/star-warssr-1.tex.webp",
+    "thumb": "/gallery/2024/05/star-warssr-1.thumb.webp",
+    "width": 1024,
+    "height": 1365,
+    "aspect": 0.7502,
+    "usedBy": [
+      "page:customs",
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/starry-night-1.webp": {
+    "full": "/gallery/2024/05/starry-night-1.webp",
+    "tex": "/gallery/2024/05/starry-night-1.tex.webp",
+    "thumb": "/gallery/2024/05/starry-night-1.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/sunrise-2.jpg": {
+    "full": "/gallery/2024/05/sunrise-2.webp",
+    "tex": "/gallery/2024/05/sunrise-2.tex.webp",
+    "thumb": "/gallery/2024/05/sunrise-2.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:first-years-end"
+    ]
+  },
+  "2024/05/sunset-e1715792356231.jpg": {
+    "full": "/gallery/2024/05/sunset-e1715792356231.webp",
+    "tex": "/gallery/2024/05/sunset-e1715792356231.tex.webp",
+    "thumb": "/gallery/2024/05/sunset-e1715792356231.thumb.webp",
+    "width": 826,
+    "height": 822,
+    "aspect": 1.0049,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:first-years-end"
+    ]
+  },
+  "2024/06/color-wheel.jpeg": {
+    "full": "/gallery/2024/06/color-wheel.webp",
+    "tex": "/gallery/2024/06/color-wheel.tex.webp",
+    "thumb": "/gallery/2024/06/color-wheel.thumb.webp",
+    "width": 582,
+    "height": 585,
+    "aspect": 0.9949,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:peacock-palette"
+    ]
+  },
+  "2024/06/peacock-1-2.jpg": {
+    "full": "/gallery/2024/06/peacock-1-2.webp",
+    "tex": "/gallery/2024/06/peacock-1-2.tex.webp",
+    "thumb": "/gallery/2024/06/peacock-1-2.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:peacock-palette"
+    ]
+  },
+  "2024/06/peacock-2.jpg": {
+    "full": "/gallery/2024/06/peacock-2.webp",
+    "tex": "/gallery/2024/06/peacock-2.tex.webp",
+    "thumb": "/gallery/2024/06/peacock-2.thumb.webp",
+    "width": 828,
+    "height": 832,
+    "aspect": 0.9952,
+    "usedBy": [
+      "post:peacock-palette"
+    ]
+  },
+  "2024/06/peacock-3-4.jpg": {
+    "full": "/gallery/2024/06/peacock-3-4.webp",
+    "tex": "/gallery/2024/06/peacock-3-4.tex.webp",
+    "thumb": "/gallery/2024/06/peacock-3-4.thumb.webp",
+    "width": 828,
+    "height": 831,
+    "aspect": 0.9964,
+    "usedBy": [
+      "post:peacock-palette"
+    ]
+  },
+  "2024/06/peacock-4-4.jpg": {
+    "full": "/gallery/2024/06/peacock-4-4.webp",
+    "tex": "/gallery/2024/06/peacock-4-4.tex.webp",
+    "thumb": "/gallery/2024/06/peacock-4-4.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:peacock-palette"
+    ]
+  },
+  "2024/06/peacock-5-1.jpg": {
+    "full": "/gallery/2024/06/peacock-5-1.webp",
+    "tex": "/gallery/2024/06/peacock-5-1.tex.webp",
+    "thumb": "/gallery/2024/06/peacock-5-1.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:peacock-palette"
+    ]
+  },
+  "2024/06/peacock-6-1.jpg": {
+    "full": "/gallery/2024/06/peacock-6-1.webp",
+    "tex": "/gallery/2024/06/peacock-6-1.tex.webp",
+    "thumb": "/gallery/2024/06/peacock-6-1.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:peacock-palette"
+    ]
+  },
+  "2024/06/peacock-7-1.jpg": {
+    "full": "/gallery/2024/06/peacock-7-1.webp",
+    "tex": "/gallery/2024/06/peacock-7-1.tex.webp",
+    "thumb": "/gallery/2024/06/peacock-7-1.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:peacock-palette"
+    ]
+  },
+  "2024/06/peacock-9.jpg": {
+    "full": "/gallery/2024/06/peacock-9.webp",
+    "tex": "/gallery/2024/06/peacock-9.tex.webp",
+    "thumb": "/gallery/2024/06/peacock-9.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:peacock-palette"
+    ]
+  },
+  "2024/12/cover-pic-e1733700546163.jpg": {
+    "full": "/gallery/2024/12/cover-pic-e1733700546163.webp",
+    "tex": "/gallery/2024/12/cover-pic-e1733700546163.tex.webp",
+    "thumb": "/gallery/2024/12/cover-pic-e1733700546163.thumb.webp",
+    "width": 665,
+    "height": 665,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:i-love-experiencing-heartbreak"
+    ]
+  },
+  "2024/12/diagnosis.png": {
+    "full": "/gallery/2024/12/diagnosis.webp",
+    "tex": "/gallery/2024/12/diagnosis.tex.webp",
+    "thumb": "/gallery/2024/12/diagnosis.thumb.webp",
+    "width": 822,
+    "height": 357,
+    "aspect": 2.3025,
+    "usedBy": [
+      "post:shiny-object-syndrome-the-art-of-mastering-nothing"
+    ]
+  },
+  "2024/12/heartbreak-1-1.png": {
+    "full": "/gallery/2024/12/heartbreak-1-1.webp",
+    "tex": "/gallery/2024/12/heartbreak-1-1.tex.webp",
+    "thumb": "/gallery/2024/12/heartbreak-1-1.thumb.webp",
+    "width": 692,
+    "height": 682,
+    "aspect": 1.0147,
+    "usedBy": [
+      "post:i-love-experiencing-heartbreak"
+    ]
+  },
+  "2024/12/image-1.png": {
+    "full": "/gallery/2024/12/image-1.webp",
+    "tex": "/gallery/2024/12/image-1.tex.webp",
+    "thumb": "/gallery/2024/12/image-1.thumb.webp",
+    "width": 496,
+    "height": 454,
+    "aspect": 1.0925,
+    "usedBy": [
+      "post:i-love-experiencing-heartbreak"
+    ]
+  },
+  "2024/12/image.png": {
+    "full": "/gallery/2024/12/image.webp",
+    "tex": "/gallery/2024/12/image.tex.webp",
+    "thumb": "/gallery/2024/12/image.thumb.webp",
+    "width": 1056,
+    "height": 707,
+    "aspect": 1.4936,
+    "usedBy": [
+      "post:shiny-object-syndrome-the-art-of-mastering-nothing"
+    ]
+  },
+  "2024/12/packed-schedule.png": {
+    "full": "/gallery/2024/12/packed-schedule.webp",
+    "tex": "/gallery/2024/12/packed-schedule.tex.webp",
+    "thumb": "/gallery/2024/12/packed-schedule.thumb.webp",
+    "width": 1391,
+    "height": 682,
+    "aspect": 2.0396,
+    "usedBy": [
+      "post:i-love-experiencing-heartbreak"
+    ]
+  },
+  "2024/12/shiny-object-syndrom-e-e1733515375417.webp": {
+    "full": "/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.webp",
+    "tex": "/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.tex.webp",
+    "thumb": "/gallery/2024/12/shiny-object-syndrom-e-e1733515375417.thumb.webp",
+    "width": 400,
+    "height": 400,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:shiny-object-syndrome-the-art-of-mastering-nothing"
+    ]
+  },
+  "2024/12/sunset-e1733386544202.jpeg": {
+    "full": "/gallery/2024/12/sunset-e1733386544202.webp",
+    "tex": "/gallery/2024/12/sunset-e1733386544202.tex.webp",
+    "thumb": "/gallery/2024/12/sunset-e1733386544202.thumb.webp",
+    "width": 434,
+    "height": 439,
+    "aspect": 0.9886,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:rebranding"
+    ]
+  },
+  "2025/01/world-map.jpg": {
+    "full": "/gallery/2025/01/world-map.webp",
+    "tex": "/gallery/2025/01/world-map.tex.webp",
+    "thumb": "/gallery/2025/01/world-map.thumb.webp",
+    "width": 1339,
+    "height": 990,
+    "aspect": 1.3525,
+    "usedBy": [
+      "page:sos"
+    ]
+  },
+  "2025/03/101-essays-that-will-change-the-way-you-thin.jpg": {
+    "full": "/gallery/2025/03/101-essays-that-will-change-the-way-you-thin.webp",
+    "tex": "/gallery/2025/03/101-essays-that-will-change-the-way-you-thin.tex.webp",
+    "thumb": "/gallery/2025/03/101-essays-that-will-change-the-way-you-thin.thumb.webp",
+    "width": 900,
+    "height": 1200,
+    "aspect": 0.75,
+    "usedBy": [
+      "post:essay-12"
+    ]
+  },
+  "2025/03/1st-place.jpg": {
+    "full": "/gallery/2025/03/1st-place.webp",
+    "tex": "/gallery/2025/03/1st-place.tex.webp",
+    "thumb": "/gallery/2025/03/1st-place.thumb.webp",
+    "width": 828,
+    "height": 1104,
+    "aspect": 0.75,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/03/agalychnis.web_.jpg": {
+    "full": "/gallery/2025/03/agalychnis.web_.webp",
+    "tex": "/gallery/2025/03/agalychnis.web_.tex.webp",
+    "thumb": "/gallery/2025/03/agalychnis.web_.thumb.webp",
+    "width": 447,
+    "height": 343,
+    "aspect": 1.3032,
+    "usedBy": [
+      "page:sos"
+    ]
+  },
+  "2025/03/apple.jpg": {
+    "full": "/gallery/2025/03/apple.webp",
+    "tex": "/gallery/2025/03/apple.tex.webp",
+    "thumb": "/gallery/2025/03/apple.thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "aspect": 1.3333,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/03/art-e1742932988759.png": {
+    "full": "/gallery/2025/03/art-e1742932988759.webp",
+    "tex": "/gallery/2025/03/art-e1742932988759.tex.webp",
+    "thumb": "/gallery/2025/03/art-e1742932988759.thumb.webp",
+    "width": 562,
+    "height": 562,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:essay-12"
+    ]
+  },
+  "2025/03/austin.jpg": {
+    "full": "/gallery/2025/03/austin.webp",
+    "tex": "/gallery/2025/03/austin.tex.webp",
+    "thumb": "/gallery/2025/03/austin.thumb.webp",
+    "width": 1050,
+    "height": 1400,
+    "aspect": 0.75,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/03/background-1-e1748061549984.png": {
+    "full": "/gallery/2025/03/background-1-e1748061549984.webp",
+    "tex": "/gallery/2025/03/background-1-e1748061549984.tex.webp",
+    "thumb": "/gallery/2025/03/background-1-e1748061549984.thumb.webp",
+    "width": 459,
+    "height": 459,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:redefining-ambition"
+    ]
+  },
+  "2025/03/caudalie-1-.png": {
+    "full": "/gallery/2025/03/caudalie-1-.webp",
+    "tex": "/gallery/2025/03/caudalie-1-.tex.webp",
+    "thumb": "/gallery/2025/03/caudalie-1-.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:the-overflow"
+    ]
+  },
+  "2025/03/consulting-and-strategy-.png": {
+    "full": "/gallery/2025/03/consulting-and-strategy-.webp",
+    "tex": "/gallery/2025/03/consulting-and-strategy-.tex.webp",
+    "thumb": "/gallery/2025/03/consulting-and-strategy-.thumb.webp",
+    "width": 823,
+    "height": 462,
+    "aspect": 1.7814,
+    "usedBy": [
+      "page:resume"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025-12-1.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-12-1.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025-12-1.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-12-1.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consulting-and-strategy"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025-13-1.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-13-1.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025-13-1.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-13-1.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consulting-and-strategy"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025-14-1.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-14-1.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025-14-1.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-14-1.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consulting-and-strategy"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025-15-1.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-15-1.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025-15-1.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-15-1.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consulting-and-strategy"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025-2.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-2.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025-2.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-2.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:leadership-impact"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025-3.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-3.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025-3.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-3.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:leadership-impact"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025-4-1.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-4-1.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025-4-1.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-4-1.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:leadership-impact"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025-5.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025-5.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025-5.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025-5.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:leadership-impact"
+    ]
+  },
+  "2025/03/copy-of-vision-board-spring-2025.png": {
+    "full": "/gallery/2025/03/copy-of-vision-board-spring-2025.webp",
+    "tex": "/gallery/2025/03/copy-of-vision-board-spring-2025.tex.webp",
+    "thumb": "/gallery/2025/03/copy-of-vision-board-spring-2025.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:leadership-impact"
+    ]
+  },
+  "2025/03/cropped-riva_logo__1_-removebg-preview.png": {
+    "full": "/gallery/2025/03/cropped-riva_logo__1_-removebg-preview.webp",
+    "tex": "/gallery/2025/03/cropped-riva_logo__1_-removebg-preview.tex.webp",
+    "thumb": "/gallery/2025/03/cropped-riva_logo__1_-removebg-preview.thumb.webp",
+    "width": 512,
+    "height": 512,
+    "aspect": 1,
+    "usedBy": [
+      "page:about-me",
+      "site:branding",
+      "site:home-template"
+    ]
+  },
+  "2025/03/kpmg.jpg": {
+    "full": "/gallery/2025/03/kpmg.webp",
+    "tex": "/gallery/2025/03/kpmg.tex.webp",
+    "thumb": "/gallery/2025/03/kpmg.thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "aspect": 1.3333,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/03/kpmg2.jpg": {
+    "full": "/gallery/2025/03/kpmg2.webp",
+    "tex": "/gallery/2025/03/kpmg2.tex.webp",
+    "thumb": "/gallery/2025/03/kpmg2.thumb.webp",
+    "width": 1050,
+    "height": 1400,
+    "aspect": 0.75,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/03/leadership-and-impact-.png": {
+    "full": "/gallery/2025/03/leadership-and-impact-.webp",
+    "tex": "/gallery/2025/03/leadership-and-impact-.tex.webp",
+    "thumb": "/gallery/2025/03/leadership-and-impact-.thumb.webp",
+    "width": 826,
+    "height": 465,
+    "aspect": 1.7763,
+    "usedBy": [
+      "page:resume"
+    ]
+  },
+  "2025/03/necklace.jpg": {
+    "full": "/gallery/2025/03/necklace.webp",
+    "tex": "/gallery/2025/03/necklace.tex.webp",
+    "thumb": "/gallery/2025/03/necklace.thumb.webp",
+    "width": 1170,
+    "height": 858,
+    "aspect": 1.3636,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2025/03/pwc.jpg": {
+    "full": "/gallery/2025/03/pwc.webp",
+    "tex": "/gallery/2025/03/pwc.tex.webp",
+    "thumb": "/gallery/2025/03/pwc.thumb.webp",
+    "width": 1179,
+    "height": 885,
+    "aspect": 1.3322,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/03/safestart-big-leaf-.png": {
+    "full": "/gallery/2025/03/safestart-big-leaf-.webp",
+    "tex": "/gallery/2025/03/safestart-big-leaf-.tex.webp",
+    "thumb": "/gallery/2025/03/safestart-big-leaf-.thumb.webp",
+    "width": 492,
+    "height": 445,
+    "aspect": 1.1056,
+    "usedBy": [
+      "page:the-big-leaf-safe-start"
+    ]
+  },
+  "2025/03/side-quests-.png": {
+    "full": "/gallery/2025/03/side-quests-.webp",
+    "tex": "/gallery/2025/03/side-quests-.tex.webp",
+    "thumb": "/gallery/2025/03/side-quests-.thumb.webp",
+    "width": 825,
+    "height": 463,
+    "aspect": 1.7819,
+    "usedBy": [
+      "page:resume"
+    ]
+  },
+  "2025/03/slide1-1.png": {
+    "full": "/gallery/2025/03/slide1-1.webp",
+    "tex": "/gallery/2025/03/slide1-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide1-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide1.png": {
+    "full": "/gallery/2025/03/slide1.webp",
+    "tex": "/gallery/2025/03/slide1.tex.webp",
+    "thumb": "/gallery/2025/03/slide1.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide10-1.png": {
+    "full": "/gallery/2025/03/slide10-1.webp",
+    "tex": "/gallery/2025/03/slide10-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide10-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide10.png": {
+    "full": "/gallery/2025/03/slide10.webp",
+    "tex": "/gallery/2025/03/slide10.tex.webp",
+    "thumb": "/gallery/2025/03/slide10.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide11-1.png": {
+    "full": "/gallery/2025/03/slide11-1.webp",
+    "tex": "/gallery/2025/03/slide11-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide11-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide11.png": {
+    "full": "/gallery/2025/03/slide11.webp",
+    "tex": "/gallery/2025/03/slide11.tex.webp",
+    "thumb": "/gallery/2025/03/slide11.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide12-1.png": {
+    "full": "/gallery/2025/03/slide12-1.webp",
+    "tex": "/gallery/2025/03/slide12-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide12-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide12.png": {
+    "full": "/gallery/2025/03/slide12.webp",
+    "tex": "/gallery/2025/03/slide12.tex.webp",
+    "thumb": "/gallery/2025/03/slide12.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide13-1.png": {
+    "full": "/gallery/2025/03/slide13-1.webp",
+    "tex": "/gallery/2025/03/slide13-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide13-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide13.png": {
+    "full": "/gallery/2025/03/slide13.webp",
+    "tex": "/gallery/2025/03/slide13.tex.webp",
+    "thumb": "/gallery/2025/03/slide13.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide14-1.png": {
+    "full": "/gallery/2025/03/slide14-1.webp",
+    "tex": "/gallery/2025/03/slide14-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide14-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide14.png": {
+    "full": "/gallery/2025/03/slide14.webp",
+    "tex": "/gallery/2025/03/slide14.tex.webp",
+    "thumb": "/gallery/2025/03/slide14.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide15-1.png": {
+    "full": "/gallery/2025/03/slide15-1.webp",
+    "tex": "/gallery/2025/03/slide15-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide15-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide15.png": {
+    "full": "/gallery/2025/03/slide15.webp",
+    "tex": "/gallery/2025/03/slide15.tex.webp",
+    "thumb": "/gallery/2025/03/slide15.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide16.png": {
+    "full": "/gallery/2025/03/slide16.webp",
+    "tex": "/gallery/2025/03/slide16.tex.webp",
+    "thumb": "/gallery/2025/03/slide16.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide17.png": {
+    "full": "/gallery/2025/03/slide17.webp",
+    "tex": "/gallery/2025/03/slide17.tex.webp",
+    "thumb": "/gallery/2025/03/slide17.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide18.png": {
+    "full": "/gallery/2025/03/slide18.webp",
+    "tex": "/gallery/2025/03/slide18.tex.webp",
+    "thumb": "/gallery/2025/03/slide18.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide19.png": {
+    "full": "/gallery/2025/03/slide19.webp",
+    "tex": "/gallery/2025/03/slide19.tex.webp",
+    "thumb": "/gallery/2025/03/slide19.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide2-1.png": {
+    "full": "/gallery/2025/03/slide2-1.webp",
+    "tex": "/gallery/2025/03/slide2-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide2-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide2.png": {
+    "full": "/gallery/2025/03/slide2.webp",
+    "tex": "/gallery/2025/03/slide2.tex.webp",
+    "thumb": "/gallery/2025/03/slide2.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide20.png": {
+    "full": "/gallery/2025/03/slide20.webp",
+    "tex": "/gallery/2025/03/slide20.tex.webp",
+    "thumb": "/gallery/2025/03/slide20.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide21.png": {
+    "full": "/gallery/2025/03/slide21.webp",
+    "tex": "/gallery/2025/03/slide21.tex.webp",
+    "thumb": "/gallery/2025/03/slide21.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide22.png": {
+    "full": "/gallery/2025/03/slide22.webp",
+    "tex": "/gallery/2025/03/slide22.tex.webp",
+    "thumb": "/gallery/2025/03/slide22.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide23.png": {
+    "full": "/gallery/2025/03/slide23.webp",
+    "tex": "/gallery/2025/03/slide23.tex.webp",
+    "thumb": "/gallery/2025/03/slide23.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide24.png": {
+    "full": "/gallery/2025/03/slide24.webp",
+    "tex": "/gallery/2025/03/slide24.tex.webp",
+    "thumb": "/gallery/2025/03/slide24.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide25.png": {
+    "full": "/gallery/2025/03/slide25.webp",
+    "tex": "/gallery/2025/03/slide25.tex.webp",
+    "thumb": "/gallery/2025/03/slide25.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide26.png": {
+    "full": "/gallery/2025/03/slide26.webp",
+    "tex": "/gallery/2025/03/slide26.tex.webp",
+    "thumb": "/gallery/2025/03/slide26.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide3-1.png": {
+    "full": "/gallery/2025/03/slide3-1.webp",
+    "tex": "/gallery/2025/03/slide3-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide3-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide3.png": {
+    "full": "/gallery/2025/03/slide3.webp",
+    "tex": "/gallery/2025/03/slide3.tex.webp",
+    "thumb": "/gallery/2025/03/slide3.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide4-1.png": {
+    "full": "/gallery/2025/03/slide4-1.webp",
+    "tex": "/gallery/2025/03/slide4-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide4-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide4.png": {
+    "full": "/gallery/2025/03/slide4.webp",
+    "tex": "/gallery/2025/03/slide4.tex.webp",
+    "thumb": "/gallery/2025/03/slide4.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide5-1.png": {
+    "full": "/gallery/2025/03/slide5-1.webp",
+    "tex": "/gallery/2025/03/slide5-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide5-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide5.png": {
+    "full": "/gallery/2025/03/slide5.webp",
+    "tex": "/gallery/2025/03/slide5.tex.webp",
+    "thumb": "/gallery/2025/03/slide5.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide6-1.png": {
+    "full": "/gallery/2025/03/slide6-1.webp",
+    "tex": "/gallery/2025/03/slide6-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide6-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide6.png": {
+    "full": "/gallery/2025/03/slide6.webp",
+    "tex": "/gallery/2025/03/slide6.tex.webp",
+    "thumb": "/gallery/2025/03/slide6.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide7-1.png": {
+    "full": "/gallery/2025/03/slide7-1.webp",
+    "tex": "/gallery/2025/03/slide7-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide7-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide7.png": {
+    "full": "/gallery/2025/03/slide7.webp",
+    "tex": "/gallery/2025/03/slide7.tex.webp",
+    "thumb": "/gallery/2025/03/slide7.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide8-1.png": {
+    "full": "/gallery/2025/03/slide8-1.webp",
+    "tex": "/gallery/2025/03/slide8-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide8-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide8.png": {
+    "full": "/gallery/2025/03/slide8.webp",
+    "tex": "/gallery/2025/03/slide8.tex.webp",
+    "thumb": "/gallery/2025/03/slide8.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide9-1.png": {
+    "full": "/gallery/2025/03/slide9-1.webp",
+    "tex": "/gallery/2025/03/slide9-1.tex.webp",
+    "thumb": "/gallery/2025/03/slide9-1.thumb.webp",
+    "width": 960,
+    "height": 540,
+    "aspect": 1.7778,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/slide9.png": {
+    "full": "/gallery/2025/03/slide9.webp",
+    "tex": "/gallery/2025/03/slide9.tex.webp",
+    "thumb": "/gallery/2025/03/slide9.thumb.webp",
+    "width": 1400,
+    "height": 788,
+    "aspect": 1.7766,
+    "usedBy": [
+      "page:consult-your-community"
+    ]
+  },
+  "2025/03/team.jpg": {
+    "full": "/gallery/2025/03/team.webp",
+    "tex": "/gallery/2025/03/team.tex.webp",
+    "thumb": "/gallery/2025/03/team.thumb.webp",
+    "width": 828,
+    "height": 622,
+    "aspect": 1.3312,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/03/texas.jpg": {
+    "full": "/gallery/2025/03/texas.webp",
+    "tex": "/gallery/2025/03/texas.tex.webp",
+    "thumb": "/gallery/2025/03/texas.thumb.webp",
+    "width": 1050,
+    "height": 1400,
+    "aspect": 0.75,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/03/toucan.jpg": {
+    "full": "/gallery/2025/03/toucan.webp",
+    "tex": "/gallery/2025/03/toucan.tex.webp",
+    "thumb": "/gallery/2025/03/toucan.thumb.webp",
+    "width": 1134,
+    "height": 1400,
+    "aspect": 0.81,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2025/03/womens.jpg": {
+    "full": "/gallery/2025/03/womens.webp",
+    "tex": "/gallery/2025/03/womens.tex.webp",
+    "thumb": "/gallery/2025/03/womens.thumb.webp",
+    "width": 1050,
+    "height": 1400,
+    "aspect": 0.75,
+    "usedBy": [
+      "page:case-competitions"
+    ]
+  },
+  "2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.jpeg": {
+    "full": "/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.webp",
+    "tex": "/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.tex.webp",
+    "thumb": "/gallery/2025/04/sdlkfjklsdjfklsdjf-1-e1744093972488.thumb.webp",
+    "width": 335,
+    "height": 335,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:on-productivity-hacks"
+    ]
+  },
+  "2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.gif": {
+    "full": "/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.webp",
+    "tex": "/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.tex.webp",
+    "thumb": "/gallery/2025/05/1_ncwumor5bxh30s3rgw4f6w-e1747974796230.thumb.webp",
+    "width": 450,
+    "height": 450,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:love-letters-to-strangers-i-want-to-love"
+    ]
+  },
+  "2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.jpg": {
+    "full": "/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.webp",
+    "tex": "/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.tex.webp",
+    "thumb": "/gallery/2025/05/494570072_1238129790554515_4506977453117949270_n-e1748570962777.thumb.webp",
+    "width": 1170,
+    "height": 1170,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:a-little-in-love"
+    ]
+  },
+  "2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.jpg": {
+    "full": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.webp",
+    "tex": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.tex.webp",
+    "thumb": "/gallery/2025/05/496512236_1464744831573132_3843324131020570707_n-e1747269052325.thumb.webp",
+    "width": 575,
+    "height": 575,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "page:customs",
+      "post:art-made-to-be-lived-with"
+    ]
+  },
+  "2025/05/cananda-e1747859723429.png": {
+    "full": "/gallery/2025/05/cananda-e1747859723429.webp",
+    "tex": "/gallery/2025/05/cananda-e1747859723429.tex.webp",
+    "thumb": "/gallery/2025/05/cananda-e1747859723429.thumb.webp",
+    "width": 541,
+    "height": 541,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:i-dont-think-thats-true"
+    ]
+  },
+  "2025/05/d-e1747852193283.jpg": {
+    "full": "/gallery/2025/05/d-e1747852193283.webp",
+    "tex": "/gallery/2025/05/d-e1747852193283.tex.webp",
+    "thumb": "/gallery/2025/05/d-e1747852193283.thumb.webp",
+    "width": 720,
+    "height": 720,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:about-the-water"
+    ]
+  },
+  "2025/05/falling-e1748567467523.jpg": {
+    "full": "/gallery/2025/05/falling-e1748567467523.webp",
+    "tex": "/gallery/2025/05/falling-e1748567467523.tex.webp",
+    "thumb": "/gallery/2025/05/falling-e1748567467523.thumb.webp",
+    "width": 546,
+    "height": 546,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:youre-just-human"
+    ]
+  },
+  "2025/05/image-1.png": {
+    "full": "/gallery/2025/05/image-1.webp",
+    "tex": "/gallery/2025/05/image-1.tex.webp",
+    "thumb": "/gallery/2025/05/image-1.thumb.webp",
+    "width": 997,
+    "height": 481,
+    "aspect": 2.0728,
+    "usedBy": [
+      "post:redefining-ambition"
+    ]
+  },
+  "2025/05/image-2.png": {
+    "full": "/gallery/2025/05/image-2.webp",
+    "tex": "/gallery/2025/05/image-2.tex.webp",
+    "thumb": "/gallery/2025/05/image-2.thumb.webp",
+    "width": 1280,
+    "height": 720,
+    "aspect": 1.7778,
+    "usedBy": [
+      "post:redefining-ambition"
+    ]
+  },
+  "2025/05/image.png": {
+    "full": "/gallery/2025/05/image.webp",
+    "tex": "/gallery/2025/05/image.tex.webp",
+    "thumb": "/gallery/2025/05/image.thumb.webp",
+    "width": 718,
+    "height": 202,
+    "aspect": 3.5545,
+    "usedBy": [
+      "post:art-made-to-be-lived-with"
+    ]
+  },
+  "2025/05/img_4242.webp": {
+    "full": "/gallery/2025/05/img_4242.webp",
+    "tex": "/gallery/2025/05/img_4242.tex.webp",
+    "thumb": "/gallery/2025/05/img_4242.thumb.webp",
+    "width": 1200,
+    "height": 1200,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:learning-all-195-countries-of-the-world-and-how-it-taught-me-about-life"
+    ]
+  },
+  "2025/05/stubborn-love-lyric-2.jpg": {
+    "full": "/gallery/2025/05/stubborn-love-lyric-2.webp",
+    "tex": "/gallery/2025/05/stubborn-love-lyric-2.tex.webp",
+    "thumb": "/gallery/2025/05/stubborn-love-lyric-2.thumb.webp",
+    "width": 736,
+    "height": 816,
+    "aspect": 0.902,
+    "usedBy": [
+      "post:i-dont-think-thats-true"
+    ]
+  },
+  "2025/06/101-essays-that-will-change-the-way-you-think-1.jpg": {
+    "full": "/gallery/2025/06/101-essays-that-will-change-the-way-you-think-1.webp",
+    "tex": "/gallery/2025/06/101-essays-that-will-change-the-way-you-think-1.tex.webp",
+    "thumb": "/gallery/2025/06/101-essays-that-will-change-the-way-you-think-1.thumb.webp",
+    "width": 667,
+    "height": 1000,
+    "aspect": 0.667,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/harry-potter.png": {
+    "full": "/gallery/2025/06/harry-potter.webp",
+    "tex": "/gallery/2025/06/harry-potter.tex.webp",
+    "thumb": "/gallery/2025/06/harry-potter.thumb.webp",
+    "width": 1120,
+    "height": 1400,
+    "aspect": 0.8,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/hatchet.jpg": {
+    "full": "/gallery/2025/06/hatchet.webp",
+    "tex": "/gallery/2025/06/hatchet.tex.webp",
+    "thumb": "/gallery/2025/06/hatchet.thumb.webp",
+    "width": 184,
+    "height": 274,
+    "aspect": 0.6715,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/how-will-you-measure-your-life.jpg": {
+    "full": "/gallery/2025/06/how-will-you-measure-your-life.webp",
+    "tex": "/gallery/2025/06/how-will-you-measure-your-life.tex.webp",
+    "thumb": "/gallery/2025/06/how-will-you-measure-your-life.thumb.webp",
+    "width": 938,
+    "height": 1400,
+    "aspect": 0.67,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/kitchen.jpg": {
+    "full": "/gallery/2025/06/kitchen.webp",
+    "tex": "/gallery/2025/06/kitchen.tex.webp",
+    "thumb": "/gallery/2025/06/kitchen.thumb.webp",
+    "width": 690,
+    "height": 1000,
+    "aspect": 0.69,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/leafy-1-e1748782115954.jpg": {
+    "full": "/gallery/2025/06/leafy-1-e1748782115954.webp",
+    "tex": "/gallery/2025/06/leafy-1-e1748782115954.tex.webp",
+    "thumb": "/gallery/2025/06/leafy-1-e1748782115954.thumb.webp",
+    "width": 1400,
+    "height": 1400,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:sundays-like-this-someday"
+    ]
+  },
+  "2025/06/looking-for-alaska-1.jpg": {
+    "full": "/gallery/2025/06/looking-for-alaska-1.webp",
+    "tex": "/gallery/2025/06/looking-for-alaska-1.tex.webp",
+    "thumb": "/gallery/2025/06/looking-for-alaska-1.thumb.webp",
+    "width": 262,
+    "height": 381,
+    "aspect": 0.6877,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/orbiting-jupiter.jpg": {
+    "full": "/gallery/2025/06/orbiting-jupiter.webp",
+    "tex": "/gallery/2025/06/orbiting-jupiter.tex.webp",
+    "thumb": "/gallery/2025/06/orbiting-jupiter.thumb.webp",
+    "width": 934,
+    "height": 1400,
+    "aspect": 0.6671,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/predictably-irrational.jpg": {
+    "full": "/gallery/2025/06/predictably-irrational.webp",
+    "tex": "/gallery/2025/06/predictably-irrational.tex.webp",
+    "thumb": "/gallery/2025/06/predictably-irrational.thumb.webp",
+    "width": 182,
+    "height": 277,
+    "aspect": 0.657,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/rajkot-sunrise-e1750896192400.jpg": {
+    "full": "/gallery/2025/06/rajkot-sunrise-e1750896192400.webp",
+    "tex": "/gallery/2025/06/rajkot-sunrise-e1750896192400.tex.webp",
+    "thumb": "/gallery/2025/06/rajkot-sunrise-e1750896192400.thumb.webp",
+    "width": 1303,
+    "height": 1303,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:half-of-you"
+    ]
+  },
+  "2025/06/selection-series.jpg": {
+    "full": "/gallery/2025/06/selection-series.webp",
+    "tex": "/gallery/2025/06/selection-series.tex.webp",
+    "thumb": "/gallery/2025/06/selection-series.thumb.webp",
+    "width": 293,
+    "height": 400,
+    "aspect": 0.7325,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/site-gallery-1-3.png": {
+    "full": "/gallery/2025/06/site-gallery-1-3.webp",
+    "tex": "/gallery/2025/06/site-gallery-1-3.tex.webp",
+    "thumb": "/gallery/2025/06/site-gallery-1-3.thumb.webp",
+    "width": 1080,
+    "height": 1350,
+    "aspect": 0.8,
+    "usedBy": [
+      "page:home",
+      "site:home-template"
+    ]
+  },
+  "2025/06/site-gallery-2-3.png": {
+    "full": "/gallery/2025/06/site-gallery-2-3.webp",
+    "tex": "/gallery/2025/06/site-gallery-2-3.tex.webp",
+    "thumb": "/gallery/2025/06/site-gallery-2-3.thumb.webp",
+    "width": 1080,
+    "height": 1350,
+    "aspect": 0.8,
+    "usedBy": [
+      "page:home",
+      "site:home-template"
+    ]
+  },
+  "2025/06/site-gallery-3-1.png": {
+    "full": "/gallery/2025/06/site-gallery-3-1.webp",
+    "tex": "/gallery/2025/06/site-gallery-3-1.tex.webp",
+    "thumb": "/gallery/2025/06/site-gallery-3-1.thumb.webp",
+    "width": 1080,
+    "height": 1350,
+    "aspect": 0.8,
+    "usedBy": [
+      "page:home",
+      "site:home-template"
+    ]
+  },
+  "2025/06/site-gallery-5.png": {
+    "full": "/gallery/2025/06/site-gallery-5.webp",
+    "tex": "/gallery/2025/06/site-gallery-5.tex.webp",
+    "thumb": "/gallery/2025/06/site-gallery-5.thumb.webp",
+    "width": 1080,
+    "height": 1350,
+    "aspect": 0.8,
+    "usedBy": [
+      "page:home",
+      "site:home-template"
+    ]
+  },
+  "2025/06/sotr.jpg": {
+    "full": "/gallery/2025/06/sotr.webp",
+    "tex": "/gallery/2025/06/sotr.tex.webp",
+    "thumb": "/gallery/2025/06/sotr.thumb.webp",
+    "width": 938,
+    "height": 1400,
+    "aspect": 0.67,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/tbosas.jpg": {
+    "full": "/gallery/2025/06/tbosas.webp",
+    "tex": "/gallery/2025/06/tbosas.tex.webp",
+    "thumb": "/gallery/2025/06/tbosas.thumb.webp",
+    "width": 923,
+    "height": 1400,
+    "aspect": 0.6593,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/the-lights-that-find-us.jpg": {
+    "full": "/gallery/2025/06/the-lights-that-find-us.webp",
+    "tex": "/gallery/2025/06/the-lights-that-find-us.tex.webp",
+    "thumb": "/gallery/2025/06/the-lights-that-find-us.thumb.webp",
+    "width": 675,
+    "height": 1000,
+    "aspect": 0.675,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/they-both-die-at-the-end.jpg": {
+    "full": "/gallery/2025/06/they-both-die-at-the-end.webp",
+    "tex": "/gallery/2025/06/they-both-die-at-the-end.tex.webp",
+    "thumb": "/gallery/2025/06/they-both-die-at-the-end.thumb.webp",
+    "width": 662,
+    "height": 1000,
+    "aspect": 0.662,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/thg.webp": {
+    "full": "/gallery/2025/06/thg.webp",
+    "tex": "/gallery/2025/06/thg.tex.webp",
+    "thumb": "/gallery/2025/06/thg.thumb.webp",
+    "width": 800,
+    "height": 800,
+    "aspect": 1,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/this-is-water.jpg": {
+    "full": "/gallery/2025/06/this-is-water.webp",
+    "tex": "/gallery/2025/06/this-is-water.tex.webp",
+    "thumb": "/gallery/2025/06/this-is-water.thumb.webp",
+    "width": 186,
+    "height": 272,
+    "aspect": 0.6838,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/06/youve-reached-sam.jpg": {
+    "full": "/gallery/2025/06/youve-reached-sam.webp",
+    "tex": "/gallery/2025/06/youve-reached-sam.tex.webp",
+    "thumb": "/gallery/2025/06/youve-reached-sam.thumb.webp",
+    "width": 647,
+    "height": 1000,
+    "aspect": 0.647,
+    "usedBy": [
+      "page:books"
+    ]
+  },
+  "2025/07/img_0020-1-e1757480572238.jpeg": {
+    "full": "/gallery/2025/07/img_0020-1-e1757480572238.webp",
+    "tex": "/gallery/2025/07/img_0020-1-e1757480572238.tex.webp",
+    "thumb": "/gallery/2025/07/img_0020-1-e1757480572238.thumb.webp",
+    "width": 1102,
+    "height": 1102,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:alcohol-for-thought"
+    ]
+  },
+  "2025/07/img_9630.jpeg": {
+    "full": "/gallery/2025/07/img_9630.webp",
+    "tex": "/gallery/2025/07/img_9630.tex.webp",
+    "thumb": "/gallery/2025/07/img_9630.thumb.webp",
+    "width": 1200,
+    "height": 1200,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:first-of-many-soc-post"
+    ]
+  },
+  "2025/09/birthday-e1758701543231.jpg": {
+    "full": "/gallery/2025/09/birthday-e1758701543231.webp",
+    "tex": "/gallery/2025/09/birthday-e1758701543231.tex.webp",
+    "thumb": "/gallery/2025/09/birthday-e1758701543231.thumb.webp",
+    "width": 736,
+    "height": 736,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:21-before-21"
+    ]
+  },
+  "2025/09/thought-e1758086074247.jpg": {
+    "full": "/gallery/2025/09/thought-e1758086074247.webp",
+    "tex": "/gallery/2025/09/thought-e1758086074247.tex.webp",
+    "thumb": "/gallery/2025/09/thought-e1758086074247.thumb.webp",
+    "width": 720,
+    "height": 720,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:soc-3-on-thinking-or-lack-thereof"
+    ]
+  },
+  "2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.jpeg": {
+    "full": "/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.webp",
+    "tex": "/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.tex.webp",
+    "thumb": "/gallery/2025/09/whatsapp-image-2025-09-10-at-1.00.16-pm-e1757480456447.thumb.webp",
+    "width": 1200,
+    "height": 1200,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:soc-2"
+    ]
+  },
+  "2025/10/buddha-pink-color-e1761125080380.jpg": {
+    "full": "/gallery/2025/10/buddha-pink-color-e1761125080380.webp",
+    "tex": "/gallery/2025/10/buddha-pink-color-e1761125080380.tex.webp",
+    "thumb": "/gallery/2025/10/buddha-pink-color-e1761125080380.thumb.webp",
+    "width": 641,
+    "height": 641,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:buddhism-heartbreak-etc"
+    ]
+  },
+  "2025/10/mom.png": {
+    "full": "/gallery/2025/10/mom.webp",
+    "tex": "/gallery/2025/10/mom.tex.webp",
+    "thumb": "/gallery/2025/10/mom.thumb.webp",
+    "width": 676,
+    "height": 499,
+    "aspect": 1.3547,
+    "usedBy": [
+      "post:place-people"
+    ]
+  },
+  "2025/10/people.webp": {
+    "full": "/gallery/2025/10/people.webp",
+    "tex": "/gallery/2025/10/people.tex.webp",
+    "thumb": "/gallery/2025/10/people.thumb.webp",
+    "width": 600,
+    "height": 600,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:place-people"
+    ]
+  },
+  "2025/10/whatsapp-image-2025-10-22-at-2.20.35-pm.jpeg": {
+    "full": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.20.35-pm.webp",
+    "tex": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.20.35-pm.tex.webp",
+    "thumb": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.20.35-pm.thumb.webp",
+    "width": 1129,
+    "height": 862,
+    "aspect": 1.3097,
+    "usedBy": [
+      "post:place-people"
+    ]
+  },
+  "2025/10/whatsapp-image-2025-10-22-at-2.20.36-pm-1.jpeg": {
+    "full": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.20.36-pm-1.webp",
+    "tex": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.20.36-pm-1.tex.webp",
+    "thumb": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.20.36-pm-1.thumb.webp",
+    "width": 1170,
+    "height": 863,
+    "aspect": 1.3557,
+    "usedBy": [
+      "post:place-people"
+    ]
+  },
+  "2025/10/whatsapp-image-2025-10-22-at-2.33.04-pm.jpeg": {
+    "full": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.33.04-pm.webp",
+    "tex": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.33.04-pm.tex.webp",
+    "thumb": "/gallery/2025/10/whatsapp-image-2025-10-22-at-2.33.04-pm.thumb.webp",
+    "width": 1147,
+    "height": 857,
+    "aspect": 1.3384,
+    "usedBy": [
+      "post:place-people"
+    ]
+  },
+  "2025/12/img_2182-e1765836518649.jpeg": {
+    "full": "/gallery/2025/12/img_2182-e1765836518649.webp",
+    "tex": "/gallery/2025/12/img_2182-e1765836518649.tex.webp",
+    "thumb": "/gallery/2025/12/img_2182-e1765836518649.thumb.webp",
+    "width": 1400,
+    "height": 1400,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:a-sample-sized-soul"
+    ]
+  },
+  "2025/12/train-2-e1766154030971.jpg": {
+    "full": "/gallery/2025/12/train-2-e1766154030971.webp",
+    "tex": "/gallery/2025/12/train-2-e1766154030971.tex.webp",
+    "thumb": "/gallery/2025/12/train-2-e1766154030971.thumb.webp",
+    "width": 341,
+    "height": 341,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:rewriting-a-classic-journey"
+    ]
+  },
+  "2026/02/edy-and-riva-e1770695622585.jpg": {
+    "full": "/gallery/2026/02/edy-and-riva-e1770695622585.webp",
+    "tex": "/gallery/2026/02/edy-and-riva-e1770695622585.tex.webp",
+    "thumb": "/gallery/2026/02/edy-and-riva-e1770695622585.thumb.webp",
+    "width": 900,
+    "height": 900,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:the-anatomy-of-being-an-absolute"
+    ]
+  },
+  "2026/02/edy-calling-me-chalant.jpg": {
+    "full": "/gallery/2026/02/edy-calling-me-chalant.webp",
+    "tex": "/gallery/2026/02/edy-calling-me-chalant.tex.webp",
+    "thumb": "/gallery/2026/02/edy-calling-me-chalant.thumb.webp",
+    "width": 1169,
+    "height": 1140,
+    "aspect": 1.0254,
+    "usedBy": [
+      "post:the-anatomy-of-being-an-absolute"
+    ]
+  },
+  "2026/02/freud-e1770949083936.webp": {
+    "full": "/gallery/2026/02/freud-e1770949083936.webp",
+    "tex": "/gallery/2026/02/freud-e1770949083936.tex.webp",
+    "thumb": "/gallery/2026/02/freud-e1770949083936.thumb.webp",
+    "width": 910,
+    "height": 910,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:soc-4"
+    ]
+  },
+  "2026/02/image-3.png": {
+    "full": "/gallery/2026/02/image-3.webp",
+    "tex": "/gallery/2026/02/image-3.tex.webp",
+    "thumb": "/gallery/2026/02/image-3.thumb.webp",
+    "width": 1400,
+    "height": 1400,
+    "aspect": 1,
+    "usedBy": [
+      "post:soc-4"
+    ]
+  },
+  "2026/02/image-e1770184866461.png": {
+    "full": "/gallery/2026/02/image-e1770184866461.webp",
+    "tex": "/gallery/2026/02/image-e1770184866461.tex.webp",
+    "thumb": "/gallery/2026/02/image-e1770184866461.thumb.webp",
+    "width": 1200,
+    "height": 1200,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:cant-help-falling-in-love"
+    ]
+  },
+  "2026/02/image.png": {
+    "full": "/gallery/2026/02/image.webp",
+    "tex": "/gallery/2026/02/image.tex.webp",
+    "thumb": "/gallery/2026/02/image.thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "aspect": 1.3333,
+    "usedBy": [
+      "post:cant-help-falling-in-love"
+    ]
+  },
+  "2026/02/story.jpg": {
+    "full": "/gallery/2026/02/story.webp",
+    "tex": "/gallery/2026/02/story.tex.webp",
+    "thumb": "/gallery/2026/02/story.thumb.webp",
+    "width": 647,
+    "height": 1400,
+    "aspect": 0.4621,
+    "usedBy": [
+      "post:the-anatomy-of-being-an-absolute"
+    ]
+  },
+  "2026/02/toucan-jacket-1-2.png": {
+    "full": "/gallery/2026/02/toucan-jacket-1-2.webp",
+    "tex": "/gallery/2026/02/toucan-jacket-1-2.tex.webp",
+    "thumb": "/gallery/2026/02/toucan-jacket-1-2.thumb.webp",
+    "width": 650,
+    "height": 567,
+    "aspect": 1.1464,
+    "usedBy": [
+      "page:customs"
+    ]
+  },
+  "2026/04/camping-e1775445125212.jpg": {
+    "full": "/gallery/2026/04/camping-e1775445125212.webp",
+    "tex": "/gallery/2026/04/camping-e1775445125212.tex.webp",
+    "thumb": "/gallery/2026/04/camping-e1775445125212.thumb.webp",
+    "width": 1150,
+    "height": 1150,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:soc-5-i-hate-camping"
+    ]
+  },
+  "2026/04/riva-art-2.jpg": {
+    "full": "/gallery/2026/04/riva-art-2.webp",
+    "tex": "/gallery/2026/04/riva-art-2.tex.webp",
+    "thumb": "/gallery/2026/04/riva-art-2.thumb.webp",
+    "width": 1004,
+    "height": 1024,
+    "aspect": 0.9805,
+    "usedBy": [
+      "page:about-me"
+    ]
+  },
+  "2026/04/riva-grad-2.jpg": {
+    "full": "/gallery/2026/04/riva-grad-2.webp",
+    "tex": "/gallery/2026/04/riva-grad-2.tex.webp",
+    "thumb": "/gallery/2026/04/riva-grad-2.thumb.webp",
+    "width": 933,
+    "height": 1400,
+    "aspect": 0.6664,
+    "usedBy": [
+      "page:about-me"
+    ]
+  },
+  "2026/04/stars.jpg": {
+    "full": "/gallery/2026/04/stars.webp",
+    "tex": "/gallery/2026/04/stars.tex.webp",
+    "thumb": "/gallery/2026/04/stars.thumb.webp",
+    "width": 788,
+    "height": 1400,
+    "aspect": 0.5629,
+    "usedBy": [
+      "post:soc-5-i-hate-camping"
+    ]
+  },
+  "2026/04/sweet-e1775446739724.jpg": {
+    "full": "/gallery/2026/04/sweet-e1775446739724.webp",
+    "tex": "/gallery/2026/04/sweet-e1775446739724.tex.webp",
+    "thumb": "/gallery/2026/04/sweet-e1775446739724.thumb.webp",
+    "width": 1000,
+    "height": 1000,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:im-a-big-fan-of-sweet-things"
+    ]
+  },
+  "2026/05/detachment.jpg": {
+    "full": "/gallery/2026/05/detachment.webp",
+    "tex": "/gallery/2026/05/detachment.tex.webp",
+    "thumb": "/gallery/2026/05/detachment.thumb.webp",
+    "width": 640,
+    "height": 640,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:my-parents-house"
+    ]
+  },
+  "2026/06/strawberry-bellini-10-of-19-e1781577760305.jpg": {
+    "full": "/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.webp",
+    "tex": "/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.tex.webp",
+    "thumb": "/gallery/2026/06/strawberry-bellini-10-of-19-e1781577760305.thumb.webp",
+    "width": 1200,
+    "height": 1200,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:soc-6"
+    ]
+  },
+  "2026/09/images.jpg": {
+    "full": "/gallery/2026/09/images.webp",
+    "tex": "/gallery/2026/09/images.tex.webp",
+    "thumb": "/gallery/2026/09/images.thumb.webp",
+    "width": 512,
+    "height": 512,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:something-to-believe-in"
+    ]
+  },
+  "2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.jpg": {
+    "full": "/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.webp",
+    "tex": "/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.tex.webp",
+    "thumb": "/gallery/2026/10/919nhdna-gl._ac_uf8941000_ql80_-e1791240621742.thumb.webp",
+    "width": 888,
+    "height": 888,
+    "aspect": 1,
+    "usedBy": [
+      "page:193-2",
+      "page:blog",
+      "post:unreliable-narrator"
+    ]
+  },
+  "2026/10/signature.png": {
+    "full": "/gallery/2026/10/signature.webp",
+    "tex": "/gallery/2026/10/signature.tex.webp",
+    "thumb": "/gallery/2026/10/signature.thumb.webp",
+    "width": 818,
+    "height": 198,
+    "aspect": 4.1313,
+    "usedBy": [
+      "post:unreliable-narrator"
+    ]
+  }
+}

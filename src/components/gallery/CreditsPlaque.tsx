@@ -123,28 +123,25 @@ export function CreditsPlaque() {
 
       {/* The engraving is only a few pixels tall from across the room, which is
           what keeps it hidden. Once found, this renders at screen resolution so
-          it can actually be read. */}
+          it can actually be read — bare text, no panel, sitting a shade off the
+          wall behind it so it stays part of the room rather than a label on it. */}
       {revealed && (
         <Html center distanceFactor={6} position={[0, 0.34, 0.05]} style={{ pointerEvents: 'none' }}>
           <div
             style={{
               whiteSpace: 'nowrap',
-              background: 'rgba(255, 248, 238, 0.94)',
-              border: '1px solid #C9A84C',
-              borderRadius: 2,
-              padding: '6px 10px',
               fontFamily: "'Libre Franklin', sans-serif",
               fontSize: 11,
               letterSpacing: '0.08em',
-              color: '#2A1E14',
+              color: '#8A7A60',
               textAlign: 'center',
-              lineHeight: 1.5,
+              lineHeight: 1.6,
             }}
           >
             built by laluboom &amp; his claude
             <br />
-            <span style={{ color: '#501511' }}>
-              {armedNow ? 'tap again to visit stalklalu.com ↗' : 'stalklalu.com ↗'}
+            <span style={{ color: '#7E7058' }}>
+              {armedNow ? 'tap again to visit stalklalu.com' : 'stalklalu.com'}
             </span>
           </div>
         </Html>

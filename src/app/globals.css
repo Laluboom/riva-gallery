@@ -168,3 +168,9 @@ canvas {
 .prose-riva li:has(> img) {
   list-style: none;
 }
+
+/* The gallery owns two-finger gestures: without this the browser pinch-zooms
+   the page instead of the view. */
+canvas {
+  touch-action: none;
+}

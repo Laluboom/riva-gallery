@@ -1,10 +1,27 @@
 'use client'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { ThreeEvent } from '@react-three/fiber'
-import { Html, Text } from '@react-three/drei'
+import { Text } from '@react-three/drei'
 import { ROOM_DEPTH, ROOM_WIDTH } from '@/data/content'
 
 const CREDIT_URL = 'https://stalklalu.com'
+
+/**
+ * At rest the engraving is the wall colour (#FFF8EE) taken a few percent down,
+ * with no plate behind it: close enough to read as a shadow in the plaster,
+ * far enough that a careful look picks it out.
+ */
+const RESTING_INK = '#F3E9D9'
+
+/**
+ * What the engraving darkens to once found. Deep enough to read against the
+ * plaster, short of black: a plaque is cut into a wall, not printed on it, and
+ * full black would read as a label stuck on top.
+ */
+const FOUND_INK = '#6E5F49'
+
+/** Matches GalleryRoom's wall material, so the text shades with the wall. */
+const WALL_ROUGHNESS = 0.85
 
 /** How long a tap-revealed label stays up before hiding itself again. */
 const TOUCH_REVEAL_MS = 5000
@@ -23,14 +40,11 @@ const TOUCH_REVEAL_MS = 5000
 export function CreditsPlaque() {
   const [revealed, setRevealed] = useState(false)
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
-  // Touch has no hover, so the first tap stands in for it. Kept in both a ref
-  // and state: the handlers need the value synchronously, the label needs a
-  // render when it changes.
+  // Touch has no hover, so the first tap stands in for it. A ref is enough:
+  // nothing rendered depends on it, only the handlers read it.
   const armed = useRef(false)
-  const [armedNow, setArmedNow] = useState(false)
   const setArmed = useCallback((v: boolean) => {
     armed.current = v
-    setArmedNow(v)
   }, [])
 
   useEffect(() => () => {
@@ -76,7 +90,7 @@ export function CreditsPlaque() {
 
   return (
     <group
-      position={[ROOM_WIDTH * 0.437, 0.62, -ROOM_DEPTH * 0.62]}
+      position={[ROOM_WIDTH / 2, 0.62, -ROOM_DEPTH * 0.62]}
       rotation={[0, -Math.PI / 2, 0]}
       onPointerEnter={() => setRevealed(true)}
       onPointerLeave={() => {
@@ -91,61 +105,39 @@ export function CreditsPlaque() {
         <planeGeometry args={[1.9, 1.1]} />
       </mesh>
 
-      <mesh>
-        <planeGeometry args={[0.62, 0.16]} />
-        <meshStandardMaterial
-          color={revealed ? '#C9A84C' : '#E6DCC6'}
-          roughness={revealed ? 0.3 : 0.75}
-          metalness={revealed ? 0.6 : 0.15}
-        />
-      </mesh>
       <Text
         position={[0, 0.028, 0.002]}
         fontSize={0.038}
-        color={revealed ? '#2A1E14' : '#9A8A6A'}
         anchorX="center"
         anchorY="middle"
         letterSpacing={0.04}
         font="/fonts/PlayfairDisplay-Regular.ttf"
       >
         built by laluboom &amp; his claude
+        {/* Lit like the wall it sits on, so the engraving keeps the same
+            offset from the plaster under every light in the room — faint at
+            rest, and still part of the wall once it darkens. */}
+        <meshStandardMaterial
+          color={revealed ? FOUND_INK : RESTING_INK}
+          roughness={WALL_ROUGHNESS}
+          metalness={0}
+        />
       </Text>
       <Text
         position={[0, -0.035, 0.002]}
         fontSize={0.028}
-        color={revealed ? '#501511' : '#A89878'}
         anchorX="center"
         anchorY="middle"
         letterSpacing={0.06}
       >
         stalklalu.com
+        <meshStandardMaterial
+          color={revealed ? FOUND_INK : RESTING_INK}
+          roughness={WALL_ROUGHNESS}
+          metalness={0}
+        />
       </Text>
 
-      {/* The engraving is only a few pixels tall from across the room, which is
-          what keeps it hidden. Once found, this renders at screen resolution so
-          it can actually be read — bare text, no panel, sitting a shade off the
-          wall behind it so it stays part of the room rather than a label on it. */}
-      {revealed && (
-        <Html center distanceFactor={6} position={[0, 0.34, 0.05]} style={{ pointerEvents: 'none' }}>
-          <div
-            style={{
-              whiteSpace: 'nowrap',
-              fontFamily: "'Libre Franklin', sans-serif",
-              fontSize: 11,
-              letterSpacing: '0.08em',
-              color: '#8A7A60',
-              textAlign: 'center',
-              lineHeight: 1.6,
-            }}
-          >
-            built by laluboom &amp; his claude
-            <br />
-            <span style={{ color: '#7E7058' }}>
-              {armedNow ? 'tap again to visit stalklalu.com' : 'stalklalu.com'}
-            </span>
-          </div>
-        </Html>
-      )}
     </group>
   )
 }

@@ -3,6 +3,21 @@ import { Exhibit } from '@/types'
 import { GALLERY_ROOMS } from '@/data/content'
 
 /**
+ * Zoom bounds. 1 keeps the room's designed framing; 3.5 is tight enough to read
+ * a plaque from across the room without the walls losing their straight edges,
+ * which a narrower lens starts to do.
+ */
+/**
+ * How far the gaze tilts from level, in radians — about 34 degrees. Enough to
+ * take in a tall canvas or the parquet underfoot without the room's verticals
+ * skewing far enough to look like a fisheye.
+ */
+const PITCH_LIMIT = 0.6
+
+const MIN_ZOOM = 1
+const MAX_ZOOM = 3.5
+
+/**
  * Where the visitor had got to, remembered for this tab only.
  *
  * sessionStorage rather than localStorage on purpose: coming back from an
@@ -49,11 +64,17 @@ interface GalleryStore {
   progress: number
   isDragging: boolean
   lookAngle: number
+  /** Vertical gaze, in radians: positive looks up at the ceiling. */
+  lookPitch: number
+  /** Magnification of the view: 1 is the room's own framing, higher is closer. */
+  zoom: number
   hasEntered: boolean
   setCurrentRoom: (room: number) => void
   setActiveExhibit: (exhibit: Exhibit | null) => void
   setProgress: (p: number) => void
   setLookAngle: (a: number) => void
+  setLookPitch: (p: number) => void
+  setZoom: (z: number) => void
   setHasEntered: (v: boolean) => void
   setIsLoading: (v: boolean) => void
   nextRoom: () => void
@@ -69,6 +90,8 @@ export const useGalleryStore = create<GalleryStore>((set, get) => ({
   progress: 0,
   isDragging: false,
   lookAngle: 0,
+  lookPitch: 0,
+  zoom: 1,
   hasEntered: false,
 
   setCurrentRoom: (room) => {
@@ -79,6 +102,8 @@ export const useGalleryStore = create<GalleryStore>((set, get) => ({
   setActiveExhibit: (exhibit) => set({ activeExhibit: exhibit }),
   setProgress: (p) => set({ progress: p }),
   setLookAngle: (a) => set({ lookAngle: a }),
+  setLookPitch: (p) => set({ lookPitch: Math.max(-PITCH_LIMIT, Math.min(PITCH_LIMIT, p)) }),
+  setZoom: (z) => set({ zoom: Math.max(MIN_ZOOM, Math.min(MAX_ZOOM, z)) }),
   setHasEntered: (v) => {
     set({ hasEntered: v })
     saveVisit({ entered: v, room: get().currentRoom })
